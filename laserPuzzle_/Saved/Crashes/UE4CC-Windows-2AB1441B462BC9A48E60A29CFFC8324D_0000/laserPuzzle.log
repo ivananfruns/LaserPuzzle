@@ -1,0 +1,813 @@
+﻿Log file open, 12/17/19 17:50:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: laserPuzzle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098774
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.17-16.50.10:438][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:443][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-16.50.10:443][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-16.50.10:444][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-16.50.10:444][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-16.50.10:444][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.17-16.50.10:448][  0]LogHAL: Display: Platform has ~ 16 GB [17114763264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.17-16.50.10:448][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.17-16.50.10:448][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-16.50.10:448][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-16.50.10:449][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.17-16.50.10:450][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.17-16.50.10:450][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.17-16.50.10:450][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-16.50.10:450][  0]LogInit: Computer: DESKTOP-6FF6MBF
+[2019.12.17-16.50.10:450][  0]LogInit: User: guill
+[2019.12.17-16.50.10:450][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.17-16.50.10:450][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.17-16.50.10:450][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.17-16.50.10:450][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.17-16.50.10:450][  0]LogMemory: Process Physical Memory: 101.59 MB used, 101.59 MB peak
+[2019.12.17-16.50.10:450][  0]LogMemory: Process Virtual Memory: 104.82 MB used, 104.82 MB peak
+[2019.12.17-16.50.10:450][  0]LogMemory: Physical Memory: 6773.65 MB used,  9548.26 MB free, 16321.91 MB total
+[2019.12.17-16.50.10:450][  0]LogMemory: Virtual Memory: 4659.14 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.17-16.50.10:454][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.17-16.50.10:494][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.17-16.50.10:494][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.17-16.50.10:679][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.17-16.50.10:712][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.17-16.50.10:712][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.17-16.50.11:140][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-16.50.11:140][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.17-16.50.11:229][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.17-16.50.11:229][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.17-16.50.11:232][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.17-16.50.11:232][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.17-16.50.11:233][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.17-16.50.11:242][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.17-16.50.11:242][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.17-16.50.11:242][  0]LogWindows: EnumDisplayDevices:
+[2019.12.17-16.50.11:242][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.17-16.50.11:243][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-16.50.11:243][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-16.50.11:244][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-16.50.11:244][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.17-16.50.11:244][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.17-16.50.11:244][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2019.12.17-16.50.11:244][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2019.12.17-16.50.11:244][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.17-16.50.11:323][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.17-16.50.11:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.17-16.50.11:728][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.17-16.50.11:740][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.17-16.50.11:754][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.17-16.50.11:767][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.17-16.50.11:779][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.17-16.50.11:791][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.17-16.50.11:803][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.17-16.50.11:815][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.17-16.50.11:820][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.17-16.50.11:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.17-16.50.11:857][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.17-16.50.11:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.17-16.50.11:880][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.17-16.50.11:899][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.17-16.50.11:899][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.17-16.50.11:908][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.17-16.50.11:917][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.17-16.50.11:926][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.17-16.50.11:936][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.17-16.50.11:968][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.17-16.50.11:968][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.17-16.50.11:968][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.17-16.50.11:981][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.17-16.50.12:052][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Intermediate/Shaders/WorkingDirectory/4012/).
+[2019.12.17-16.50.12:053][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/guill/AppData/Local/Temp/UnrealShaderWorkingDir/24F7DF5E40A29E3AA586B9AA53C0F396/'.
+[2019.12.17-16.50.12:056][  0]LogXGEController: Cleaning working directory: C:/Users/guill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.17-16.50.12:056][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.17-16.50.12:056][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.17-16.50.12:056][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.17-16.50.12:946][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-16.50.12:996][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.17-16.50.13:007][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.17-16.50.13:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-16.50.13:007][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.17-16.50.13:009][  0]LogDerivedDataCache: Using Local data cache path C:/Users/guill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.17-16.50.13:009][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.17-16.50.13:009][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.17-16.50.13:030][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.17-16.50.13:033][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.17-16.50.13:034][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.17-16.50.13:143][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2019.12.17-16.50.13:456][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-16.50.13:642][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.17-16.50.13:642][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.17-16.50.13:642][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.17-16.50.13:642][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.17-16.50.13:642][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.17-16.50.13:654][  0]LogNetVersion: laserPuzzle 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1271788903)
+[2019.12.17-16.50.14:170][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.056470 seconds
+[2019.12.17-16.50.14:178][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.17-16.50.14:178][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.17-16.50.14:178][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.17-16.50.15:719][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.17-16.50.15:723][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.17-16.50.15:807][  0]SourceControl: Source control is disabled
+[2019.12.17-16.50.15:807][  0]SourceControl: Source control is disabled
+[2019.12.17-16.50.15:809][  0]SourceControl: Source control is disabled
+[2019.12.17-16.50.15:810][  0]SourceControl: Source control is disabled
+[2019.12.17-16.50.15:924][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.17-16.50.16:242][  0]LogOcInput: OculusInput pre-init called
+[2019.12.17-16.50.16:251][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.17-16.50.16:251][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.17-16.50.16:353][  0]LogEngine: Initializing Engine...
+[2019.12.17-16.50.16:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-16.50.16:354][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.17-16.50.16:593][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.17-16.50.16:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.17-16.50.16:667][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-16.50.16:703][  0]LogInit: FAudioDevice initialized.
+[2019.12.17-16.50.16:704][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.17-16.50.16:898][  0]LogDerivedDataCache: Saved boot cache 0.19s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-16.50.16:907][  0]LogInit: Texture streaming: Enabled
+[2019.12.17-16.50.16:938][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.17-16.50.16:939][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.17-16.50.16:947][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.17-16.50.17:042][  0]LogInit: Transaction tracking system initialized
+[2019.12.17-16.50.17:111][  0]BlueprintLog: New page: Editor Load
+[2019.12.17-16.50.17:229][  0]LocalizationService: Localization service is disabled
+[2019.12.17-16.50.17:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.17-16.50.17:522][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.17-16.50.17:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/' took 0.02s
+[2019.12.17-16.50.17:843][  0]SourceControl: Source control is disabled
+[2019.12.17-16.50.17:843][  0]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-16.50.17:844][  0]LightingResults: New page: Lighting Build
+[2019.12.17-16.50.17:848][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-16.50.17:848][  0]MapCheck: New page: Map Check
+[2019.12.17-16.50.17:848][  0]LightingResults: New page: Lighting Build
+[2019.12.17-16.50.17:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.17-16.50.18:011][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/receptor.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:011][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Materials/laser.laser Referenced by laserCollider_GEN_VARIABLE
+[2019.12.17-16.50.18:011][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/receptor.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:012][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Materials/laser.laser Referenced by laserCollider_GEN_VARIABLE
+[2019.12.17-16.50.18:245][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:245][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:245][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:245][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:282][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:282][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:284][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.18:284][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-16.50.19:930][  0]LogTexture: Display: Building textures: EKeyIcon (BGRA8, 191X187)
+[2019.12.17-16.50.19:930][  0]LogTexture: Display: Building textures: mouseLClick (AutoDXT, 512X512)
+[2019.12.17-16.50.20:217][  0]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-16.50.20:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-16.50.20:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.17-16.50.20:520][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-16.50.20:521][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.354ms to complete.
+[2019.12.17-16.50.20:521][  0]LogFileHelpers: Loading map 'LevelDesignTest' took 2.678
+[2019.12.17-16.50.20:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.50.20:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.50.20:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.50.20:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.50.20:657][  0]LogCollectionManager: Loaded 0 collections in 0.002996 seconds
+[2019.12.17-16.50.20:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Collections/' took 0.00s
+[2019.12.17-16.50.20:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Developers/guill/Collections/' took 0.00s
+[2019.12.17-16.50.20:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Collections/' took 0.00s
+[2019.12.17-16.50.20:665][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.17-16.50.20:673][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2863 classes and 680 folders.
+[2019.12.17-16.50.20:682][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-16.50.20:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-16.50.20:833][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.17-16.50.20:959][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.17-16.50.20:962][  0]LogSlate: Took 0.000476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.17-16.50.20:967][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.17-16.50.21:042][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-16.50.21:179][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.17-16.50.21:179][  0]LogLoad: (Engine Initialization) Total time: 14.49 seconds
+[2019.12.17-16.50.21:179][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.17-16.50.21:256][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.17-16.50.21:261][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.17-16.50.21:303][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-16.50.21:360][  1]LogAssetRegistry: Asset discovery search completed in 8.2165 seconds
+[2019.12.17-16.50.21:363][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.17-16.50.21:363][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2019.12.17-16.50.26:790][ 21]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-16.50.26:795][ 21]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-16.51.21:189][489]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={FA3F968B-4F7D-81AA-95E1-B4A2359E663F}
+[2019.12.17-16.53.05:150][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-16.53.08:682][210]LogSlate: Took 0.000452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-16.53.08:691][210]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.17-16.53.08:959][210]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.17-16.53.09:905][210]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.17-16.53.11:246][211]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.17-16.53.16:162][632]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-16.53.16:192][632]LogAssetEditorManager: Opening Asset editor for World /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.17-16.53.16:230][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.17-16.53.16:231][632]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-16.53.16:232][632]LightingResults: New page: Lighting Build
+[2019.12.17-16.53.16:232][632]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.12.17-16.53.16:241][632]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-16.53.16:244][632]MapCheck: New page: Map Check
+[2019.12.17-16.53.16:244][632]LightingResults: New page: Lighting Build
+[2019.12.17-16.53.16:286][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.12.17-16.53.16:439][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-16.53.16:470][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.12.17-16.53.16:494][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-16.53.16:494][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2019.12.17-16.53.16:494][632]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.265
+[2019.12.17-16.53.22:929][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-16.53.23:003][849]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-16.53.23:147][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.53.23:147][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-16.53.23:147][849]PIE: New page: PIE session: FirstPersonExampleMap (Dec 17, 2019, 6:53:23 PM)
+[2019.12.17-16.53.23:148][849]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.17-16.53.23:149][849]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-16.53.23:171][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021370s)
+[2019.12.17-16.53.23:172][849]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-16.53.23:172][849]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2019.12.17-16.53.23:172][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023128s)
+[2019.12.17-16.53.23:205][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.17-16.53.23:251][849]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-16.53.23:275][849]LogInit: FAudioDevice initialized.
+[2019.12.17-16.53.23:285][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.53.23:287][849]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-16.53.23:290][849]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-17.53.23
+[2019.12.17-16.53.23:291][849]LogWorld: Bringing up level for play took: 0.002771
+[2019.12.17-16.53.23:291][849]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.17-16.53.23:303][849]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.17-16.53.23:304][849]Cmd: stat fps
+[2019.12.17-16.53.23:310][849]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap -0.567
+[2019.12.17-16.53.23:310][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.53.23:349][850]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-16.53.34:253][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.53.34:253][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.53.34:253][878]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-16.53.34:266][878]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-16.53.34:271][878]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-16.53.34:283][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-16.53.34:283][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.53.34:370][878]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.17-16.53.34:391][879]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.17-16.53.36:529][120]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.17-16.53.37:620][249]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.17-16.53.38:554][249]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.17-16.56.55:916][413]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.17-16.56.55:923][413]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.17-16.57.05:207][483]LogEditorViewport: Clicking on Actor (LMB): reflector_C (reflector2)
+[2019.12.17-16.57.08:125][817]LogEditorViewport: Clicking on Actor (LMB): normalCube_C (normalCube)
+[2019.12.17-16.57.10:734][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-16.57.10:808][129]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-16.57.10:821][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.57.10:821][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-16.57.10:821][129]PIE: New page: PIE session: FirstPersonExampleMap (Dec 17, 2019, 6:57:10 PM)
+[2019.12.17-16.57.10:821][129]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-16.57.10:844][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023583s)
+[2019.12.17-16.57.10:846][129]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-16.57.10:846][129]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2019.12.17-16.57.10:846][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025127s)
+[2019.12.17-16.57.10:950][129]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2019.12.17-16.57.10:997][129]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-16.57.11:025][129]LogInit: FAudioDevice initialized.
+[2019.12.17-16.57.11:037][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.57.11:038][129]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-16.57.11:041][129]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-17.57.11
+[2019.12.17-16.57.11:042][129]LogWorld: Bringing up level for play took: 0.003216
+[2019.12.17-16.57.11:042][129]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.17-16.57.11:045][129]Cmd: stat fps
+[2019.12.17-16.57.11:049][129]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap 1.171
+[2019.12.17-16.57.11:049][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.57.13:926][410]Cmd: fov 90.14666
+[2019.12.17-16.57.13:934][411]Cmd: fov 90.282867
+[2019.12.17-16.57.13:944][412]Cmd: fov 90.449478
+[2019.12.17-16.57.13:954][413]Cmd: fov 90.642387
+[2019.12.17-16.57.13:963][414]Cmd: fov 90.838936
+[2019.12.17-16.57.13:973][415]Cmd: fov 91.057945
+[2019.12.17-16.57.13:984][416]Cmd: fov 91.311882
+[2019.12.17-16.57.13:995][417]Cmd: fov 91.59053
+[2019.12.17-16.57.14:004][418]Cmd: fov 91.850983
+[2019.12.17-16.57.14:014][419]Cmd: fov 92.111816
+[2019.12.17-16.57.14:023][420]Cmd: fov 92.389084
+[2019.12.17-16.57.14:032][421]Cmd: fov 92.640808
+[2019.12.17-16.57.14:042][422]Cmd: fov 92.932007
+[2019.12.17-16.57.14:053][423]Cmd: fov 93.242531
+[2019.12.17-16.57.14:063][424]Cmd: fov 93.544937
+[2019.12.17-16.57.14:072][425]Cmd: fov 93.815369
+[2019.12.17-16.57.14:081][426]Cmd: fov 94.091682
+[2019.12.17-16.57.14:092][427]Cmd: fov 94.400215
+[2019.12.17-16.57.14:100][428]Cmd: fov 94.65377
+[2019.12.17-16.57.14:110][429]Cmd: fov 94.922211
+[2019.12.17-16.57.14:122][430]Cmd: fov 95.24128
+[2019.12.17-16.57.14:130][431]Cmd: fov 95.470009
+[2019.12.17-16.57.14:141][432]Cmd: fov 95.717567
+[2019.12.17-16.57.14:150][433]Cmd: fov 95.927666
+[2019.12.17-16.57.14:159][434]Cmd: fov 96.131531
+[2019.12.17-16.57.14:169][435]Cmd: fov 96.326385
+[2019.12.17-16.57.14:180][436]Cmd: fov 96.532433
+[2019.12.17-16.57.14:192][437]Cmd: fov 96.722687
+[2019.12.17-16.57.14:201][438]Cmd: fov 96.850708
+[2019.12.17-16.57.14:210][439]Cmd: fov 96.958725
+[2019.12.17-16.57.14:221][440]Cmd: fov 97.0
+[2019.12.17-16.57.14:230][441]Cmd: fov 97.0
+[2019.12.17-16.57.14:240][442]Cmd: fov 97.0
+[2019.12.17-16.57.14:248][443]Cmd: fov 97.0
+[2019.12.17-16.57.14:259][444]Cmd: fov 97.0
+[2019.12.17-16.57.14:268][445]Cmd: fov 97.0
+[2019.12.17-16.57.14:277][446]Cmd: fov 97.0
+[2019.12.17-16.57.14:288][447]Cmd: fov 97.0
+[2019.12.17-16.57.14:296][448]Cmd: fov 97.0
+[2019.12.17-16.57.14:305][449]Cmd: fov 97.0
+[2019.12.17-16.57.14:315][450]Cmd: fov 97.0
+[2019.12.17-16.57.14:326][451]Cmd: fov 97.0
+[2019.12.17-16.57.14:334][452]Cmd: fov 97.0
+[2019.12.17-16.57.14:343][453]Cmd: fov 97.0
+[2019.12.17-16.57.14:352][454]Cmd: fov 97.0
+[2019.12.17-16.57.14:360][455]Cmd: fov 97.0
+[2019.12.17-16.57.14:369][456]Cmd: fov 97.0
+[2019.12.17-16.57.14:379][457]Cmd: fov 97.0
+[2019.12.17-16.57.14:390][458]Cmd: fov 97.0
+[2019.12.17-16.57.14:398][459]Cmd: fov 97.0
+[2019.12.17-16.57.14:408][460]Cmd: fov 97.0
+[2019.12.17-16.57.14:417][461]Cmd: fov 97.0
+[2019.12.17-16.57.14:427][462]Cmd: fov 97.0
+[2019.12.17-16.57.14:436][463]Cmd: fov 97.0
+[2019.12.17-16.57.14:446][464]Cmd: fov 97.0
+[2019.12.17-16.57.14:459][465]Cmd: fov 97.0
+[2019.12.17-16.57.14:469][466]Cmd: fov 97.0
+[2019.12.17-16.57.14:478][467]Cmd: fov 97.0
+[2019.12.17-16.57.14:487][468]Cmd: fov 97.0
+[2019.12.17-16.57.14:497][469]Cmd: fov 97.0
+[2019.12.17-16.57.14:506][470]Cmd: fov 97.0
+[2019.12.17-16.57.14:516][471]Cmd: fov 97.0
+[2019.12.17-16.57.14:527][472]Cmd: fov 97.0
+[2019.12.17-16.57.14:537][473]Cmd: fov 97.0
+[2019.12.17-16.57.14:545][474]Cmd: fov 97.0
+[2019.12.17-16.57.14:555][475]Cmd: fov 97.0
+[2019.12.17-16.57.14:564][476]Cmd: fov 97.0
+[2019.12.17-16.57.14:574][477]Cmd: fov 97.0
+[2019.12.17-16.57.14:584][478]Cmd: fov 97.0
+[2019.12.17-16.57.14:595][479]Cmd: fov 97.0
+[2019.12.17-16.57.14:604][480]Cmd: fov 97.0
+[2019.12.17-16.57.14:615][481]Cmd: fov 97.0
+[2019.12.17-16.57.14:625][482]Cmd: fov 97.0
+[2019.12.17-16.57.14:634][483]Cmd: fov 97.0
+[2019.12.17-16.57.14:644][484]Cmd: fov 97.0
+[2019.12.17-16.57.14:655][485]Cmd: fov 97.0
+[2019.12.17-16.57.14:665][486]Cmd: fov 97.0
+[2019.12.17-16.57.14:675][487]Cmd: fov 97.0
+[2019.12.17-16.57.14:684][488]Cmd: fov 97.0
+[2019.12.17-16.57.14:693][489]Cmd: fov 97.0
+[2019.12.17-16.57.14:703][490]Cmd: fov 97.0
+[2019.12.17-16.57.14:713][491]Cmd: fov 97.0
+[2019.12.17-16.57.14:725][492]Cmd: fov 97.0
+[2019.12.17-16.57.14:736][493]Cmd: fov 97.0
+[2019.12.17-16.57.14:749][494]Cmd: fov 97.0
+[2019.12.17-16.57.14:759][495]Cmd: fov 97.0
+[2019.12.17-16.57.14:769][496]Cmd: fov 97.0
+[2019.12.17-16.57.14:780][497]Cmd: fov 97.0
+[2019.12.17-16.57.14:792][498]Cmd: fov 96.876221
+[2019.12.17-16.57.14:803][499]Cmd: fov 96.717232
+[2019.12.17-16.57.14:813][500]Cmd: fov 96.55616
+[2019.12.17-16.57.14:823][501]Cmd: fov 96.367096
+[2019.12.17-16.57.14:832][502]Cmd: fov 96.17704
+[2019.12.17-16.57.14:842][503]Cmd: fov 95.962555
+[2019.12.17-16.57.14:853][504]Cmd: fov 95.718849
+[2019.12.17-16.57.14:865][505]Cmd: fov 95.430885
+[2019.12.17-16.57.14:875][506]Cmd: fov 95.149429
+[2019.12.17-16.57.14:885][507]Cmd: fov 94.88739
+[2019.12.17-16.57.14:895][508]Cmd: fov 94.598701
+[2019.12.17-16.57.14:905][509]Cmd: fov 94.314674
+[2019.12.17-16.57.14:914][510]Cmd: fov 94.044838
+[2019.12.17-16.57.14:925][511]Cmd: fov 93.726654
+[2019.12.17-16.57.14:934][512]Cmd: fov 93.45005
+[2019.12.17-16.57.14:944][513]Cmd: fov 93.156357
+[2019.12.17-16.57.14:957][514]Cmd: fov 92.872833
+[2019.12.17-16.57.14:967][515]Cmd: fov 92.47007
+[2019.12.17-16.57.14:977][516]Cmd: fov 92.172546
+[2019.12.17-16.57.14:989][517]Cmd: fov 91.846138
+[2019.12.17-16.57.14:999][518]Cmd: fov 91.57431
+[2019.12.17-16.57.15:009][519]Cmd: fov 91.333908
+[2019.12.17-16.57.15:018][520]Cmd: fov 91.116333
+[2019.12.17-16.57.15:027][521]Cmd: fov 90.902092
+[2019.12.17-16.57.15:037][522]Cmd: fov 90.675095
+[2019.12.17-16.57.15:048][523]Cmd: fov 90.467957
+[2019.12.17-16.57.15:061][524]Cmd: fov 90.24929
+[2019.12.17-16.57.15:073][525]Cmd: fov 90.076752
+[2019.12.17-16.57.15:082][526]Cmd: fov 90.0
+[2019.12.17-16.57.22:150][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.57.22:150][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-16.57.22:150][209]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-16.57.22:164][209]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-16.57.22:171][209]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-16.57.22:186][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-16.57.22:186][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-16.57.22:262][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.12.17-16.57.22:280][210]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.17-16.57.24:615][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-16.57.25:827][618]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflector.reflector
+[2019.12.17-16.58.19:787][451]LogEditorTransaction: Undo Move Node
+[2019.12.17-16.58.21:115][481]LogEditorTransaction: Undo Delete current selection
+[2019.12.17-16.58.22:378][505]LogEditorTransaction: Undo Create Pin Link
+[2019.12.17-16.58.55:226][830]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.17-16.58.55:701][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.12.17-17.01.07:054][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.12.17-17.01.07:112][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.17-17.01.07:461][191]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap6A5CE3BE4542D09B75D70B89CB8108D9.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-17.01.07:493][191]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.422
+[2019.12.17-17.01.08:072][191]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter10DDA12B4FFD867D18E3DD90575285DA.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2019.12.17-17.01.08:614][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-17.01.17:860][323]LogUObjectBase: Warning: Object is not registered
+[2019.12.17-17.01.17:896][323]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.17-17.01.21:129][323]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.232 s
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: 
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: Stack: 
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: [Callstack] 0x00007ffdf2fd5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: [Callstack] 0x00007ffdf27f7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: [Callstack] 0x00007ffdf280622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: [Callstack] 0x00007ffde90e6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.17-17.01.21:129][323]LogOutputDevice: Error: [Callstack] 0x00007ffde86c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffde867e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffdfc39d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffdfc58c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3e922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3e5dfa UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3e538e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ff660de8be4 UE4Editor.exe!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ff660dfa91c UE4Editor.exe!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ff660dfa9fa UE4Editor.exe!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ff660e0b92c UE4Editor.exe!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ff660e0e60e UE4Editor.exe!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffe49d57bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: [Callstack] 0x00007ffe4a04ced1 ntdll.dll!UnknownFunction []
+[2019.12.17-17.01.21:130][323]LogOutputDevice: Error: 
+[2019.12.17-17.01.21:144][323]LogStats:                SubmitErrorReport -  0.000 s
