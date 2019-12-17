@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 12/17/19 17:50:10
+=======
+﻿Log file open, 12/17/19 18:23:00
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: laserPuzzle
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.098774
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089989
+>>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,6 +166,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.12.17-16.50.10:438][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.12.17-16.50.10:439][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.12.17-16.50.10:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
@@ -10319,3 +10329,1333 @@ Make sure 'reflectorREIMAGINED_C' has been compiled for  Get User_0
 [2019.12.17-21.23.22:950][508]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.12.17-21.23.22:959][508]LogExit: Exiting.
 [2019.12.17-21.23.23:053][508]Log file closed, 12/17/19 22:23:23
+=======
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.17-17.23.00:803][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.17-17.23.00:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:804][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:808][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-17.23.00:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-17.23.00:809][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-17.23.00:809][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-17.23.00:809][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.17-17.23.00:817][  0]LogHAL: Display: Platform has ~ 8 GB [8550838272 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.17-17.23.00:817][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.17-17.23.00:817][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-17.23.00:817][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-17.23.00:818][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.17-17.23.00:823][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.17-17.23.00:823][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.17-17.23.00:823][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-17.23.00:823][  0]LogInit: Computer: DESKTOP-6JV3N38
+[2019.12.17-17.23.00:823][  0]LogInit: User: Ivan
+[2019.12.17-17.23.00:823][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.17-17.23.00:823][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.17-17.23.00:823][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.12.17-17.23.00:823][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.17-17.23.00:823][  0]LogMemory: Process Physical Memory: 101.73 MB used, 101.74 MB peak
+[2019.12.17-17.23.00:823][  0]LogMemory: Process Virtual Memory: 98.54 MB used, 98.54 MB peak
+[2019.12.17-17.23.00:823][  0]LogMemory: Physical Memory: 5675.41 MB used,  2479.30 MB free, 8154.71 MB total
+[2019.12.17-17.23.00:823][  0]LogMemory: Virtual Memory: 4654.00 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.17-17.23.00:826][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.17-17.23.00:854][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.17-17.23.00:854][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.12.17-17.23.00:854][  0]LogInit: Using OS detected locale (es-ES).
+[2019.12.17-17.23.01:137][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.17-17.23.01:197][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.17-17.23.01:197][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.17-17.23.03:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-17.23.03:108][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.17-17.23.03:189][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.12.17-17.23.03:189][  0]LogD3D11RHI:       4043/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.17-17.23.03:191][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.17-17.23.03:191][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.17-17.23.03:191][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.17-17.23.03:198][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.17-17.23.03:198][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.17-17.23.03:198][  0]LogWindows: EnumDisplayDevices:
+[2019.12.17-17.23.03:199][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.12.17-17.23.03:199][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.12.17-17.23.03:199][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.12.17-17.23.03:199][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.12.17-17.23.03:200][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.17-17.23.03:200][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.12.17-17.23.03:200][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.17-17.23.03:200][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.17-17.23.03:200][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.12.17-17.23.03:233][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.17-17.23.03:249][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.17-17.23.03:605][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.17-17.23.03:613][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.17-17.23.03:622][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.17-17.23.03:630][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.17-17.23.03:643][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.17-17.23.03:651][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.17-17.23.03:660][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.17-17.23.03:668][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.17-17.23.03:672][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.17-17.23.03:708][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.17-17.23.03:710][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.17-17.23.03:734][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.17-17.23.03:734][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.17-17.23.03:747][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.17-17.23.03:747][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.17-17.23.03:754][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.17-17.23.03:761][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.17-17.23.03:768][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.17-17.23.03:776][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.17-17.23.03:802][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.17-17.23.03:802][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.17-17.23.03:802][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.17-17.23.03:812][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.17-17.23.03:867][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Intermediate/Shaders/WorkingDirectory/680/).
+[2019.12.17-17.23.03:868][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivan/AppData/Local/Temp/UnrealShaderWorkingDir/4C7662D44C662E0941F048934F26EA64/'.
+[2019.12.17-17.23.03:870][  0]LogXGEController: Cleaning working directory: C:/Users/Ivan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.17-17.23.03:870][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.17-17.23.03:870][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.17-17.23.03:870][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.17-17.23.05:985][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: Loaded boot cache 0.21s 73MB C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-17.23.06:192][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.17-17.23.06:203][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.17-17.23.06:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-17.23.06:203][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.17-17.23.06:204][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.17-17.23.06:204][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.17-17.23.06:204][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.17-17.23.06:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.17-17.23.06:225][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.17-17.23.06:237][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.17-17.23.06:442][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.12.17-17.23.06:672][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-17.23.06:808][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.17-17.23.06:808][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.17-17.23.06:808][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.17-17.23.06:808][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.17-17.23.06:809][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.17-17.23.06:816][  0]LogNetVersion: laserPuzzle 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1271788903)
+[2019.12.17-17.23.07:216][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048512 seconds
+[2019.12.17-17.23.07:224][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.17-17.23.07:224][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.17-17.23.07:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.17-17.23.09:898][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.17-17.23.09:900][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.17-17.23.09:952][  0]SourceControl: Source control is disabled
+[2019.12.17-17.23.09:952][  0]SourceControl: Source control is disabled
+[2019.12.17-17.23.09:953][  0]SourceControl: Source control is disabled
+[2019.12.17-17.23.09:954][  0]SourceControl: Source control is disabled
+[2019.12.17-17.23.10:116][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.17-17.23.10:238][  0]LogOcInput: OculusInput pre-init called
+[2019.12.17-17.23.10:245][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.17-17.23.10:245][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.17-17.23.10:309][  0]LogEngine: Initializing Engine...
+[2019.12.17-17.23.10:310][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-17.23.10:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.17-17.23.10:509][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.17-17.23.10:524][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.17-17.23.10:554][  0]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.23.10:566][  0]LogInit: FAudioDevice initialized.
+[2019.12.17-17.23.10:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.17-17.23.10:638][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-17.23.10:646][  0]LogInit: Texture streaming: Enabled
+[2019.12.17-17.23.10:665][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.17-17.23.10:665][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.17-17.23.10:666][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.17-17.23.10:729][  0]LogInit: Transaction tracking system initialized
+[2019.12.17-17.23.10:764][  0]BlueprintLog: New page: Editor Load
+[2019.12.17-17.23.10:848][  0]LocalizationService: Localization service is disabled
+[2019.12.17-17.23.11:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/' took 0.01s
+[2019.12.17-17.23.11:084][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.17-17.23.11:084][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.17-17.23.11:398][  0]SourceControl: Source control is disabled
+[2019.12.17-17.23.11:398][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-17.23.11:398][  0]LightingResults: New page: Lighting Build
+[2019.12.17-17.23.11:400][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.23.11:400][  0]MapCheck: New page: Map Check
+[2019.12.17-17.23.11:400][  0]LightingResults: New page: Lighting Build
+[2019.12.17-17.23.11:420][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.17-17.23.11:510][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/receptor.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:510][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Materials/laser.laser Referenced by laserCollider_GEN_VARIABLE
+[2019.12.17-17.23.11:510][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/receptor.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:510][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Materials/laser.laser Referenced by laserCollider_GEN_VARIABLE
+[2019.12.17-17.23.11:634][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:634][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:634][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:634][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/EnhancedCube.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:662][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:662][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:663][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.11:663][  0]LogLinker: Warning: While loading '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/laserBeam.uasset' failed to load '/Game/_LaserPuzzle/Materials/laser': Can't find file.
+[2019.12.17-17.23.13:500][  0]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.23.13:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-17.23.13:725][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.17-17.23.13:725][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-17.23.13:726][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,192ms to complete.
+[2019.12.17-17.23.13:726][  0]LogFileHelpers: Loading map 'LevelDesignTest' took 2.328
+[2019.12.17-17.23.13:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.23.13:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.23.13:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.23.13:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.23.13:860][  0]LogCollectionManager: Loaded 0 collections in 0.001612 seconds
+[2019.12.17-17.23.13:866][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Collections/' took 0.00s
+[2019.12.17-17.23.13:866][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/Developers/Ivan/Collections/' took 0.00s
+[2019.12.17-17.23.13:866][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/Collections/' took 0.00s
+[2019.12.17-17.23.13:866][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.17-17.23.13:873][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2863 classes and 680 folders.
+[2019.12.17-17.23.13:880][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-17.23.14:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-17.23.14:153][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.17-17.23.14:255][  0]LogSlate: Took 0.005890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.17-17.23.14:261][  0]LogSlate: Took 0.004804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.17-17.23.14:269][  0]LogSlate: Took 0.004651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.17-17.23.14:347][  0]LogRenderer: Reallocating scene render targets to support 1796x856 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-17.23.14:468][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-17.23.14:468][  0]LogLoad: (Engine Initialization) Total time: 15.73 seconds
+[2019.12.17-17.23.14:468][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.17-17.23.14:533][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.17-17.23.14:536][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.17-17.23.15:136][  9]LogAssetRegistry: Asset discovery search completed in 8.6937 seconds
+[2019.12.17-17.23.15:138][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.17-17.23.15:138][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2019.12.17-17.23.18:334][149]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-17.23.18:337][149]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-17.23.23:382][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-17.23.23:507][743]LogSlate: Took 0.006045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-17.23.23:514][743]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.23.23:733][743]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.17-17.23.24:744][743]LogSlate: Took 0.005362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.17-17.23.29:277][247]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDropAndConnect.EToDropAndConnect
+[2019.12.17-17.23.31:773][478]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.23.31:777][478]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.23.34:322][765]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToGrab.EToGrab
+[2019.12.17-17.24.19:538][ 91]LogEditorTransaction: Undo Edit Left
+[2019.12.17-17.24.29:568][ 37]LogEditorTransaction: Undo Edit Left
+[2019.12.17-17.25.15:999][360]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.25.16:002][360]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.25.16:004][360]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.16:029][360]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.16:074][360]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.16:096][360]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.17:055][468]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.25.17:074][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.25.17:074][468]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.25.17:082][468]LogPlayLevel: [PlayLevel] Compiling EToDrop before play...
+[2019.12.17-17.25.17:266][468]LogPlayLevel: [PlayLevel] Compiling EToGrab before play...
+[2019.12.17-17.25.17:516][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.17-17.25.17:516][468]LogPlayLevel: PlayLevel: Blueprint regeneration took 442 ms (2 blueprints)
+[2019.12.17-17.25.17:516][468]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:25:17)
+[2019.12.17-17.25.17:517][468]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.17-17.25.17:517][468]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.25.17:815][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.297259s)
+[2019.12.17-17.25.17:815][468]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.25.17:816][468]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2019.12.17-17.25.17:816][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.298587s)
+[2019.12.17-17.25.17:857][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.17-17.25.17:868][468]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.25.17:875][468]LogInit: FAudioDevice initialized.
+[2019.12.17-17.25.17:881][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.25.17:882][468]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.25.17:904][468]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.25.17
+[2019.12.17-17.25.17:906][468]LogWorld: Bringing up level for play took: 0.023233
+[2019.12.17-17.25.17:906][468]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.17-17.25.17:913][468]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.12.17-17.25.17:915][468]Cmd: stat fps
+[2019.12.17-17.25.17:918][468]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 1,379
+[2019.12.17-17.25.17:919][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.25.21:297][828]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.25.21:298][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.25.21:298][828]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.25.21:317][828]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.25.21:320][828]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.21:335][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.25.21:335][828]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.25.21:420][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.17-17.25.21:443][829]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.17-17.25.25:409][103]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.25.29:563][437]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.25.29:566][437]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.25.29:569][437]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.29:573][437]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.25.30:806][576]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToGrab.EToGrab
+[2019.12.17-17.26.01:116][ 17]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.26.01:119][ 17]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.26.01:121][ 17]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.26.01:143][ 17]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.26.02:605][179]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.26.13:210][ 78]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.26.13:213][ 78]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.26.13:216][ 78]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.26.13:239][ 78]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.26.14:208][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.26.14:229][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.26.14:229][185]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.26.14:232][185]LogPlayLevel: [PlayLevel] Compiling EToDrop before play...
+[2019.12.17-17.26.14:424][185]LogPlayLevel: [PlayLevel] Compiling EToGrab before play...
+[2019.12.17-17.26.14:660][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.17-17.26.14:660][185]LogPlayLevel: PlayLevel: Blueprint regeneration took 430 ms (2 blueprints)
+[2019.12.17-17.26.14:660][185]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:26:14)
+[2019.12.17-17.26.14:660][185]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.26.14:958][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.297749s)
+[2019.12.17-17.26.14:959][185]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.26.14:959][185]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.12.17-17.26.14:959][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.298932s)
+[2019.12.17-17.26.14:985][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.17-17.26.14:997][185]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.26.15:004][185]LogInit: FAudioDevice initialized.
+[2019.12.17-17.26.15:010][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.26.15:011][185]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.26.15:032][185]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.26.15
+[2019.12.17-17.26.15:034][185]LogWorld: Bringing up level for play took: 0.022442
+[2019.12.17-17.26.15:034][185]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.17-17.26.15:037][185]Cmd: stat fps
+[2019.12.17-17.26.15:039][185]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,499
+[2019.12.17-17.26.15:041][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.26.23:346][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.26.23:347][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.26.23:347][159]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.26.23:365][159]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.26.23:368][159]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.26.23:380][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.26.23:381][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.26.23:432][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.17-17.26.23:454][160]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.17-17.26.27:963][423]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.27.30:019][990]LogEditorTransaction: Undo Edit Left
+[2019.12.17-17.28.01:878][755]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.28.01:883][755]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.28.01:885][755]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.28.01:907][755]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.28.03:195][898]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToGrab.EToGrab
+[2019.12.17-17.28.13:874][819]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.28.13:877][819]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.28.13:880][819]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.28.13:900][819]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.28.14:659][897]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.28.14:679][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.28.14:679][897]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.28.14:683][897]LogPlayLevel: [PlayLevel] Compiling EToDrop before play...
+[2019.12.17-17.28.14:842][897]LogPlayLevel: [PlayLevel] Compiling EToGrab before play...
+[2019.12.17-17.28.15:026][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.12.17-17.28.15:026][897]LogPlayLevel: PlayLevel: Blueprint regeneration took 346 ms (2 blueprints)
+[2019.12.17-17.28.15:026][897]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:28:15)
+[2019.12.17-17.28.15:026][897]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.28.15:321][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.294789s)
+[2019.12.17-17.28.15:321][897]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.28.15:322][897]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2019.12.17-17.28.15:322][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.295986s)
+[2019.12.17-17.28.15:345][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.17-17.28.15:358][897]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.28.15:364][897]LogInit: FAudioDevice initialized.
+[2019.12.17-17.28.15:370][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.28.15:371][897]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.28.15:394][897]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.28.15
+[2019.12.17-17.28.15:396][897]LogWorld: Bringing up level for play took: 0.024781
+[2019.12.17-17.28.15:396][897]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.17-17.28.15:400][897]Cmd: stat fps
+[2019.12.17-17.28.15:401][897]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,862
+[2019.12.17-17.28.15:401][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.28.55:761][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.28.55:761][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.28.55:761][700]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.28.55:780][700]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.28.55:784][700]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.28.55:800][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.28.55:800][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.28.55:866][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.17-17.28.55:891][701]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.17-17.28.59:682][835]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToGrab.EToGrab
+[2019.12.17-17.29.18:955][635]LogEditorTransaction: Undo Edit Top
+[2019.12.17-17.29.19:339][663]LogEditorTransaction: Undo Edit Top
+[2019.12.17-17.29.24:295][ 99]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.29.24:298][ 99]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.29.24:301][ 99]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.29.24:322][ 99]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.29.25:393][215]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.29.38:982][447]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.29.38:985][447]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.29.38:987][447]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.29.38:989][447]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.29.40:495][616]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToGrab.EToGrab
+[2019.12.17-17.30.08:684][249]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.30.08:688][249]LogSlate: Window 'EToGrab' being destroyed
+[2019.12.17-17.30.08:690][249]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.08:712][249]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.09:965][388]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.30.17:281][ 44]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.30.17:285][ 44]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.30.17:287][ 44]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.17:309][ 44]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.18:154][137]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.30.18:174][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.30.18:174][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.30.18:177][137]LogPlayLevel: [PlayLevel] Compiling EToDrop before play...
+[2019.12.17-17.30.18:338][137]LogPlayLevel: [PlayLevel] Compiling EToGrab before play...
+[2019.12.17-17.30.18:524][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.17-17.30.18:524][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 351 ms (2 blueprints)
+[2019.12.17-17.30.18:524][137]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:30:18)
+[2019.12.17-17.30.18:524][137]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.30.18:818][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.292760s)
+[2019.12.17-17.30.18:819][137]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.30.18:819][137]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2019.12.17-17.30.18:819][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.293955s)
+[2019.12.17-17.30.18:845][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.17-17.30.18:857][137]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.30.18:863][137]LogInit: FAudioDevice initialized.
+[2019.12.17-17.30.18:869][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.30.18:869][137]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.30.18:890][137]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.30.18
+[2019.12.17-17.30.18:893][137]LogWorld: Bringing up level for play took: 0.022967
+[2019.12.17-17.30.18:893][137]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.17-17.30.18:896][137]Cmd: stat fps
+[2019.12.17-17.30.18:898][137]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,359
+[2019.12.17-17.30.18:898][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.30.32:141][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.30.32:142][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.30.32:142][699]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.30.32:160][699]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.30.32:164][699]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.32:180][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.30.32:181][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.30.32:232][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.17-17.30.32:256][700]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.17-17.30.35:715][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.17-17.30.35:730][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/widgets/EToDrop" FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/EToDrop.uasset" SILENT=true
+[2019.12.17-17.30.35:757][102]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/EToDrop697852FD4DA281FA06D4DE8882054E24.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/EToDrop.uasset'
+[2019.12.17-17.30.35:762][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/widgets/EToGrab" FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/EToGrab.uasset" SILENT=true
+[2019.12.17-17.30.35:779][102]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/EToGrab314F9E6F4383ABBFB9912999E3B016EE.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/EToGrab.uasset'
+[2019.12.17-17.30.40:801][684]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/slectSource.slectSource
+[2019.12.17-17.30.59:128][ 77]LogSlate: Window 'slectSource' being destroyed
+[2019.12.17-17.30.59:131][ 77]LogSlate: Window 'slectSource' being destroyed
+[2019.12.17-17.30.59:133][ 77]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.30.59:154][ 77]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.00:160][186]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/selectTarget.selectTarget
+[2019.12.17-17.31.15:127][362]LogSlate: Window 'selectTarget' being destroyed
+[2019.12.17-17.31.15:130][362]LogSlate: Window 'selectTarget' being destroyed
+[2019.12.17-17.31.15:132][362]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.15:154][362]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.17:089][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.31.17:107][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.31.17:107][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.31.17:108][584]LogPlayLevel: [PlayLevel] Compiling selectTarget before play...
+[2019.12.17-17.31.17:260][584]LogPlayLevel: [PlayLevel] Compiling slectSource before play...
+[2019.12.17-17.31.17:444][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.12.17-17.31.17:444][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (2 blueprints)
+[2019.12.17-17.31.17:444][584]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:31:17)
+[2019.12.17-17.31.17:444][584]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.31.17:739][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.295143s)
+[2019.12.17-17.31.17:740][584]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.31.17:740][584]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2019.12.17-17.31.17:740][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.296355s)
+[2019.12.17-17.31.17:766][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.17-17.31.17:778][584]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.31.17:785][584]LogInit: FAudioDevice initialized.
+[2019.12.17-17.31.17:790][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.31.17:791][584]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.31.17:812][584]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.31.17
+[2019.12.17-17.31.17:814][584]LogWorld: Bringing up level for play took: 0.022684
+[2019.12.17-17.31.17:814][584]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.17-17.31.17:817][584]Cmd: stat fps
+[2019.12.17-17.31.17:819][584]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 1,279
+[2019.12.17-17.31.17:820][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.31.31:132][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.31.31:132][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.31.31:132][148]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.31.31:150][148]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.31.31:153][148]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.31:170][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.31.31:171][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.31.31:218][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.17-17.31.31:242][149]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.12.17-17.31.32:322][273]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/selectTarget.selectTarget
+[2019.12.17-17.31.37:169][637]LogSlate: Window 'selectTarget' being destroyed
+[2019.12.17-17.31.37:172][637]LogSlate: Window 'selectTarget' being destroyed
+[2019.12.17-17.31.37:174][637]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.37:177][637]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.31.38:168][747]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/slectSource.slectSource
+[2019.12.17-17.33.15:713][118]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={944558E2-48B9-C7B5-0BA4-B3AD01CC2D4E}
+[2019.12.17-17.33.26:715][359]LogSlate: Window 'slectSource' being destroyed
+[2019.12.17-17.33.26:719][359]LogSlate: Window 'slectSource' being destroyed
+[2019.12.17-17.33.26:721][359]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.33.26:742][359]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.33.27:660][462]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.33.27:679][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.33.27:679][462]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.33.27:679][462]LogPlayLevel: [PlayLevel] Compiling selectTarget before play...
+[2019.12.17-17.33.27:833][462]LogPlayLevel: [PlayLevel] Compiling slectSource before play...
+[2019.12.17-17.33.28:017][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.17-17.33.28:017][462]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (2 blueprints)
+[2019.12.17-17.33.28:017][462]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:33:28)
+[2019.12.17-17.33.28:017][462]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.33.28:314][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.296666s)
+[2019.12.17-17.33.28:315][462]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.33.28:315][462]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2019.12.17-17.33.28:315][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.297891s)
+[2019.12.17-17.33.28:339][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.17-17.33.28:352][462]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.33.28:359][462]LogInit: FAudioDevice initialized.
+[2019.12.17-17.33.28:365][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.33.28:365][462]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.33.28:388][462]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.33.28
+[2019.12.17-17.33.28:389][462]LogWorld: Bringing up level for play took: 0.023739
+[2019.12.17-17.33.28:390][462]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2019.12.17-17.33.28:393][462]Cmd: stat fps
+[2019.12.17-17.33.28:395][462]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest -0,145
+[2019.12.17-17.33.28:395][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.33.46:280][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.33.46:280][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.33.46:280][579]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.33.46:302][579]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.33.46:306][579]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.33.46:320][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.33.46:321][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.33.46:370][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.17-17.33.46:393][580]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.12.17-17.33.53:425][407]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/CantPickLaser.CantPickLaser
+[2019.12.17-17.34.15:209][542]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.17-17.34.17:169][725]LogSlate: Window 'CantPickLaser' being destroyed
+[2019.12.17-17.34.17:172][725]LogSlate: Window 'CantPickLaser' being destroyed
+[2019.12.17-17.34.17:174][725]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.17:197][725]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.18:633][889]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.34.18:652][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.18:652][889]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.34.18:652][889]LogPlayLevel: [PlayLevel] Compiling CantPickLaser before play...
+[2019.12.17-17.34.18:834][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.17-17.34.18:834][889]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2019.12.17-17.34.18:834][889]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:34:18)
+[2019.12.17-17.34.18:834][889]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.34.19:123][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.288810s)
+[2019.12.17-17.34.19:124][889]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.34.19:124][889]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2019.12.17-17.34.19:124][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.290168s)
+[2019.12.17-17.34.19:152][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.12.17-17.34.19:165][889]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.34.19:172][889]LogInit: FAudioDevice initialized.
+[2019.12.17-17.34.19:178][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.34.19:179][889]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.34.19:201][889]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.34.19
+[2019.12.17-17.34.19:203][889]LogWorld: Bringing up level for play took: 0.023542
+[2019.12.17-17.34.19:203][889]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2019.12.17-17.34.19:206][889]Cmd: stat fps
+[2019.12.17-17.34.19:208][889]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,668
+[2019.12.17-17.34.19:208][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.23:376][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.23:376][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.34.23:376][373]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.34.23:395][373]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.34.23:399][373]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.23:415][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.34.23:416][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.23:461][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.17-17.34.23:483][374]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.12.17-17.34.29:044][526]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/CantPickLaser.CantPickLaser
+[2019.12.17-17.34.45:161][ 48]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/EToDrop.EToDrop
+[2019.12.17-17.34.45:405][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.17-17.34.46:490][160]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.34.46:492][160]LogSlate: Window 'EToDrop' being destroyed
+[2019.12.17-17.34.46:493][160]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.46:496][160]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.46:546][160]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.46:549][160]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.48:153][347]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.34.48:172][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.48:172][347]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.34.48:173][347]LogPlayLevel: [PlayLevel] Compiling CantPickLaser before play...
+[2019.12.17-17.34.48:356][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.17-17.34.48:356][347]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (1 blueprints)
+[2019.12.17-17.34.48:356][347]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:34:48)
+[2019.12.17-17.34.48:356][347]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.34.48:649][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293656s)
+[2019.12.17-17.34.48:650][347]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.34.48:650][347]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.12.17-17.34.48:651][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.294933s)
+[2019.12.17-17.34.48:673][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.12.17-17.34.48:686][347]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.34.48:692][347]LogInit: FAudioDevice initialized.
+[2019.12.17-17.34.48:698][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.34.48:698][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.34.48:720][347]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.34.48
+[2019.12.17-17.34.48:722][347]LogWorld: Bringing up level for play took: 0.023569
+[2019.12.17-17.34.48:722][347]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2019.12.17-17.34.48:726][347]Cmd: stat fps
+[2019.12.17-17.34.48:727][347]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,188
+[2019.12.17-17.34.48:727][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.52:993][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.52:993][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.34.52:993][843]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.34.53:011][843]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.34.53:014][843]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.34.53:031][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.34.53:031][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.34.53:075][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.12.17-17.34.53:096][844]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.12.17-17.35.00:426][283]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/_LaserPuzzle/widgets/CantPickLaser.CantPickLaser
+[2019.12.17-17.35.25:061][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.12.17-17.35.25:061][430]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/LevelDesignTest' took 0.034
+[2019.12.17-17.35.25:063][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/widgets/selectTarget] ([1] browsable assets)...
+[2019.12.17-17.35.25:063][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/widgets/selectTarget]
+[2019.12.17-17.35.25:081][430]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/selectTarget_Auto16F69AFD74BE0F55853FA9DA54B55416E.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/widgets/selectTarget_Auto1.uasset'
+[2019.12.17-17.35.25:083][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/widgets/CantPickLaser] ([1] browsable assets)...
+[2019.12.17-17.35.25:083][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/widgets/CantPickLaser]
+[2019.12.17-17.35.25:102][430]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/CantPickLaser_Auto196E6F26F4ED82B13282C6B8CDABB55BB.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/widgets/CantPickLaser_Auto1.uasset'
+[2019.12.17-17.35.25:103][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/widgets/slectSource] ([1] browsable assets)...
+[2019.12.17-17.35.25:103][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/widgets/slectSource]
+[2019.12.17-17.35.25:121][430]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/slectSource_Auto10BC2871740154515311D91B77DE0E1F0.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/widgets/slectSource_Auto1.uasset'
+[2019.12.17-17.35.25:122][430]LogFileHelpers: Auto-saving content packages took 0.061
+[2019.12.17-17.36.39:446][930]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.17-17.36.41:978][154]LogSlate: Window 'CantPickLaser' being destroyed
+[2019.12.17-17.36.41:982][154]LogSlate: Window 'CantPickLaser' being destroyed
+[2019.12.17-17.36.41:984][154]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.36.42:005][154]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.36.43:548][330]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.36.43:566][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.36.43:566][330]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.17-17.36.43:567][330]LogPlayLevel: [PlayLevel] Compiling CantPickLaser before play...
+[2019.12.17-17.36.43:748][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.17-17.36.43:748][330]LogPlayLevel: PlayLevel: Blueprint regeneration took 182 ms (1 blueprints)
+[2019.12.17-17.36.43:748][330]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:36:43)
+[2019.12.17-17.36.43:749][330]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.36.44:047][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.298819s)
+[2019.12.17-17.36.44:048][330]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.36.44:048][330]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.17-17.36.44:049][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.300174s)
+[2019.12.17-17.36.44:078][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.12.17-17.36.44:092][330]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.36.44:099][330]LogInit: FAudioDevice initialized.
+[2019.12.17-17.36.44:106][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.36.44:106][330]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.36.44:129][330]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.36.44
+[2019.12.17-17.36.44:132][330]LogWorld: Bringing up level for play took: 0.024612
+[2019.12.17-17.36.44:132][330]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2019.12.17-17.36.44:136][330]Cmd: stat fps
+[2019.12.17-17.36.44:137][330]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest -0,402
+[2019.12.17-17.36.44:138][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.36.51:249][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.36.51:249][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.36.51:249][160]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.36.51:268][160]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.36.51:271][160]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.36.51:283][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.36.51:284][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.36.51:331][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.12.17-17.36.51:353][161]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.12.17-17.37.01:016][155]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.17-17.37.01:047][156]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.12.17-17.37.01:047][156]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.12.17-17.37.01:047][156]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.17-17.37.01:112][156]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.12.17-17.37.01:112][156]LogMaterial: Warning: /Engine/Transient.Material_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.17-17.37.01:112][156]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2019.12.17-17.37.01:218][157]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.12.17-17.37.02:470][230]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2019.12.17-17.37.02:911][258]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/_LaserPuzzle/Materials/OutLineMaterals/outlineRED.outlineRED
+[2019.12.17-17.37.03:317][258]LogRenderer: Reallocating scene render targets to support 1796x1280 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-17.37.04:755][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2019.12.17-17.37.06:464][545]LogSlate: Window 'outlineRED' being destroyed
+[2019.12.17-17.37.06:466][545]LogSlate: Window 'outlineRED' being destroyed
+[2019.12.17-17.37.06:494][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.17-17.37.06:504][545]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.12.17-17.37.06:536][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.17-17.37.06:593][545]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.07:344][621]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.37.07:367][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.07:367][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-17.37.07:367][621]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:37:07)
+[2019.12.17-17.37.07:367][621]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.07:642][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.12.17-17.37.07:685][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.317813s)
+[2019.12.17-17.37.07:686][621]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.37.07:686][621]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2019.12.17-17.37.07:686][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.319172s)
+[2019.12.17-17.37.07:716][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.17-17.37.07:729][621]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.37.07:737][621]LogInit: FAudioDevice initialized.
+[2019.12.17-17.37.07:743][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.07:743][621]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.37.07:765][621]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.37.07
+[2019.12.17-17.37.07:766][621]LogWorld: Bringing up level for play took: 0.022360
+[2019.12.17-17.37.07:767][621]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2019.12.17-17.37.07:770][621]Cmd: stat fps
+[2019.12.17-17.37.07:772][621]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 1,232
+[2019.12.17-17.37.07:773][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.08:799][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.08:800][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.08:800][726]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.08:819][726]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.37.08:823][726]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.08:835][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.37.08:835][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.08:881][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.12.17-17.37.08:910][727]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.12.17-17.37.10:272][876]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.37.10:293][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.10:293][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-17.37.10:293][876]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:37:10)
+[2019.12.17-17.37.10:293][876]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.10:607][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.314131s)
+[2019.12.17-17.37.10:608][876]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.37.10:608][876]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2019.12.17-17.37.10:608][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.315301s)
+[2019.12.17-17.37.10:636][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.17-17.37.10:649][876]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.37.10:655][876]LogInit: FAudioDevice initialized.
+[2019.12.17-17.37.10:661][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.10:661][876]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.37.10:683][876]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.37.10
+[2019.12.17-17.37.10:685][876]LogWorld: Bringing up level for play took: 0.023609
+[2019.12.17-17.37.10:686][876]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2019.12.17-17.37.10:690][876]Cmd: stat fps
+[2019.12.17-17.37.10:691][876]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,151
+[2019.12.17-17.37.10:692][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.19:580][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.19:581][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.19:581][906]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.19:600][906]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.37.19:603][906]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.19:616][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.37.19:616][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.19:662][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.12.17-17.37.19:684][907]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.12.17-17.37.23:638][ 82]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/_LaserPuzzle/Materials/OutLineMaterals/outlineRED.outlineRED
+[2019.12.17-17.37.27:587][470]LogSlate: Window 'outlineRED' being destroyed
+[2019.12.17-17.37.27:589][470]LogSlate: Window 'outlineRED' being destroyed
+[2019.12.17-17.37.27:617][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.17-17.37.27:625][470]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.12.17-17.37.27:648][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.12.17-17.37.27:677][470]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.28:471][563]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.37.28:490][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.28:490][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-17.37.28:490][563]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:37:28)
+[2019.12.17-17.37.28:491][563]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.28:785][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.294630s)
+[2019.12.17-17.37.28:786][563]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.37.28:786][563]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.12.17-17.37.28:786][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.295949s)
+[2019.12.17-17.37.28:815][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.17-17.37.28:828][563]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.37.28:834][563]LogInit: FAudioDevice initialized.
+[2019.12.17-17.37.28:840][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.28:840][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.37.28:862][563]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.37.28
+[2019.12.17-17.37.28:865][563]LogWorld: Bringing up level for play took: 0.023781
+[2019.12.17-17.37.28:865][563]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2019.12.17-17.37.28:868][563]Cmd: stat fps
+[2019.12.17-17.37.28:870][563]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0,33
+[2019.12.17-17.37.28:870][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.37:724][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.37:724][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.37:724][606]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.37:743][606]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.37.37:746][606]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.37:758][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.37.37:759][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.37:806][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.12.17-17.37.37:828][607]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.12.17-17.37.47:490][730]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-17.37.47:508][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.47:508][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-17.37.47:508][730]PIE: New page: PIE session: LevelDesignTest (17/12/2019 19:37:47)
+[2019.12.17-17.37.47:508][730]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.47:807][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.300068s)
+[2019.12.17-17.37.47:809][730]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-17.37.47:809][730]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2019.12.17-17.37.47:809][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.301661s)
+[2019.12.17-17.37.47:833][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.17-17.37.47:845][730]LogInit: XAudio2 using 'Altavoces (Scarlett 2i4 USB)' : 4 channels at 44.1 kHz using 32 bits per sample (channel mask 0x0)
+[2019.12.17-17.37.47:852][730]LogInit: FAudioDevice initialized.
+[2019.12.17-17.37.47:858][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.47:858][730]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-17.37.47:880][730]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-18.37.47
+[2019.12.17-17.37.47:882][730]LogWorld: Bringing up level for play took: 0.023537
+[2019.12.17-17.37.47:882][730]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2019.12.17-17.37.47:886][730]Cmd: stat fps
+[2019.12.17-17.37.47:888][730]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 1,348
+[2019.12.17-17.37.47:888][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.53:915][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.53:916][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-17.37.53:916][436]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-17.37.53:936][436]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-17.37.53:939][436]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.37.53:955][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-17.37.53:955][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-17.37.54:000][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.12.17-17.37.54:022][437]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.12.17-17.37.56:137][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.17-17.37.58:102][683]LogSlate: Window 'Save Content' being destroyed
+[2019.12.17-17.37.58:157][683]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/outlineREDA65D896F45BD63E156653780CB47FE67.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Materials/OutLineMaterals/outlineRED.uasset'
+[2019.12.17-17.37.58:163][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/widgets/CantPickLaser" FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/CantPickLaser.uasset" SILENT=true
+[2019.12.17-17.37.58:179][683]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/CantPickLaserBAEE19904B12C9114609C08F1CC80A01.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/CantPickLaser.uasset'
+[2019.12.17-17.37.58:188][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/widgets/selectTarget" FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/selectTarget.uasset" SILENT=true
+[2019.12.17-17.37.58:205][683]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/selectTarget236DABC2416AF0837C6130878FFEB83E.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/selectTarget.uasset'
+[2019.12.17-17.37.58:213][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/widgets/slectSource" FILE="../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/slectSource.uasset" SILENT=true
+[2019.12.17-17.37.58:226][683]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Saved/slectSourceC51830674F6BF75B9934568DA0580423.tmp' to '../../../../../../Users/Ivan/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/widgets/slectSource.uasset'
+[2019.12.17-17.37.58:326][683]LogSlate: Window 'laserPuzzle - Unreal Editor' being destroyed
+[2019.12.17-17.37.58:327][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.17-17.37.58:500][684]Cmd: QUIT_EDITOR
+[2019.12.17-17.37.59:389][684]LogExit: Preparing to exit.
+[2019.12.17-17.38.00:371][684]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.38.00:374][684]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.38.00:425][684]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.17-17.38.00:436][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-17.38.00:436][684]LogExit: Editor shut down
+[2019.12.17-17.38.00:436][684]LogExit: Transaction tracking system shut down
+[2019.12.17-17.38.00:682][684]LogExit: Object subsystem successfully closed.
+[2019.12.17-17.38.00:695][684]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.17-17.38.00:723][684]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.17-17.38.00:724][684]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.17-17.38.00:724][684]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.17-17.38.00:724][684]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.17-17.38.00:724][684]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.17-17.38.00:725][684]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.17-17.38.00:726][684]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.17-17.38.00:727][684]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.17-17.38.02:360][684]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.17-17.38.02:361][684]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.17-17.38.02:405][684]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.17-17.38.02:406][684]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.17-17.38.02:406][684]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.17-17.38.02:406][684]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.17-17.38.02:406][684]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.17-17.38.02:412][684]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.17-17.38.02:414][684]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.17-17.38.02:414][684]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.17-17.38.02:414][684]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.17-17.38.02:415][684]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.17-17.38.02:417][684]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.17-17.38.02:652][684]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.17-17.38.02:655][684]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.17-17.38.02:656][684]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.17-17.38.02:757][684]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.17-17.38.02:858][684]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.17-17.38.02:858][684]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.17-17.38.02:859][684]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.17-17.38.02:859][684]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.17-17.38.02:859][684]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.17-17.38.02:859][684]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.17-17.38.02:859][684]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.17-17.38.02:860][684]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.17-17.38.02:860][684]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.17-17.38.02:860][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.17-17.38.02:860][684]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.17-17.38.02:860][684]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.17-17.38.02:862][684]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.17-17.38.02:862][684]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.17-17.38.02:862][684]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.17-17.38.02:862][684]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.17-17.38.02:862][684]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.17-17.38.02:863][684]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.17-17.38.02:864][684]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.17-17.38.02:864][684]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.17-17.38.02:864][684]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.17-17.38.02:864][684]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.17-17.38.02:864][684]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.17-17.38.02:865][684]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.17-17.38.02:948][684]LogDerivedDataCache: Shutdown
+[2019.12.17-17.38.02:948][684]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.17-17.38.02:948][684]LogXGEController: Cleaning working directory: C:/Users/Ivan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.17-17.38.02:950][684]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.17-17.38.02:951][684]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.17-17.38.02:951][684]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.17-17.38.02:951][684]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.17-17.38.02:951][684]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.17-17.38.02:951][684]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.17-17.38.02:952][684]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.17-17.38.02:952][684]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.17-17.38.02:952][684]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.17-17.38.02:952][684]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.17-17.38.02:957][684]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.17-17.38.02:957][684]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.17-17.38.02:958][684]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.17-17.38.02:958][684]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.17-17.38.02:975][684]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.17-17.38.02:975][684]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.17-17.38.02:975][684]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6AA89DB-42D0-81B2-1366-A78F2E4763C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e5135ffc4b11228246f748ac75727ce7%7Cfc5c9666091548c48bec3a3c713d048f%7C88aaece7-e0da-458d-a4e5-9d10fdc9cb3e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.17-17.38.03:008][684]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.17-17.38.03:009][684]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.17-17.38.03:010][684]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.17-17.38.03:011][684]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.17-17.38.03:012][684]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.17-17.38.03:013][684]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.17-17.38.03:013][684]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.17-17.38.03:013][684]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.17-17.38.03:013][684]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.17-17.38.03:015][684]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.17-17.38.03:016][684]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.17-17.38.03:016][684]LogD3D11RHI: Shutdown
+[2019.12.17-17.38.03:016][684]LogD3D11RHI: CleanupD3DDevice
+[2019.12.17-17.38.03:018][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.17-17.38.03:018][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.17-17.38.03:018][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.17-17.38.03:137][684]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.17-17.38.03:143][684]LogExit: Exiting.
+[2019.12.17-17.38.03:154][684]Log file closed, 12/17/19 18:38:03
+>>>>>>> master
