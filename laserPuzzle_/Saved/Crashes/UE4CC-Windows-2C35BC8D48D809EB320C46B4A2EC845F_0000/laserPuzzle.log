@@ -1,0 +1,1330 @@
+﻿Log file open, 12/17/19 22:28:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: laserPuzzle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.100209
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:313][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:317][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-21.28.07:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-21.28.07:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-21.28.07:318][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-21.28.07:318][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.17-21.28.07:322][  0]LogHAL: Display: Platform has ~ 16 GB [17114763264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.17-21.28.07:322][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.17-21.28.07:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-21.28.07:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-21.28.07:323][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.17-21.28.07:324][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.17-21.28.07:324][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.17-21.28.07:324][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2019.12.17-21.28.07:324][  0]LogInit: Computer: DESKTOP-6FF6MBF
+[2019.12.17-21.28.07:324][  0]LogInit: User: guill
+[2019.12.17-21.28.07:324][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.17-21.28.07:324][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.17-21.28.07:324][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.17-21.28.07:324][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.17-21.28.07:324][  0]LogMemory: Process Physical Memory: 101.99 MB used, 101.99 MB peak
+[2019.12.17-21.28.07:324][  0]LogMemory: Process Virtual Memory: 100.73 MB used, 100.73 MB peak
+[2019.12.17-21.28.07:324][  0]LogMemory: Physical Memory: 6766.19 MB used,  9555.72 MB free, 16321.91 MB total
+[2019.12.17-21.28.07:324][  0]LogMemory: Virtual Memory: 4655.14 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.17-21.28.07:328][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.17-21.28.07:366][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.17-21.28.07:366][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.17-21.28.07:536][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.17-21.28.07:572][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.17-21.28.07:572][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.17-21.28.08:000][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-21.28.08:001][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.17-21.28.08:121][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.17-21.28.08:122][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.17-21.28.08:126][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.17-21.28.08:126][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.17-21.28.08:126][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.17-21.28.08:139][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.17-21.28.08:139][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.17-21.28.08:139][  0]LogWindows: EnumDisplayDevices:
+[2019.12.17-21.28.08:139][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.17-21.28.08:140][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-21.28.08:141][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-21.28.08:141][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.17-21.28.08:142][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.17-21.28.08:142][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.17-21.28.08:142][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2019.12.17-21.28.08:142][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2019.12.17-21.28.08:142][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.17-21.28.08:210][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.17-21.28.08:228][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.17-21.28.08:656][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.17-21.28.08:668][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.17-21.28.08:679][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.17-21.28.08:690][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.17-21.28.08:702][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.17-21.28.08:714][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.17-21.28.08:725][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.17-21.28.08:737][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.17-21.28.08:743][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.17-21.28.08:778][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.17-21.28.08:781][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.17-21.28.08:803][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.17-21.28.08:803][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.17-21.28.08:821][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.17-21.28.08:821][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.17-21.28.08:830][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.17-21.28.08:839][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.17-21.28.08:848][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.17-21.28.08:859][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.17-21.28.08:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.17-21.28.08:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.17-21.28.08:892][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.17-21.28.08:906][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.17-21.28.08:976][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Intermediate/Shaders/WorkingDirectory/1404/).
+[2019.12.17-21.28.08:977][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/guill/AppData/Local/Temp/UnrealShaderWorkingDir/62ED8E194C17D4E623FEB99A8614B81D/'.
+[2019.12.17-21.28.08:981][  0]LogXGEController: Cleaning working directory: C:/Users/guill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.17-21.28.08:981][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.17-21.28.08:981][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.17-21.28.08:981][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.17-21.28.09:863][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-21.28.09:912][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.17-21.28.09:923][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.17-21.28.09:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-21.28.09:923][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.17-21.28.09:925][  0]LogDerivedDataCache: Using Local data cache path C:/Users/guill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.17-21.28.09:925][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.17-21.28.09:925][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.17-21.28.09:946][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.17-21.28.09:948][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.17-21.28.09:949][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.17-21.28.10:059][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.12.17-21.28.10:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-21.28.10:536][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.17-21.28.10:536][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.17-21.28.10:536][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.17-21.28.10:536][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.17-21.28.10:536][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.17-21.28.10:547][  0]LogNetVersion: laserPuzzle 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1271788903)
+[2019.12.17-21.28.11:049][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.046930 seconds
+[2019.12.17-21.28.11:055][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.17-21.28.11:055][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.17-21.28.11:055][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.17-21.28.12:793][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.17-21.28.12:797][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.17-21.28.12:865][  0]SourceControl: Source control is disabled
+[2019.12.17-21.28.12:865][  0]SourceControl: Source control is disabled
+[2019.12.17-21.28.12:867][  0]SourceControl: Source control is disabled
+[2019.12.17-21.28.12:869][  0]SourceControl: Source control is disabled
+[2019.12.17-21.28.12:985][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.17-21.28.13:330][  0]LogOcInput: OculusInput pre-init called
+[2019.12.17-21.28.13:339][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.17-21.28.13:339][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.17-21.28.13:419][  0]LogEngine: Initializing Engine...
+[2019.12.17-21.28.13:420][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-21.28.13:421][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.17-21.28.13:710][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.17-21.28.13:740][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.17-21.28.13:798][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-21.28.13:833][  0]LogInit: FAudioDevice initialized.
+[2019.12.17-21.28.13:833][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.17-21.28.14:035][  0]LogDerivedDataCache: Saved boot cache 0.20s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.17-21.28.14:040][  0]LogInit: Texture streaming: Enabled
+[2019.12.17-21.28.14:077][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.17-21.28.14:077][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.17-21.28.14:087][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.17-21.28.14:145][  0]LogInit: Transaction tracking system initialized
+[2019.12.17-21.28.14:189][  0]BlueprintLog: New page: Editor Load
+[2019.12.17-21.28.14:299][  0]LocalizationService: Localization service is disabled
+[2019.12.17-21.28.14:622][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.17-21.28.14:622][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.17-21.28.14:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/' took 0.02s
+[2019.12.17-21.28.14:923][  0]SourceControl: Source control is disabled
+[2019.12.17-21.28.14:923][  0]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-21.28.14:923][  0]LightingResults: New page: Lighting Build
+[2019.12.17-21.28.14:927][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.28.14:927][  0]MapCheck: New page: Map Check
+[2019.12.17-21.28.14:927][  0]LightingResults: New page: Lighting Build
+[2019.12.17-21.28.14:951][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.12.17-21.28.15:761][  0]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "User_0" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get User_0
+[2019.12.17-21.28.15:761][  0]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "User_0" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get User_0
+[2019.12.17-21.28.15:823][  0]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  User 0  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-21.28.15:823][  0]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  User 0  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-21.28.16:875][  0]LogTexture: Display: Building textures: EKeyIcon (BGRA8, 197X194)
+[2019.12.17-21.28.16:875][  0]LogTexture: Display: Building textures: mouseLClick (AutoDXT, 512X512)
+[2019.12.17-21.28.17:058][  0]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-21.28.17:270][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-21.28.17:351][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.17-21.28.17:352][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-21.28.17:352][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2019.12.17-21.28.17:352][  0]LogFileHelpers: Loading map 'LevelDesignTest' took 2.428
+[2019.12.17-21.28.17:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.28.17:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.28.17:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.28.17:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.28.17:500][  0]LogCollectionManager: Loaded 0 collections in 0.003104 seconds
+[2019.12.17-21.28.17:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Collections/' took 0.00s
+[2019.12.17-21.28.17:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Developers/guill/Collections/' took 0.00s
+[2019.12.17-21.28.17:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Collections/' took 0.00s
+[2019.12.17-21.28.17:507][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.17-21.28.17:516][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2863 classes and 680 folders.
+[2019.12.17-21.28.17:525][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.17-21.28.17:671][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.17-21.28.17:678][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.17-21.28.17:806][  0]LogSlate: Took 0.000449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.17-21.28.17:808][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.17-21.28.17:813][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.17-21.28.17:889][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-21.28.18:037][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.17-21.28.18:037][  0]LogLoad: (Engine Initialization) Total time: 14.69 seconds
+[2019.12.17-21.28.18:037][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.17-21.28.18:138][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.17-21.28.18:173][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-21.28.18:232][  1]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.17-21.28.18:280][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.12.17-21.28.18:280][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.17-21.28.18:280][  1]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.12.17-21.28.18:280][  1]LogAssetRegistry: Asset discovery search completed in 8.2229 seconds
+[2019.12.17-21.28.18:284][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.17-21.28.18:284][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.12.17-21.28.18:372][  2]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.12.17-21.28.18:372][  2]LogMaterial: Warning: /Engine/Transient.Material_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.17-21.28.18:372][  2]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2019.12.17-21.28.18:502][  3]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.12.17-21.28.18:507][  3]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.17-21.28.19:327][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.17-21.28.19:532][ 55]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.12.17-21.28.19:583][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.17-21.30.09:071][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.30.18:682][521]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-21.30.18:691][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflector.reflector
+[2019.12.17-21.30.18:951][521]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.17-21.30.19:913][521]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.17-21.30.20:601][522]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.17-21.30.54:873][ 92]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED
+[2019.12.17-21.33.19:063][743]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={BA3BEE49-4102-6A77-3BC9-038437C5254C}
+[2019.12.17-21.36.51:886][765]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.17-21.38.18:480][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.17-21.38.18:480][268]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/LevelDesignTest' took 0.042
+[2019.12.17-21.38.18:482][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_LaserPuzzle/BPs/reflectorREIMAGINED] ([1] browsable assets)...
+[2019.12.17-21.38.18:501][268]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED]
+[2019.12.17-21.38.18:501][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/BPs/reflectorREIMAGINED]
+[2019.12.17-21.38.18:675][268]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED_Auto17D14BA35418CA549AC99489598E8B8DF.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/BPs/reflectorREIMAGINED_Auto1.uasset'
+[2019.12.17-21.38.18:678][268]LogFileHelpers: Auto-saving content packages took 0.197
+[2019.12.17-21.46.06:547][458]LogEditorTransaction: Undo Delete current selection
+[2019.12.17-21.50.04:831][835]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.17-21.50.10:339][147]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-21.50.10:361][147]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "User_0" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get User_0
+[2019.12.17-21.50.10:361][147]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "User_0" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get User_0
+[2019.12.17-21.50.10:366][147]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  User 0  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-21.50.10:366][147]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  User 0  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-21.50.10:655][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.17-21.51.31:513][ 31]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(327)].
+[2019.12.17-21.51.31:583][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.17-21.51.31:583][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/LevelDesignTest' took 0.040
+[2019.12.17-21.51.31:585][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_LaserPuzzle/BPs/reflectorREIMAGINED] ([1] browsable assets)...
+[2019.12.17-21.51.31:597][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED]
+[2019.12.17-21.51.31:597][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/BPs/reflectorREIMAGINED]
+[2019.12.17-21.51.31:772][ 31]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED_Auto23F3B296640D9AD7053EA15B1FBCDDF66.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/BPs/reflectorREIMAGINED_Auto2.uasset'
+[2019.12.17-21.51.31:775][ 31]LogFileHelpers: Auto-saving content packages took 0.190
+[2019.12.17-21.51.34:262][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.52.45:053][116]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-21.52.45:351][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.17-21.52.46:659][163]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.17-21.52.46:686][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-21.52.46:866][163]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED18B486D94F917ECFB4EEE8AF6E00B92E.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-21.52.54:953][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.55.16:588][ 79]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-21.55.16:876][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.17-21.55.18:273][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.17-21.55.18:296][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-21.55.18:474][134]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINEDC9C8013E4BB57AFE7783F09DE8ABB499.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-21.55.28:154][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.57.18:968][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.17-21.57.18:983][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-21.57.19:177][854]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED04C5269C400F8B3DAA740AB83E95F86B.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-21.57.19:708][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.57.39:154][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.17-21.57.39:988][163]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-21.57.40:005][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-21.57.40:005][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-21.57.40:005][163]PIE: New page: PIE session: LevelDesignTest (Dec 17, 2019, 11:57:40 PM)
+[2019.12.17-21.57.40:007][163]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.17-21.57.40:008][163]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-21.57.40:439][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.431108s)
+[2019.12.17-21.57.40:441][163]LogAIModule: Creating AISystem for world LevelDesignTest
+[2019.12.17-21.57.40:441][163]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2019.12.17-21.57.40:441][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest to /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest (0.432804s)
+[2019.12.17-21.57.40:477][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.17-21.57.40:525][163]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-21.57.40:554][163]LogInit: FAudioDevice initialized.
+[2019.12.17-21.57.40:565][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.57.40:567][163]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-21.57.40:596][163]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest.LevelDesignTest up for play (max tick rate 0) at 2019.12.17-22.57.40
+[2019.12.17-21.57.40:598][163]LogWorld: Bringing up level for play took: 0.030610
+[2019.12.17-21.57.40:599][163]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.17-21.57.40:617][163]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.17-21.57.40:621][163]Cmd: stat fps
+[2019.12.17-21.57.40:630][163]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest 0.752
+[2019.12.17-21.57.40:630][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-21.57.40:688][164]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-21.57.41:740][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-21.57.41:740][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.57.41:741][199]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_LevelDesignTest
+[2019.12.17-21.57.41:753][199]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-21.57.41:764][199]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.57.41:843][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-21.57.41:843][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest' with GeneratedClass '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/LevelDesignTest.LevelDesignTest:PersistentLevel.LevelDesignTest'
+[2019.12.17-21.57.41:932][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.17-21.57.42:007][200]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.17-21.57.46:405][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.57.47:284][598]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-21.57.47:317][598]LogAssetEditorManager: Opening Asset editor for World /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap
+[2019.12.17-21.57.47:359][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.12.17-21.57.47:360][598]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-21.57.47:360][598]LightingResults: New page: Lighting Build
+[2019.12.17-21.57.47:363][598]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2019.12.17-21.57.47:374][598]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.57.47:377][598]MapCheck: New page: Map Check
+[2019.12.17-21.57.47:377][598]LightingResults: New page: Lighting Build
+[2019.12.17-21.57.47:424][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.17-21.57.47:594][598]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-21.57.47:634][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.17-21.57.47:657][598]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-21.57.47:657][598]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2019.12.17-21.57.47:657][598]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.299
+[2019.12.17-21.57.48:651][704]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-21.57.48:706][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.57.48:706][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-21.57.48:707][704]PIE: New page: PIE session: FirstPersonExampleMap (Dec 17, 2019, 11:57:48 PM)
+[2019.12.17-21.57.48:707][704]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.57.48:729][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022293s)
+[2019.12.17-21.57.48:730][704]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-21.57.48:730][704]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2019.12.17-21.57.48:730][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023709s)
+[2019.12.17-21.57.48:772][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.17-21.57.48:818][704]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-21.57.48:847][704]LogInit: FAudioDevice initialized.
+[2019.12.17-21.57.48:859][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.57.48:859][704]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-21.57.48:863][704]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-22.57.48
+[2019.12.17-21.57.48:864][704]LogWorld: Bringing up level for play took: 0.003659
+[2019.12.17-21.57.48:864][704]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.17-21.57.48:867][704]Cmd: stat fps
+[2019.12.17-21.57.48:870][704]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap 0.993
+[2019.12.17-21.57.48:871][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.57.53:126][106]LogScript: Warning: Accessed None trying to read property User
+	reflector_C /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.reflector_1022
+	Function /Game/_LaserPuzzle/BPs/AbstractClasses/VisibleObject.VisibleObject_C:ExecuteUbergraph_VisibleObject:0298
+[2019.12.17-21.57.53:126][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property User". Blueprint:  VisibleObject Function:  Execute Ubergraph Visible Object Graph:  EventGraph Node:  Change Outline Mat
+[2019.12.17-21.57.58:181][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.57.58:181][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.57.58:181][644]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.57.58:194][644]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-21.57.58:199][644]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.57.58:218][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-21.57.58:218][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.57.58:269][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.17-21.57.58:308][645]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.17-21.58.03:478][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/AbstractClasses/VisibleObject.VisibleObject
+[2019.12.17-21.58.10:669][745]LogSlate: Window 'VisibleObject' being destroyed
+[2019.12.17-21.58.10:676][745]LogSlate: Window 'VisibleObject' being destroyed
+[2019.12.17-21.58.10:680][745]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.58.10:747][745]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.17-21.58.10:747][745]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.58.10:797][745]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.17-21.58.10:798][745]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.58.11:991][880]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-21.58.11:994][880]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-21.58.12:572][949]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-21.58.12:584][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.58.12:584][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-21.58.12:585][949]PIE: New page: PIE session: FirstPersonExampleMap (Dec 17, 2019, 11:58:12 PM)
+[2019.12.17-21.58.12:585][949]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.58.12:604][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018871s)
+[2019.12.17-21.58.12:605][949]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-21.58.12:605][949]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.12.17-21.58.12:605][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020082s)
+[2019.12.17-21.58.12:673][949]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.12.17-21.58.12:720][949]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-21.58.12:748][949]LogInit: FAudioDevice initialized.
+[2019.12.17-21.58.12:759][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.58.12:759][949]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-21.58.12:763][949]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-22.58.12
+[2019.12.17-21.58.12:764][949]LogWorld: Bringing up level for play took: 0.003885
+[2019.12.17-21.58.12:764][949]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.17-21.58.12:767][949]Cmd: stat fps
+[2019.12.17-21.58.12:769][949]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap 0.891
+[2019.12.17-21.58.12:769][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.58.13:781][ 56]Cmd: fov 90.114433
+[2019.12.17-21.58.13:790][ 57]Cmd: fov 90.250175
+[2019.12.17-21.58.13:800][ 58]Cmd: fov 90.423027
+[2019.12.17-21.58.13:810][ 59]Cmd: fov 90.617165
+[2019.12.17-21.58.13:819][ 60]Cmd: fov 90.815887
+[2019.12.17-21.58.13:828][ 61]Cmd: fov 91.019218
+[2019.12.17-21.58.13:837][ 62]Cmd: fov 91.218781
+[2019.12.17-21.58.13:847][ 63]Cmd: fov 91.479355
+[2019.12.17-21.58.13:856][ 64]Cmd: fov 91.702812
+[2019.12.17-21.58.13:864][ 65]Cmd: fov 91.935448
+[2019.12.17-21.58.13:873][ 66]Cmd: fov 92.168015
+[2019.12.17-21.58.13:881][ 67]Cmd: fov 92.405891
+[2019.12.17-21.58.13:891][ 68]Cmd: fov 92.698303
+[2019.12.17-21.58.13:901][ 69]Cmd: fov 92.967087
+[2019.12.17-21.58.13:909][ 70]Cmd: fov 93.230705
+[2019.12.17-21.58.13:918][ 71]Cmd: fov 93.495354
+[2019.12.17-21.58.13:928][ 72]Cmd: fov 93.776337
+[2019.12.17-21.58.13:937][ 73]Cmd: fov 94.040367
+[2019.12.17-21.58.13:946][ 74]Cmd: fov 94.317543
+[2019.12.17-21.58.13:954][ 75]Cmd: fov 94.558624
+[2019.12.17-21.58.13:963][ 76]Cmd: fov 94.815063
+[2019.12.17-21.58.13:972][ 77]Cmd: fov 95.045509
+[2019.12.17-21.58.13:981][ 78]Cmd: fov 95.285355
+[2019.12.17-21.58.13:989][ 79]Cmd: fov 95.500816
+[2019.12.17-21.58.13:998][ 80]Cmd: fov 95.716621
+[2019.12.17-21.58.14:008][ 81]Cmd: fov 95.486343
+[2019.12.17-21.58.14:017][ 82]Cmd: fov 95.231102
+[2019.12.17-21.58.14:026][ 83]Cmd: fov 94.979454
+[2019.12.17-21.58.14:036][ 84]Cmd: fov 94.696419
+[2019.12.17-21.58.14:047][ 85]Cmd: fov 94.381844
+[2019.12.17-21.58.14:056][ 86]Cmd: fov 94.113548
+[2019.12.17-21.58.14:066][ 87]Cmd: fov 93.826523
+[2019.12.17-21.58.14:075][ 88]Cmd: fov 93.557747
+[2019.12.17-21.58.14:085][ 89]Cmd: fov 93.263374
+[2019.12.17-21.58.14:093][ 90]Cmd: fov 92.998093
+[2019.12.17-21.58.14:102][ 91]Cmd: fov 92.751587
+[2019.12.17-21.58.14:112][ 92]Cmd: fov 92.461334
+[2019.12.17-21.58.14:121][ 93]Cmd: fov 92.199448
+[2019.12.17-21.58.14:131][ 94]Cmd: fov 91.911896
+[2019.12.17-21.58.14:140][ 95]Cmd: fov 91.686371
+[2019.12.17-21.58.14:149][ 96]Cmd: fov 91.4319
+[2019.12.17-21.58.14:161][ 97]Cmd: fov 91.156853
+[2019.12.17-21.58.14:171][ 98]Cmd: fov 90.922096
+[2019.12.17-21.58.14:181][ 99]Cmd: fov 90.689613
+[2019.12.17-21.58.14:192][100]Cmd: fov 90.484657
+[2019.12.17-21.58.14:202][101]Cmd: fov 90.306389
+[2019.12.17-21.58.14:211][102]Cmd: fov 90.160706
+[2019.12.17-21.58.14:221][103]Cmd: fov 90.027977
+[2019.12.17-21.58.14:230][104]Cmd: fov 90.0
+[2019.12.17-21.58.15:351][229]LogScript: Warning: Accessed None trying to read property User
+	reflector_C /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.reflector2
+	Function /Game/_LaserPuzzle/BPs/AbstractClasses/VisibleObject.VisibleObject_C:ExecuteUbergraph_VisibleObject:0298
+[2019.12.17-21.58.15:351][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property User". Blueprint:  VisibleObject Function:  Execute Ubergraph Visible Object Graph:  EventGraph Node:  Change Outline Mat
+[2019.12.17-21.58.15:472][243]Cmd: fov 90.10453
+[2019.12.17-21.58.15:480][244]Cmd: fov 90.229324
+[2019.12.17-21.58.15:489][245]Cmd: fov 90.36647
+[2019.12.17-21.58.15:498][246]Cmd: fov 90.536751
+[2019.12.17-21.58.15:506][247]Cmd: fov 90.703857
+[2019.12.17-21.58.15:515][248]Cmd: fov 90.883057
+[2019.12.17-21.58.15:523][249]Cmd: fov 91.073654
+[2019.12.17-21.58.15:531][250]Cmd: fov 91.274643
+[2019.12.17-21.58.15:540][251]Cmd: fov 91.48584
+[2019.12.17-21.58.15:548][252]Cmd: fov 91.704605
+[2019.12.17-21.58.15:559][253]Cmd: fov 91.985855
+[2019.12.17-21.58.15:567][254]Cmd: fov 92.219666
+[2019.12.17-21.58.15:575][255]Cmd: fov 92.467995
+[2019.12.17-21.58.15:585][256]Cmd: fov 92.752258
+[2019.12.17-21.58.15:595][257]Cmd: fov 93.034943
+[2019.12.17-21.58.15:604][258]Cmd: fov 93.301064
+[2019.12.17-21.58.15:613][259]Cmd: fov 93.589745
+[2019.12.17-21.58.15:622][260]Cmd: fov 93.839783
+[2019.12.17-21.58.15:630][261]Cmd: fov 94.094269
+[2019.12.17-21.58.15:639][262]Cmd: fov 94.338638
+[2019.12.17-21.58.15:648][263]Cmd: fov 94.600426
+[2019.12.17-21.58.15:658][264]Cmd: fov 94.856674
+[2019.12.17-21.58.15:666][265]Cmd: fov 95.105911
+[2019.12.17-21.58.15:677][266]Cmd: fov 95.394989
+[2019.12.17-21.58.15:686][267]Cmd: fov 95.61351
+[2019.12.17-21.58.15:694][268]Cmd: fov 95.830643
+[2019.12.17-21.58.15:703][269]Cmd: fov 96.020981
+[2019.12.17-21.58.15:712][270]Cmd: fov 96.221321
+[2019.12.17-21.58.15:722][271]Cmd: fov 96.41291
+[2019.12.17-21.58.15:731][272]Cmd: fov 96.569809
+[2019.12.17-21.58.15:739][273]Cmd: fov 96.703072
+[2019.12.17-21.58.15:747][274]Cmd: fov 96.820534
+[2019.12.17-21.58.15:756][275]Cmd: fov 96.921127
+[2019.12.17-21.58.15:764][276]Cmd: fov 97.0
+[2019.12.17-21.58.15:774][277]Cmd: fov 97.0
+[2019.12.17-21.58.15:782][278]Cmd: fov 97.0
+[2019.12.17-21.58.15:791][279]Cmd: fov 97.0
+[2019.12.17-21.58.15:800][280]Cmd: fov 97.0
+[2019.12.17-21.58.15:809][281]Cmd: fov 97.0
+[2019.12.17-21.58.15:817][282]Cmd: fov 97.0
+[2019.12.17-21.58.15:825][283]Cmd: fov 97.0
+[2019.12.17-21.58.15:834][284]Cmd: fov 97.0
+[2019.12.17-21.58.15:843][285]Cmd: fov 97.0
+[2019.12.17-21.58.15:852][286]Cmd: fov 97.0
+[2019.12.17-21.58.15:860][287]Cmd: fov 97.0
+[2019.12.17-21.58.15:868][288]Cmd: fov 97.0
+[2019.12.17-21.58.15:877][289]Cmd: fov 97.0
+[2019.12.17-21.58.15:886][290]Cmd: fov 97.0
+[2019.12.17-21.58.15:894][291]Cmd: fov 97.0
+[2019.12.17-21.58.15:903][292]Cmd: fov 97.0
+[2019.12.17-21.58.15:911][293]Cmd: fov 97.0
+[2019.12.17-21.58.15:919][294]Cmd: fov 97.0
+[2019.12.17-21.58.15:928][295]Cmd: fov 97.0
+[2019.12.17-21.58.15:937][296]Cmd: fov 97.0
+[2019.12.17-21.58.15:947][297]Cmd: fov 97.0
+[2019.12.17-21.58.15:956][298]Cmd: fov 97.0
+[2019.12.17-21.58.15:965][299]Cmd: fov 97.0
+[2019.12.17-21.58.15:975][300]Cmd: fov 97.0
+[2019.12.17-21.58.15:986][301]Cmd: fov 97.0
+[2019.12.17-21.58.15:997][302]Cmd: fov 97.0
+[2019.12.17-21.58.16:005][303]Cmd: fov 97.0
+[2019.12.17-21.58.16:015][304]Cmd: fov 97.0
+[2019.12.17-21.58.16:023][305]Cmd: fov 97.0
+[2019.12.17-21.58.16:031][306]Cmd: fov 97.0
+[2019.12.17-21.58.16:040][307]Cmd: fov 97.0
+[2019.12.17-21.58.16:048][308]Cmd: fov 97.0
+[2019.12.17-21.58.16:057][309]Cmd: fov 97.0
+[2019.12.17-21.58.16:066][310]Cmd: fov 97.0
+[2019.12.17-21.58.16:075][311]Cmd: fov 97.0
+[2019.12.17-21.58.16:084][312]Cmd: fov 97.0
+[2019.12.17-21.58.16:093][313]Cmd: fov 97.0
+[2019.12.17-21.58.16:102][314]Cmd: fov 97.0
+[2019.12.17-21.58.16:111][315]Cmd: fov 97.0
+[2019.12.17-21.58.16:120][316]Cmd: fov 97.0
+[2019.12.17-21.58.16:130][317]Cmd: fov 97.0
+[2019.12.17-21.58.16:138][318]Cmd: fov 97.0
+[2019.12.17-21.58.16:147][319]Cmd: fov 97.0
+[2019.12.17-21.58.16:155][320]Cmd: fov 97.0
+[2019.12.17-21.58.16:166][321]Cmd: fov 97.0
+[2019.12.17-21.58.16:176][322]Cmd: fov 97.0
+[2019.12.17-21.58.16:184][323]Cmd: fov 97.0
+[2019.12.17-21.58.16:193][324]Cmd: fov 97.0
+[2019.12.17-21.58.16:202][325]Cmd: fov 97.0
+[2019.12.17-21.58.16:212][326]Cmd: fov 97.0
+[2019.12.17-21.58.16:221][327]Cmd: fov 97.0
+[2019.12.17-21.58.16:230][328]Cmd: fov 97.0
+[2019.12.17-21.58.16:239][329]Cmd: fov 97.0
+[2019.12.17-21.58.16:247][330]Cmd: fov 97.0
+[2019.12.17-21.58.16:256][331]Cmd: fov 97.0
+[2019.12.17-21.58.16:265][332]Cmd: fov 97.0
+[2019.12.17-21.58.16:273][333]Cmd: fov 97.0
+[2019.12.17-21.58.16:281][334]Cmd: fov 97.0
+[2019.12.17-21.58.16:291][335]Cmd: fov 97.0
+[2019.12.17-21.58.16:299][336]Cmd: fov 97.0
+[2019.12.17-21.58.16:307][337]Cmd: fov 97.0
+[2019.12.17-21.58.16:316][338]Cmd: fov 97.0
+[2019.12.17-21.58.16:324][339]Cmd: fov 97.0
+[2019.12.17-21.58.16:333][340]Cmd: fov 97.0
+[2019.12.17-21.58.16:343][341]Cmd: fov 97.0
+[2019.12.17-21.58.16:350][342]Cmd: fov 97.0
+[2019.12.17-21.58.16:361][343]Cmd: fov 97.0
+[2019.12.17-21.58.16:369][344]Cmd: fov 97.0
+[2019.12.17-21.58.16:376][345]Cmd: fov 97.0
+[2019.12.17-21.58.16:385][346]Cmd: fov 97.0
+[2019.12.17-21.58.16:394][347]Cmd: fov 97.0
+[2019.12.17-21.58.16:403][348]Cmd: fov 97.0
+[2019.12.17-21.58.16:413][349]Cmd: fov 97.0
+[2019.12.17-21.58.16:421][350]Cmd: fov 97.0
+[2019.12.17-21.58.16:430][351]Cmd: fov 97.0
+[2019.12.17-21.58.16:438][352]Cmd: fov 97.0
+[2019.12.17-21.58.16:447][353]Cmd: fov 97.0
+[2019.12.17-21.58.16:457][354]Cmd: fov 97.0
+[2019.12.17-21.58.16:466][355]Cmd: fov 97.0
+[2019.12.17-21.58.16:475][356]Cmd: fov 97.0
+[2019.12.17-21.58.16:484][357]Cmd: fov 97.0
+[2019.12.17-21.58.16:494][358]Cmd: fov 97.0
+[2019.12.17-21.58.16:502][359]Cmd: fov 97.0
+[2019.12.17-21.58.16:511][360]Cmd: fov 97.0
+[2019.12.17-21.58.16:520][361]Cmd: fov 97.0
+[2019.12.17-21.58.16:528][362]Cmd: fov 97.0
+[2019.12.17-21.58.16:537][363]Cmd: fov 97.0
+[2019.12.17-21.58.16:546][364]Cmd: fov 97.0
+[2019.12.17-21.58.16:555][365]Cmd: fov 97.0
+[2019.12.17-21.58.16:564][366]Cmd: fov 96.907784
+[2019.12.17-21.58.16:575][367]Cmd: fov 96.764374
+[2019.12.17-21.58.16:584][368]Cmd: fov 96.632759
+[2019.12.17-21.58.16:593][369]Cmd: fov 96.477303
+[2019.12.17-21.58.16:601][370]Cmd: fov 96.320335
+[2019.12.17-21.58.16:610][371]Cmd: fov 96.139206
+[2019.12.17-21.58.16:619][372]Cmd: fov 95.953606
+[2019.12.17-21.58.16:627][373]Cmd: fov 95.756355
+[2019.12.17-21.58.16:636][374]Cmd: fov 95.543106
+[2019.12.17-21.58.16:645][375]Cmd: fov 95.297104
+[2019.12.17-21.58.16:654][376]Cmd: fov 95.074173
+[2019.12.17-21.58.16:663][377]Cmd: fov 94.816986
+[2019.12.17-21.58.16:674][378]Cmd: fov 94.524216
+[2019.12.17-21.58.16:683][379]Cmd: fov 94.24263
+[2019.12.17-21.58.16:693][380]Cmd: fov 93.949135
+[2019.12.17-21.58.16:702][381]Cmd: fov 93.672699
+[2019.12.17-21.58.16:712][382]Cmd: fov 93.379967
+[2019.12.17-21.58.16:720][383]Cmd: fov 93.13105
+[2019.12.17-21.58.16:729][384]Cmd: fov 92.875816
+[2019.12.17-21.58.16:737][385]Cmd: fov 92.630386
+[2019.12.17-21.58.16:746][386]Cmd: fov 92.383003
+[2019.12.17-21.58.16:754][387]Cmd: fov 92.145607
+[2019.12.17-21.58.16:764][388]Cmd: fov 91.879349
+[2019.12.17-21.58.16:772][389]Cmd: fov 91.6548
+[2019.12.17-21.58.16:780][390]Cmd: fov 91.437843
+[2019.12.17-21.58.16:789][391]Cmd: fov 91.224541
+[2019.12.17-21.58.16:797][392]Cmd: fov 91.02092
+[2019.12.17-21.58.16:806][393]Cmd: fov 90.833313
+[2019.12.17-21.58.16:814][394]Cmd: fov 90.647438
+[2019.12.17-21.58.16:823][395]Cmd: fov 90.48497
+[2019.12.17-21.58.16:832][396]Cmd: fov 90.318871
+[2019.12.17-21.58.16:841][397]Cmd: fov 90.186829
+[2019.12.17-21.58.16:850][398]Cmd: fov 90.059509
+[2019.12.17-21.58.16:860][399]Cmd: fov 90.0
+[2019.12.17-21.58.17:533][474]Cmd: fov 90.117439
+[2019.12.17-21.58.17:542][475]Cmd: fov 90.252724
+[2019.12.17-21.58.17:550][476]Cmd: fov 90.39257
+[2019.12.17-21.58.17:559][477]Cmd: fov 90.549339
+[2019.12.17-21.58.17:569][478]Cmd: fov 90.741081
+[2019.12.17-21.58.17:579][479]Cmd: fov 90.959763
+[2019.12.17-21.58.17:587][480]Cmd: fov 91.173096
+[2019.12.17-21.58.17:597][481]Cmd: fov 91.41671
+[2019.12.17-21.58.17:606][482]Cmd: fov 91.641945
+[2019.12.17-21.58.17:615][483]Cmd: fov 91.877296
+[2019.12.17-21.58.17:624][484]Cmd: fov 92.124123
+[2019.12.17-21.58.17:633][485]Cmd: fov 92.380623
+[2019.12.17-21.58.17:643][486]Cmd: fov 92.674881
+[2019.12.17-21.58.17:651][487]Cmd: fov 92.928474
+[2019.12.17-21.58.17:662][488]Cmd: fov 93.21965
+[2019.12.17-21.58.17:670][489]Cmd: fov 93.496735
+[2019.12.17-21.58.17:679][490]Cmd: fov 93.757858
+[2019.12.17-21.58.17:687][491]Cmd: fov 94.009041
+[2019.12.17-21.58.17:698][492]Cmd: fov 94.316124
+[2019.12.17-21.58.17:708][493]Cmd: fov 94.579384
+[2019.12.17-21.58.17:716][494]Cmd: fov 94.836349
+[2019.12.17-21.58.17:725][495]Cmd: fov 95.076462
+[2019.12.17-21.58.17:733][496]Cmd: fov 95.311447
+[2019.12.17-21.58.17:744][497]Cmd: fov 95.052292
+[2019.12.17-21.58.17:753][498]Cmd: fov 94.798965
+[2019.12.17-21.58.17:763][499]Cmd: fov 94.506065
+[2019.12.17-21.58.17:773][500]Cmd: fov 94.244675
+[2019.12.17-21.58.17:782][501]Cmd: fov 93.979553
+[2019.12.17-21.58.17:791][502]Cmd: fov 93.722801
+[2019.12.17-21.58.17:800][503]Cmd: fov 93.439659
+[2019.12.17-21.58.17:810][504]Cmd: fov 93.164528
+[2019.12.17-21.58.17:820][505]Cmd: fov 92.862045
+[2019.12.17-21.58.17:832][506]Cmd: fov 92.503448
+[2019.12.17-21.58.17:844][507]Cmd: fov 92.152977
+[2019.12.17-21.58.17:854][508]Cmd: fov 91.883842
+[2019.12.17-21.58.17:865][509]Cmd: fov 91.584198
+[2019.12.17-21.58.17:875][510]Cmd: fov 91.320534
+[2019.12.17-21.58.17:887][511]Cmd: fov 91.037849
+[2019.12.17-21.58.17:896][512]Cmd: fov 90.814651
+[2019.12.17-21.58.17:906][513]Cmd: fov 90.616402
+[2019.12.17-21.58.17:916][514]Cmd: fov 90.423309
+[2019.12.17-21.58.17:926][515]Cmd: fov 90.265961
+[2019.12.17-21.58.17:939][516]Cmd: fov 90.082375
+[2019.12.17-21.58.17:951][517]Cmd: fov 90.0
+[2019.12.17-21.58.20:302][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.58.20:303][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.58.20:303][781]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.58.20:318][781]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-21.58.20:324][781]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.58.20:336][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-21.58.20:336][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.58.20:410][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.12.17-21.58.20:450][782]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.17-21.58.24:123][205]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/AbstractClasses/VisibleObject.VisibleObject
+[2019.12.17-21.59.04:722][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.59.13:822][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflector.reflector
+[2019.12.17-21.59.15:742][650]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.59.19:190][935]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED
+[2019.12.17-21.59.31:264][927]LogEditorViewport: Clicking on Actor (LMB): reflectorREIMAGINED_C (reflectorREIMAGINED)
+[2019.12.17-21.59.33:673][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-21.59.33:756][190]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-21.59.33:768][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.59.33:769][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-21.59.33:769][190]PIE: New page: PIE session: FirstPersonExampleMap (Dec 17, 2019, 11:59:33 PM)
+[2019.12.17-21.59.33:769][190]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.59.33:788][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019232s)
+[2019.12.17-21.59.33:789][190]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-21.59.33:789][190]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2019.12.17-21.59.33:789][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020708s)
+[2019.12.17-21.59.33:828][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.12.17-21.59.33:872][190]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-21.59.33:898][190]LogInit: FAudioDevice initialized.
+[2019.12.17-21.59.33:910][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.59.33:911][190]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-21.59.33:915][190]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-22.59.33
+[2019.12.17-21.59.33:915][190]LogWorld: Bringing up level for play took: 0.003928
+[2019.12.17-21.59.33:915][190]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.17-21.59.33:918][190]Cmd: stat fps
+[2019.12.17-21.59.33:925][190]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap 0.047
+[2019.12.17-21.59.33:926][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.59.35:940][348]LogScript: Warning: Accessed None trying to read property User
+	reflectorREIMAGINED_C /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.reflectorREIMAGINED2
+	Function /Game/_LaserPuzzle/BPs/AbstractClasses/VisibleObject.VisibleObject_C:ExecuteUbergraph_VisibleObject:0298
+[2019.12.17-21.59.35:941][348]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property User". Blueprint:  VisibleObject Function:  Execute Ubergraph Visible Object Graph:  EventGraph Node:  Change Outline Mat
+[2019.12.17-21.59.39:045][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.59.39:046][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-21.59.39:046][607]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-21.59.39:058][607]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-21.59.39:063][607]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-21.59.39:116][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-21.59.39:116][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-21.59.39:159][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.17-21.59.39:191][608]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.17-21.59.59:081][596]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-21.59.59:086][596]LogSlate: Window 'Message Log' being destroyed
+[2019.12.17-22.00.05:868][265]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.17-22.00.53:708][405]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.17-22.00.54:158][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.17-22.00.55:917][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.17-22.00.55:970][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.17-22.00.56:290][457]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap7E8887B447F6BA18450C41A754A31A19.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.00.56:321][457]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.387
+[2019.12.17-22.00.56:833][457]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter530CAFD6478BE000A7DE13988F733110.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2019.12.17-22.02.03:136][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.17-22.04.23:988][ 86]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflector.reflector
+[2019.12.17-22.04.48:797][296]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.04.49:103][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.12.17-22.04.50:316][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.17-22.04.50:371][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.17-22.04.50:689][346]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap9FA159864CDF6189CAA5E3AB9C29EB70.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.04.50:722][346]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.391
+[2019.12.17-22.04.50:735][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.04.50:942][346]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINEDB438D3F94ECB539F795093983FEE3588.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.05.16:409][917]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.05.16:695][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.12.17-22.05.18:236][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.12.17-22.05.18:289][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.17-22.05.18:600][977]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap265D92A545F65DF697FF1D85CB002495.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.05.18:630][977]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.379
+[2019.12.17-22.05.18:643][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.05.18:831][977]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINEDE84344EE4E791FF7241D68BC6077D8D8.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.07.15:391][  8]LogEditorTransaction: Undo Resize Node
+[2019.12.17-22.16.04:819][419]LogEditorTransaction: Undo Move Node
+[2019.12.17-22.17.14:790][501]LogEditorTransaction: Undo Break Pin Links
+[2019.12.17-22.19.33:667][  0]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.19.33:988][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.17-22.23.15:337][257]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.23.15:645][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.17-22.23.17:113][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.17-22.23.17:170][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.17-22.23.17:496][296]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap4CDFEA59467ACFC6CEB6FDACE754718A.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.23.17:530][296]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.402
+[2019.12.17-22.23.17:545][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.23.17:785][296]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED67780FC3436D0E3B92228B8182AE88C1.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.26.39:106][924]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.26.39:412][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.12.17-22.26.41:206][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.17-22.26.41:259][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.17-22.26.41:555][ 25]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap0F5288EE440F8D339E9C049F9A49E8CE.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.26.41:585][ 25]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.364
+[2019.12.17-22.26.41:597][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.26.41:893][ 25]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINEDCB7E4BF34C489186D81C6F9325DD8FF7.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.27.28:579][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.17-22.27.28:593][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.27.28:822][846]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED4FE5DC61478E6FB504941B92E99A449A.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.31.28:660][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.17-22.33.19:291][499]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.33.19:599][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.17-22.33.21:169][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.17-22.33.21:229][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.17-22.33.21:552][551]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap9A440051453F0BA05CF6D4A22DB8A834.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.33.21:587][551]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.403
+[2019.12.17-22.33.21:600][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.33.21:846][551]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED26FB4E6843DC368F83518698D4CD976B.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.33.25:127][664]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-22.33.25:140][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.25:140][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-22.33.25:140][664]PIE: New page: PIE session: FirstPersonExampleMap (Dec 18, 2019, 12:33:25 AM)
+[2019.12.17-22.33.25:140][664]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-22.33.25:164][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023050s)
+[2019.12.17-22.33.25:164][664]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-22.33.25:165][664]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2019.12.17-22.33.25:165][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024179s)
+[2019.12.17-22.33.25:207][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.17-22.33.25:255][664]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-22.33.25:284][664]LogInit: FAudioDevice initialized.
+[2019.12.17-22.33.25:296][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-22.33.25:296][664]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-22.33.25:300][664]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-23.33.25
+[2019.12.17-22.33.25:301][664]LogWorld: Bringing up level for play took: 0.003911
+[2019.12.17-22.33.25:301][664]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.17-22.33.25:304][664]Cmd: stat fps
+[2019.12.17-22.33.25:315][664]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap -0.563
+[2019.12.17-22.33.25:315][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.29:344][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.29:344][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-22.33.29:344][774]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-22.33.29:357][774]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-22.33.29:363][774]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-22.33.29:686][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-22.33.29:686][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.29:731][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.12.17-22.33.29:972][775]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.17-22.33.50:143][679]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.17-22.33.50:155][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.50:155][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-22.33.50:156][679]PIE: New page: PIE session: FirstPersonExampleMap (Dec 18, 2019, 12:33:50 AM)
+[2019.12.17-22.33.50:156][679]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-22.33.50:178][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022243s)
+[2019.12.17-22.33.50:179][679]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.17-22.33.50:179][679]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.17-22.33.50:179][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap to /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023467s)
+[2019.12.17-22.33.50:222][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.17-22.33.50:265][679]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.17-22.33.50:291][679]LogInit: FAudioDevice initialized.
+[2019.12.17-22.33.50:302][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-22.33.50:302][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.17-22.33.50:306][679]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.17-23.33.50
+[2019.12.17-22.33.50:307][679]LogWorld: Bringing up level for play took: 0.003976
+[2019.12.17-22.33.50:307][679]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.17-22.33.50:311][679]Cmd: stat fps
+[2019.12.17-22.33.50:319][679]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap 0.442
+[2019.12.17-22.33.50:319][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.51:139][703]Cmd: fov 90.447388
+[2019.12.17-22.33.51:172][704]Cmd: fov 91.124443
+[2019.12.17-22.33.51:203][705]Cmd: fov 91.925797
+[2019.12.17-22.33.51:235][706]Cmd: fov 92.846153
+[2019.12.17-22.33.51:266][707]Cmd: fov 93.763168
+[2019.12.17-22.33.51:297][708]Cmd: fov 94.683716
+[2019.12.17-22.33.51:328][709]Cmd: fov 95.531006
+[2019.12.17-22.33.51:358][710]Cmd: fov 94.730408
+[2019.12.17-22.33.51:391][711]Cmd: fov 93.794464
+[2019.12.17-22.33.51:426][712]Cmd: fov 92.738846
+[2019.12.17-22.33.51:458][713]Cmd: fov 91.832596
+[2019.12.17-22.33.51:489][714]Cmd: fov 91.039719
+[2019.12.17-22.33.51:521][715]Cmd: fov 90.389549
+[2019.12.17-22.33.51:554][716]Cmd: fov 90.0
+[2019.12.17-22.33.53:116][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.53:116][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-22.33.53:116][766]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_FirstPersonExampleMap
+[2019.12.17-22.33.53:130][766]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.17-22.33.53:135][766]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-22.33.53:224][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-22.33.53:224][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.17-22.33.53:268][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.12.17-22.33.53:508][767]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.17-22.37.56:581][360]LogEditorTransaction: Undo Move Node
+[2019.12.17-22.38.59:908][369]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.39.00:295][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.17-22.39.01:723][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.17-22.39.01:778][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.17-22.39.02:087][426]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap96366C81403765C2C0DFB4BA702D23E1.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.39.02:118][426]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.378
+[2019.12.17-22.39.02:130][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.39.02:384][426]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED0A39033843C7C136B1E959AC499A788F.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.39.21:683][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.17-22.39.34:447][153]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.39.34:733][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.17-22.45.49:775][746]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.45.49:802][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "minGrabDist" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get minGrabDist
+[2019.12.17-22.45.49:803][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.45.49:803][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "frontGrab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get frontGrab
+[2019.12.17-22.45.49:803][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "grabbedObject" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get grabbedObject
+[2019.12.17-22.45.49:803][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.45.49:804][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.45.49:804][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.45.49:804][746]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.45.49:813][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:813][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Grabbed Object  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Front Grab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.49:814][746]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Min Grab Dist  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.45.50:094][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.17-22.46.19:131][436]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.46.19:160][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "minGrabDist" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get minGrabDist
+[2019.12.17-22.46.19:160][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.46.19:160][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "frontGrab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get frontGrab
+[2019.12.17-22.46.19:160][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "grabbedObject" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get grabbedObject
+[2019.12.17-22.46.19:161][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.46.19:161][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.46.19:161][436]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.46.19:170][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:170][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:170][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:170][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Grabbed Object  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:170][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Front Grab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:171][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:171][436]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Min Grab Dist  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.19:411][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.17-22.46.47:745][ 50]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.46.47:783][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "minGrabDist" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get minGrabDist
+[2019.12.17-22.46.47:784][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.46.47:784][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "frontGrab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get frontGrab
+[2019.12.17-22.46.47:784][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "grabbedObject" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get grabbedObject
+[2019.12.17-22.46.47:784][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.46.47:784][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.46.47:785][ 50]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.46.47:802][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:802][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:802][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:802][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Grabbed Object  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:802][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Front Grab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:803][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.47:803][ 50]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Min Grab Dist  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.46.48:247][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2019.12.17-22.46.49:586][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.12.17-22.46.49:643][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.17-22.46.49:942][104]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonExampleMap277A95C542877D0F0C8B559581D5413F.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap'
+[2019.12.17-22.46.49:975][104]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.374
+[2019.12.17-22.46.49:988][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/reflectorREIMAGINED" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset" SILENT=true
+[2019.12.17-22.46.50:274][104]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/reflectorREIMAGINED4A8CB36F410E950863906BAF7A4C7B28.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/reflectorREIMAGINED.uasset'
+[2019.12.17-22.47.34:997][836]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.47.35:024][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "minGrabDist" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get minGrabDist
+[2019.12.17-22.47.35:025][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.47.35:025][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "frontGrab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get frontGrab
+[2019.12.17-22.47.35:025][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "grabbedObject" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get grabbedObject
+[2019.12.17-22.47.35:025][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.47.35:025][836]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.47.35:035][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:035][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:035][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Grabbed Object  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:035][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Front Grab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:035][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:036][836]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Min Grab Dist  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.47.35:272][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.17-22.47.49:011][641]LogRenderer: Reallocating scene render targets to support 1280x740 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-22.48.42:569][844]LogRenderer: Reallocating scene render targets to support 1280x744 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-22.48.50:806][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-22.48.56:432][749]BlueprintLog: New page: Compile reflectorREIMAGINED
+[2019.12.17-22.48.56:460][749]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "minGrabDist" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get minGrabDist
+[2019.12.17-22.48.56:460][749]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "FirstPersonCamera" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get FirstPersonCamera
+[2019.12.17-22.48.56:461][749]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "frontGrab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get frontGrab
+[2019.12.17-22.48.56:461][749]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "grabbedObject" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get grabbedObject
+[2019.12.17-22.48.56:461][749]LogBlueprint: Warning: [Compiler reflectorREIMAGINED] Could not find a variable named "defaultFrontGRab" in 'reflectorREIMAGINED_C'.
+Make sure 'reflectorREIMAGINED_C' has been compiled for  Get defaultFrontGRab
+[2019.12.17-22.48.56:470][749]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Default Front GRab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.48.56:471][749]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Grabbed Object  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.48.56:471][749]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Front Grab  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.48.56:471][749]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  First Person Camera  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.48.56:471][749]LogBlueprint: Error: [Compiler reflectorREIMAGINED] The property associated with  Min Grab Dist  could not be found in '/Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED_C'
+[2019.12.17-22.48.56:749][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.12.17-22.48.59:417][823]LogUObjectArray: Warning: Other object in slot
+[2019.12.17-22.48.59:418][823]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.17-22.49.00:725][823]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.307 s
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: 
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: Stack: 
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdf2fd5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdf27f7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdf280622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffde90e6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffde86c4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffde867e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdfc39d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdfc58c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3e922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3c5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffdfc3b9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe1a6d4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe1a6c26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe1a6d7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe1a6bedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe480a63ed USER32.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe480a5de2 USER32.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe1a6d88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ff660de6980 UE4Editor.exe!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ff660dfa91c UE4Editor.exe!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ff660dfa9fa UE4Editor.exe!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ff660e0b92c UE4Editor.exe!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ff660e0e60e UE4Editor.exe!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe49d57bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: [Callstack] 0x00007ffe4a04ced1 ntdll.dll!UnknownFunction []
+[2019.12.17-22.49.00:725][823]LogOutputDevice: Error: 
+[2019.12.17-22.49.00:737][823]LogStats:                SubmitErrorReport -  0.000 s
