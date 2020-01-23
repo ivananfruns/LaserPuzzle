@@ -1,0 +1,2624 @@
+﻿Log file open, 01/21/20 22:23:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: laserPuzzle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.528950
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.21-21.23.36:194][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.21-21.23.36:194][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.21-21.23.36:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:194][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.21-21.23.36:194][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.21-21.23.36:194][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.21-21.23.36:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:195][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:259][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.21-21.23.36:259][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.21-21.23.36:260][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.21-21.23.36:270][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.21-21.23.36:273][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.21-21.23.36:319][  0]LogHAL: Display: Platform has ~ 16 GB [17114763264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.21-21.23.36:320][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.21-21.23.36:320][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.21-21.23.36:320][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Scalability.ini]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.21-21.23.36:321][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.21-21.23.36:340][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.21-21.23.36:340][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.21-21.23.36:340][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Config/Windows/Engine.ini]
+[2020.01.21-21.23.36:356][  0]LogInit: Computer: DESKTOP-6FF6MBF
+[2020.01.21-21.23.36:356][  0]LogInit: User: guill
+[2020.01.21-21.23.36:356][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.21-21.23.36:356][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.21-21.23.36:356][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.21-21.23.36:356][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.21-21.23.36:356][  0]LogMemory: Process Physical Memory: 104.92 MB used, 104.92 MB peak
+[2020.01.21-21.23.36:356][  0]LogMemory: Process Virtual Memory: 101.01 MB used, 101.01 MB peak
+[2020.01.21-21.23.36:356][  0]LogMemory: Physical Memory: 6987.34 MB used,  9334.57 MB free, 16321.91 MB total
+[2020.01.21-21.23.36:356][  0]LogMemory: Virtual Memory: 4655.70 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.01.21-21.23.36:376][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.21-21.23.37:097][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.21-21.23.37:097][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.21-21.23.37:795][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.21-21.23.38:279][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.21-21.23.38:279][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.21-21.23.39:951][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.21-21.23.39:952][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.21-21.23.40:105][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.01.21-21.23.40:105][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.21-21.23.40:113][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.21-21.23.40:113][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.21-21.23.40:113][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.21-21.23.40:133][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.21-21.23.40:133][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.21-21.23.40:133][  0]LogWindows: EnumDisplayDevices:
+[2020.01.21-21.23.40:134][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.01.21-21.23.40:134][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.21-21.23.40:135][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.21-21.23.40:135][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.21-21.23.40:136][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.21-21.23.40:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.01.21-21.23.40:136][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.01.21-21.23.40:136][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.01.21-21.23.40:136][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.01.21-21.23.40:188][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.21-21.23.40:405][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.21-21.23.41:269][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.21-21.23.41:302][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.21-21.23.41:322][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.21-21.23.41:347][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.21-21.23.41:389][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.21-21.23.41:437][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.21-21.23.41:474][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.21-21.23.41:497][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.21-21.23.41:512][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.21-21.23.41:586][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.21-21.23.41:599][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.21-21.23.41:684][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.21-21.23.41:685][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.21-21.23.41:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.21-21.23.41:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.21-21.23.41:745][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.21-21.23.41:767][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.21-21.23.41:789][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.21-21.23.41:833][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.21-21.23.41:889][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.21-21.23.41:889][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.21-21.23.41:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.21-21.23.42:022][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.21-21.23.42:703][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Intermediate/Shaders/WorkingDirectory/20200/).
+[2020.01.21-21.23.42:704][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/guill/AppData/Local/Temp/UnrealShaderWorkingDir/A7AE07C845BA0D119D153380C9DC6474/'.
+[2020.01.21-21.23.42:740][  0]LogXGEController: Cleaning working directory: C:/Users/guill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.21-21.23.42:741][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.21-21.23.42:742][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.21-21.23.42:742][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.21-21.23.45:526][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.21-21.23.45:915][  0]LogDerivedDataCache: Loaded boot cache 0.39s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.21-21.23.45:916][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.21-21.23.45:916][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.21-21.23.45:916][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.21-21.23.45:916][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.21-21.23.45:916][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.21-21.23.45:983][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.21-21.23.45:983][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.21-21.23.45:983][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.21-21.23.45:985][  0]LogDerivedDataCache: Using Local data cache path C:/Users/guill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.21-21.23.45:985][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.21-21.23.45:986][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.21-21.23.46:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.21-21.23.46:099][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.21-21.23.46:224][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.21-21.23.47:039][  0]LogAssetRegistry: FAssetRegistry took 0.0135 seconds to start up
+[2020.01.21-21.23.56:800][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.21-21.24.02:751][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.21-21.24.02:751][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.21-21.24.02:751][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.21-21.24.02:751][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.21-21.24.02:751][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.21-21.24.03:938][  0]LogNetVersion: laserPuzzle 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1271788903)
+[2020.01.21-21.24.12:610][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.152530 seconds
+[2020.01.21-21.24.12:617][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.21-21.24.12:617][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.21-21.24.12:617][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.21-21.24.39:017][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.21-21.24.39:028][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.21-21.24.39:601][  0]SourceControl: Source control is disabled
+[2020.01.21-21.24.39:618][  0]SourceControl: Source control is disabled
+[2020.01.21-21.24.39:723][  0]SourceControl: Source control is disabled
+[2020.01.21-21.24.39:750][  0]SourceControl: Source control is disabled
+[2020.01.21-21.24.41:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.21-21.24.41:941][  0]LogOcInput: OculusInput pre-init called
+[2020.01.21-21.24.41:993][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.21-21.24.41:993][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.21-21.24.42:961][  0]LogEngine: Initializing Engine...
+[2020.01.21-21.24.42:993][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.21-21.24.43:045][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.028 s
+[2020.01.21-21.24.43:343][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.21-21.24.43:770][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.21-21.24.44:026][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-21.24.44:069][  0]LogInit: FAudioDevice initialized.
+[2020.01.21-21.24.44:069][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.21-21.24.44:239][  0]LogDerivedDataCache: Saved boot cache 0.17s 73MB C:/Users/guill/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.21-21.24.44:240][  0]LogInit: Texture streaming: Enabled
+[2020.01.21-21.24.44:396][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.21-21.24.44:396][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.21-21.24.44:413][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.21-21.24.44:871][  0]LogInit: Transaction tracking system initialized
+[2020.01.21-21.24.45:323][  0]BlueprintLog: New page: Editor Load
+[2020.01.21-21.24.46:539][  0]LocalizationService: Localization service is disabled
+[2020.01.21-21.24.48:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/' took 0.02s
+[2020.01.21-21.24.48:763][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.21-21.24.48:763][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.21-21.24.52:907][  0]SourceControl: Source control is disabled
+[2020.01.21-21.24.52:972][  0]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.21-21.24.52:974][  0]LightingResults: New page: Lighting Build
+[2020.01.21-21.24.53:080][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-21.24.53:212][  0]MapCheck: New page: Map Check
+[2020.01.21-21.24.53:212][  0]LightingResults: New page: Lighting Build
+[2020.01.21-21.24.53:497][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.21-21.24.55:779][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:779][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:811][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:811][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:863][  0]LogLinker: Warning: Failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:863][  0]LogLinker: Warning: Failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:863][  0]LogLinker: Warning: Failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.55:864][  0]LogLinker: Warning: Failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.56:093][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.56:093][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData.LevelDesignTest_BuiltData Referenced by PersistentLevel
+[2020.01.21-21.24.56:093][  0]LogLinker: Warning: While loading 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/LevelDesignTest.umap' failed to load '/Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData': Can't find file.
+[2020.01.21-21.24.56:093][  0]LoadErrors: Failed to load /Game/_LaserPuzzle/Levels/LevelDesignTest_BuiltData.LevelDesignTest_BuiltData Referenced by PersistentLevel
+[2020.01.21-21.24.57:300][  0]LogAIModule: Creating AISystem for world LevelDesignTest
+[2020.01.21-21.24.58:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-21.24.58:402][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.01.21-21.24.58:402][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-21.24.58:419][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 16.71ms to complete.
+[2020.01.21-21.24.58:419][  0]LogFileHelpers: Loading map 'LevelDesignTest' took 5.475
+[2020.01.21-21.24.59:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.24.59:947][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.24.59:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.24.59:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.25.00:058][  0]LogCollectionManager: Loaded 0 collections in 0.003183 seconds
+[2020.01.21-21.25.00:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Collections/' took 0.00s
+[2020.01.21-21.25.00:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Developers/guill/Collections/' took 0.00s
+[2020.01.21-21.25.00:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/Collections/' took 0.00s
+[2020.01.21-21.25.00:178][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.21-21.25.00:188][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2863 classes and 680 folders.
+[2020.01.21-21.25.00:293][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.21-21.25.01:135][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.21-21.25.01:221][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.21-21.25.02:164][  0]LogSlate: Took 0.023986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.21-21.25.02:180][  0]LogSlate: Took 0.014287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.21-21.25.02:249][  0]LogSlate: Took 0.012247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.21-21.25.02:569][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2020.01.21-21.25.03:293][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.21-21.25.03:293][  0]LogLoad: (Engine Initialization) Total time: 104.26 seconds
+[2020.01.21-21.25.03:294][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.21-21.25.03:511][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.21-21.25.03:523][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.21-21.25.03:626][  0]LogSlate: Took 0.009597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-21.25.03:895][  2]LogAssetRegistry: Asset discovery search completed in 76.8561 seconds
+[2020.01.21-21.25.03:899][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2020.01.21-21.25.03:899][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2020.01.21-21.26.03:613][181]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B281E151-425B-476B-F5EC-63AB51A84364}
+[2020.01.21-21.48.52:316][283]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-21.48.52:323][283]LogSlate: Window 'Message Log' being destroyed
+[2020.01.21-21.48.53:314][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.51.50:767][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.51.54:729][719]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.21-21.51.54:780][719]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.FirstPersonCharacter
+[2020.01.21-21.51.55:322][719]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.01.21-21.51.57:054][719]LogSlate: Took 0.016134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.21-21.51.58:635][720]LogSlate: Took 0.015708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.21-21.52.03:486][157]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.21-21.52.03:529][157]LogAssetEditorManager: Opening Asset editor for World /Game/_LaserPuzzle/Levels/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.01.21-21.52.03:656][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.01.21-21.52.03:709][157]Cmd: MAP LOAD FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.21-21.52.03:709][157]LightingResults: New page: Lighting Build
+[2020.01.21-21.52.03:709][157]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.01.21-21.52.03:787][157]LogWorld: UWorld::CleanupWorld for LevelDesignTest, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-21.52.03:812][157]MapCheck: New page: Map Check
+[2020.01.21-21.52.03:813][157]LightingResults: New page: Lighting Build
+[2020.01.21-21.52.03:956][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.01.21-21.52.04:242][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.21-21.52.04:293][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.21-21.52.04:304][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.21-21.52.04:304][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2020.01.21-21.52.04:304][157]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.648
+[2020.01.21-21.52.31:207][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.01.21-21.52.31:228][139]LogMetaData: Removing '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' ref from Metadata '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.PackageMetaData'
+[2020.01.21-21.52.31:228][139]LogMetaData: Removing '/Game/_LaserPuzzle/Levels/testDeMecanicas.SKEL_testDeMecanicas_C' ref from Metadata '/Game/_LaserPuzzle/Levels/FirstPersonExampleMap.PackageMetaData'
+[2020.01.21-21.52.31:441][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.21-21.52.31:947][139]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicas87579D144B20ECDE7B62959ABAFA7A41.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/testDeMecanicas.umap'
+[2020.01.21-21.52.31:998][139]LogFileHelpers: Saving map 'testDeMecanicas' took 0.670
+[2020.01.21-21.52.32:224][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.01.21-21.52.32:258][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.21-21.52.32:284][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.01.21-21.52.36:015][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.21-21.52.36:081][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.21-21.52.36:291][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.52.36:356][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.52.36:392][497]PIE: New page: PIE session: testDeMecanicas (Jan 21, 2020, 11:52:36 PM)
+[2020.01.21-21.52.36:499][497]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.21-21.52.36:517][497]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-21.52.36:588][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070605s)
+[2020.01.21-21.52.36:599][497]LogAIModule: Creating AISystem for world testDeMecanicas
+[2020.01.21-21.52.36:619][497]LogPlayLevel: PIE: World Init took: (0.021448s)
+[2020.01.21-21.52.36:619][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas to /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas (0.101676s)
+[2020.01.21-21.52.36:695][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.01.21-21.52.36:910][497]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-21.52.36:957][497]LogInit: FAudioDevice initialized.
+[2020.01.21-21.52.37:002][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.52.37:025][497]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.21-21.52.37:150][497]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas up for play (max tick rate 0) at 2020.01.21-22.52.37
+[2020.01.21-21.52.37:224][497]LogWorld: Bringing up level for play took: 0.116683
+[2020.01.21-21.52.37:255][497]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.21-21.52.37:548][497]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.01.21-21.52.37:781][497]Cmd: stat fps
+[2020.01.21-21.52.38:082][497]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas 1.101
+[2020.01.21-21.52.38:083][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.52.38:856][498]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.01.21-21.52.39:200][498]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2020.01.21-21.52.42:172][788]Cmd: fov 90.108421
+[2020.01.21-21.52.42:234][789]Cmd: fov 91.33638
+[2020.01.21-21.52.42:244][790]Cmd: fov 91.6017
+[2020.01.21-21.52.42:252][791]Cmd: fov 91.832741
+[2020.01.21-21.52.42:261][792]Cmd: fov 92.062584
+[2020.01.21-21.52.42:269][793]Cmd: fov 92.300606
+[2020.01.21-21.52.42:278][794]Cmd: fov 92.544777
+[2020.01.21-21.52.42:286][795]Cmd: fov 92.795174
+[2020.01.21-21.52.42:295][796]Cmd: fov 93.064644
+[2020.01.21-21.52.42:304][797]Cmd: fov 93.320206
+[2020.01.21-21.52.42:313][798]Cmd: fov 93.584267
+[2020.01.21-21.52.42:321][799]Cmd: fov 93.846436
+[2020.01.21-21.52.42:330][800]Cmd: fov 94.09584
+[2020.01.21-21.52.42:339][801]Cmd: fov 94.351921
+[2020.01.21-21.52.42:347][802]Cmd: fov 94.606361
+[2020.01.21-21.52.42:356][803]Cmd: fov 94.843498
+[2020.01.21-21.52.42:366][804]Cmd: fov 95.110481
+[2020.01.21-21.52.42:388][805]Cmd: fov 95.67289
+[2020.01.21-21.52.42:396][806]Cmd: fov 95.875664
+[2020.01.21-21.52.42:405][807]Cmd: fov 96.082237
+[2020.01.21-21.52.42:414][808]Cmd: fov 96.261574
+[2020.01.21-21.52.42:424][809]Cmd: fov 96.467247
+[2020.01.21-21.52.42:433][810]Cmd: fov 96.611031
+[2020.01.21-21.52.42:442][811]Cmd: fov 96.746269
+[2020.01.21-21.52.42:450][812]Cmd: fov 96.86142
+[2020.01.21-21.52.42:459][813]Cmd: fov 96.959045
+[2020.01.21-21.52.42:467][814]Cmd: fov 97.0
+[2020.01.21-21.52.42:477][815]Cmd: fov 97.0
+[2020.01.21-21.52.42:486][816]Cmd: fov 97.0
+[2020.01.21-21.52.42:495][817]Cmd: fov 97.0
+[2020.01.21-21.52.42:504][818]Cmd: fov 97.0
+[2020.01.21-21.52.42:513][819]Cmd: fov 97.0
+[2020.01.21-21.52.42:523][820]Cmd: fov 97.0
+[2020.01.21-21.52.42:531][821]Cmd: fov 97.0
+[2020.01.21-21.52.42:540][822]Cmd: fov 97.0
+[2020.01.21-21.52.42:549][823]Cmd: fov 97.0
+[2020.01.21-21.52.42:559][824]Cmd: fov 97.0
+[2020.01.21-21.52.42:568][825]Cmd: fov 97.0
+[2020.01.21-21.52.42:578][826]Cmd: fov 97.0
+[2020.01.21-21.52.42:586][827]Cmd: fov 97.0
+[2020.01.21-21.52.42:595][828]Cmd: fov 97.0
+[2020.01.21-21.52.42:605][829]Cmd: fov 97.0
+[2020.01.21-21.52.42:614][830]Cmd: fov 97.0
+[2020.01.21-21.52.42:623][831]Cmd: fov 97.0
+[2020.01.21-21.52.42:632][832]Cmd: fov 97.0
+[2020.01.21-21.52.42:641][833]Cmd: fov 97.0
+[2020.01.21-21.52.42:649][834]Cmd: fov 97.0
+[2020.01.21-21.52.42:659][835]Cmd: fov 97.0
+[2020.01.21-21.52.42:668][836]Cmd: fov 97.0
+[2020.01.21-21.52.42:678][837]Cmd: fov 97.0
+[2020.01.21-21.52.42:688][838]Cmd: fov 97.0
+[2020.01.21-21.52.42:696][839]Cmd: fov 97.0
+[2020.01.21-21.52.42:705][840]Cmd: fov 97.0
+[2020.01.21-21.52.42:715][841]Cmd: fov 97.0
+[2020.01.21-21.52.42:724][842]Cmd: fov 97.0
+[2020.01.21-21.52.42:733][843]Cmd: fov 97.0
+[2020.01.21-21.52.42:742][844]Cmd: fov 97.0
+[2020.01.21-21.52.42:751][845]Cmd: fov 97.0
+[2020.01.21-21.52.42:760][846]Cmd: fov 97.0
+[2020.01.21-21.52.42:768][847]Cmd: fov 97.0
+[2020.01.21-21.52.42:777][848]Cmd: fov 97.0
+[2020.01.21-21.52.42:786][849]Cmd: fov 97.0
+[2020.01.21-21.52.42:795][850]Cmd: fov 97.0
+[2020.01.21-21.52.42:805][851]Cmd: fov 96.905083
+[2020.01.21-21.52.42:813][852]Cmd: fov 96.793655
+[2020.01.21-21.52.42:822][853]Cmd: fov 96.660477
+[2020.01.21-21.52.42:831][854]Cmd: fov 96.514122
+[2020.01.21-21.52.42:839][855]Cmd: fov 96.351166
+[2020.01.21-21.52.42:848][856]Cmd: fov 96.183472
+[2020.01.21-21.52.42:856][857]Cmd: fov 95.999718
+[2020.01.21-21.52.42:865][858]Cmd: fov 95.79734
+[2020.01.21-21.52.42:873][859]Cmd: fov 95.593597
+[2020.01.21-21.52.42:882][860]Cmd: fov 95.381775
+[2020.01.21-21.52.42:891][861]Cmd: fov 95.131943
+[2020.01.21-21.52.42:900][862]Cmd: fov 94.896996
+[2020.01.21-21.52.42:909][863]Cmd: fov 94.646927
+[2020.01.21-21.52.42:918][864]Cmd: fov 94.3825
+[2020.01.21-21.52.42:927][865]Cmd: fov 94.126564
+[2020.01.21-21.52.42:936][866]Cmd: fov 93.857841
+[2020.01.21-21.52.42:945][867]Cmd: fov 93.595238
+[2020.01.21-21.52.42:953][868]Cmd: fov 93.337303
+[2020.01.21-21.52.42:963][869]Cmd: fov 93.052162
+[2020.01.21-21.52.42:972][870]Cmd: fov 92.777321
+[2020.01.21-21.52.42:981][871]Cmd: fov 92.514824
+[2020.01.21-21.52.42:991][872]Cmd: fov 92.245926
+[2020.01.21-21.52.43:000][873]Cmd: fov 91.978195
+[2020.01.21-21.52.43:010][874]Cmd: fov 91.701469
+[2020.01.21-21.52.43:019][875]Cmd: fov 91.481636
+[2020.01.21-21.52.43:027][876]Cmd: fov 91.264542
+[2020.01.21-21.52.43:036][877]Cmd: fov 91.054718
+[2020.01.21-21.52.43:045][878]Cmd: fov 90.854233
+[2020.01.21-21.52.43:054][879]Cmd: fov 90.652412
+[2020.01.21-21.52.43:064][880]Cmd: fov 90.466553
+[2020.01.21-21.52.43:073][881]Cmd: fov 90.300018
+[2020.01.21-21.52.43:083][882]Cmd: fov 90.153557
+[2020.01.21-21.52.43:093][883]Cmd: fov 90.026115
+[2020.01.21-21.52.43:102][884]Cmd: fov 90.0
+[2020.01.21-21.52.49:980][629]Cmd: fov 90.110771
+[2020.01.21-21.52.49:989][630]Cmd: fov 90.258072
+[2020.01.21-21.52.49:998][631]Cmd: fov 90.405136
+[2020.01.21-21.52.50:007][632]Cmd: fov 90.57534
+[2020.01.21-21.52.50:015][633]Cmd: fov 90.746498
+[2020.01.21-21.52.50:023][634]Cmd: fov 90.933075
+[2020.01.21-21.52.50:032][635]Cmd: fov 91.138802
+[2020.01.21-21.52.50:041][636]Cmd: fov 91.355644
+[2020.01.21-21.52.50:049][637]Cmd: fov 91.569443
+[2020.01.21-21.52.50:058][638]Cmd: fov 91.791161
+[2020.01.21-21.52.50:066][639]Cmd: fov 92.019844
+[2020.01.21-21.52.50:075][640]Cmd: fov 92.26075
+[2020.01.21-21.52.50:084][641]Cmd: fov 92.535309
+[2020.01.21-21.52.50:093][642]Cmd: fov 92.791649
+[2020.01.21-21.52.50:101][643]Cmd: fov 93.042213
+[2020.01.21-21.52.50:110][644]Cmd: fov 93.303307
+[2020.01.21-21.52.50:119][645]Cmd: fov 93.567329
+[2020.01.21-21.52.50:128][646]Cmd: fov 93.832253
+[2020.01.21-21.52.50:137][647]Cmd: fov 94.08532
+[2020.01.21-21.52.50:145][648]Cmd: fov 94.329796
+[2020.01.21-21.52.50:154][649]Cmd: fov 94.600288
+[2020.01.21-21.52.50:163][650]Cmd: fov 94.852936
+[2020.01.21-21.52.50:172][651]Cmd: fov 95.099655
+[2020.01.21-21.52.50:182][652]Cmd: fov 95.358894
+[2020.01.21-21.52.50:192][653]Cmd: fov 95.607742
+[2020.01.21-21.52.50:200][654]Cmd: fov 95.814072
+[2020.01.21-21.52.50:209][655]Cmd: fov 96.016426
+[2020.01.21-21.52.50:218][656]Cmd: fov 96.208115
+[2020.01.21-21.52.50:226][657]Cmd: fov 96.375793
+[2020.01.21-21.52.50:235][658]Cmd: fov 96.53495
+[2020.01.21-21.52.50:244][659]Cmd: fov 96.67382
+[2020.01.21-21.52.50:252][660]Cmd: fov 96.797722
+[2020.01.21-21.52.50:261][661]Cmd: fov 96.904091
+[2020.01.21-21.52.50:270][662]Cmd: fov 96.994644
+[2020.01.21-21.52.50:278][663]Cmd: fov 97.0
+[2020.01.21-21.52.50:287][664]Cmd: fov 97.0
+[2020.01.21-21.52.50:295][665]Cmd: fov 97.0
+[2020.01.21-21.52.50:305][666]Cmd: fov 97.0
+[2020.01.21-21.52.50:313][667]Cmd: fov 97.0
+[2020.01.21-21.52.50:322][668]Cmd: fov 97.0
+[2020.01.21-21.52.50:331][669]Cmd: fov 97.0
+[2020.01.21-21.52.50:341][670]Cmd: fov 97.0
+[2020.01.21-21.52.50:350][671]Cmd: fov 97.0
+[2020.01.21-21.52.50:361][672]Cmd: fov 97.0
+[2020.01.21-21.52.50:371][673]Cmd: fov 97.0
+[2020.01.21-21.52.50:381][674]Cmd: fov 97.0
+[2020.01.21-21.52.50:391][675]Cmd: fov 97.0
+[2020.01.21-21.52.50:400][676]Cmd: fov 97.0
+[2020.01.21-21.52.50:408][677]Cmd: fov 97.0
+[2020.01.21-21.52.50:417][678]Cmd: fov 97.0
+[2020.01.21-21.52.50:426][679]Cmd: fov 97.0
+[2020.01.21-21.52.50:434][680]Cmd: fov 97.0
+[2020.01.21-21.52.50:444][681]Cmd: fov 97.0
+[2020.01.21-21.52.50:453][682]Cmd: fov 97.0
+[2020.01.21-21.52.50:462][683]Cmd: fov 97.0
+[2020.01.21-21.52.50:471][684]Cmd: fov 97.0
+[2020.01.21-21.52.50:479][685]Cmd: fov 97.0
+[2020.01.21-21.52.50:489][686]Cmd: fov 97.0
+[2020.01.21-21.52.50:498][687]Cmd: fov 97.0
+[2020.01.21-21.52.50:508][688]Cmd: fov 97.0
+[2020.01.21-21.52.50:518][689]Cmd: fov 97.0
+[2020.01.21-21.52.50:528][690]Cmd: fov 97.0
+[2020.01.21-21.52.50:538][691]Cmd: fov 97.0
+[2020.01.21-21.52.50:548][692]Cmd: fov 97.0
+[2020.01.21-21.52.50:558][693]Cmd: fov 97.0
+[2020.01.21-21.52.50:567][694]Cmd: fov 97.0
+[2020.01.21-21.52.50:576][695]Cmd: fov 97.0
+[2020.01.21-21.52.50:585][696]Cmd: fov 97.0
+[2020.01.21-21.52.50:595][697]Cmd: fov 97.0
+[2020.01.21-21.52.50:604][698]Cmd: fov 97.0
+[2020.01.21-21.52.50:613][699]Cmd: fov 97.0
+[2020.01.21-21.52.50:623][700]Cmd: fov 97.0
+[2020.01.21-21.52.50:632][701]Cmd: fov 97.0
+[2020.01.21-21.52.50:641][702]Cmd: fov 97.0
+[2020.01.21-21.52.50:650][703]Cmd: fov 97.0
+[2020.01.21-21.52.50:660][704]Cmd: fov 97.0
+[2020.01.21-21.52.50:669][705]Cmd: fov 97.0
+[2020.01.21-21.52.50:678][706]Cmd: fov 97.0
+[2020.01.21-21.52.50:688][707]Cmd: fov 97.0
+[2020.01.21-21.52.50:698][708]Cmd: fov 97.0
+[2020.01.21-21.52.50:707][709]Cmd: fov 97.0
+[2020.01.21-21.52.50:716][710]Cmd: fov 97.0
+[2020.01.21-21.52.50:726][711]Cmd: fov 97.0
+[2020.01.21-21.52.50:735][712]Cmd: fov 97.0
+[2020.01.21-21.52.50:744][713]Cmd: fov 97.0
+[2020.01.21-21.52.50:754][714]Cmd: fov 97.0
+[2020.01.21-21.52.50:764][715]Cmd: fov 97.0
+[2020.01.21-21.52.50:773][716]Cmd: fov 97.0
+[2020.01.21-21.52.50:782][717]Cmd: fov 97.0
+[2020.01.21-21.52.50:793][718]Cmd: fov 97.0
+[2020.01.21-21.52.50:802][719]Cmd: fov 97.0
+[2020.01.21-21.52.50:812][720]Cmd: fov 97.0
+[2020.01.21-21.52.50:822][721]Cmd: fov 97.0
+[2020.01.21-21.52.50:831][722]Cmd: fov 97.0
+[2020.01.21-21.52.50:841][723]Cmd: fov 97.0
+[2020.01.21-21.52.50:850][724]Cmd: fov 97.0
+[2020.01.21-21.52.50:860][725]Cmd: fov 97.0
+[2020.01.21-21.52.50:869][726]Cmd: fov 97.0
+[2020.01.21-21.52.50:878][727]Cmd: fov 97.0
+[2020.01.21-21.52.50:888][728]Cmd: fov 97.0
+[2020.01.21-21.52.50:898][729]Cmd: fov 97.0
+[2020.01.21-21.52.50:908][730]Cmd: fov 97.0
+[2020.01.21-21.52.50:918][731]Cmd: fov 97.0
+[2020.01.21-21.52.50:928][732]Cmd: fov 97.0
+[2020.01.21-21.52.50:937][733]Cmd: fov 97.0
+[2020.01.21-21.52.50:946][734]Cmd: fov 97.0
+[2020.01.21-21.52.50:955][735]Cmd: fov 97.0
+[2020.01.21-21.52.50:963][736]Cmd: fov 97.0
+[2020.01.21-21.52.50:972][737]Cmd: fov 97.0
+[2020.01.21-21.52.50:981][738]Cmd: fov 97.0
+[2020.01.21-21.52.50:991][739]Cmd: fov 97.0
+[2020.01.21-21.52.51:001][740]Cmd: fov 97.0
+[2020.01.21-21.52.51:009][741]Cmd: fov 97.0
+[2020.01.21-21.52.51:018][742]Cmd: fov 97.0
+[2020.01.21-21.52.51:026][743]Cmd: fov 97.0
+[2020.01.21-21.52.51:036][744]Cmd: fov 97.0
+[2020.01.21-21.52.51:045][745]Cmd: fov 97.0
+[2020.01.21-21.52.51:055][746]Cmd: fov 97.0
+[2020.01.21-21.52.51:065][747]Cmd: fov 97.0
+[2020.01.21-21.52.51:074][748]Cmd: fov 97.0
+[2020.01.21-21.52.51:084][749]Cmd: fov 97.0
+[2020.01.21-21.52.51:093][750]Cmd: fov 97.0
+[2020.01.21-21.52.51:103][751]Cmd: fov 97.0
+[2020.01.21-21.52.51:112][752]Cmd: fov 97.0
+[2020.01.21-21.52.51:122][753]Cmd: fov 97.0
+[2020.01.21-21.52.51:132][754]Cmd: fov 97.0
+[2020.01.21-21.52.51:141][755]Cmd: fov 97.0
+[2020.01.21-21.52.51:151][756]Cmd: fov 97.0
+[2020.01.21-21.52.51:159][757]Cmd: fov 97.0
+[2020.01.21-21.52.51:169][758]Cmd: fov 97.0
+[2020.01.21-21.52.51:178][759]Cmd: fov 97.0
+[2020.01.21-21.52.51:187][760]Cmd: fov 97.0
+[2020.01.21-21.52.51:197][761]Cmd: fov 97.0
+[2020.01.21-21.52.51:206][762]Cmd: fov 97.0
+[2020.01.21-21.52.51:216][763]Cmd: fov 97.0
+[2020.01.21-21.52.51:225][764]Cmd: fov 97.0
+[2020.01.21-21.52.51:235][765]Cmd: fov 97.0
+[2020.01.21-21.52.51:244][766]Cmd: fov 97.0
+[2020.01.21-21.52.51:254][767]Cmd: fov 97.0
+[2020.01.21-21.52.51:264][768]Cmd: fov 97.0
+[2020.01.21-21.52.51:274][769]Cmd: fov 97.0
+[2020.01.21-21.52.51:284][770]Cmd: fov 97.0
+[2020.01.21-21.52.51:294][771]Cmd: fov 97.0
+[2020.01.21-21.52.51:304][772]Cmd: fov 97.0
+[2020.01.21-21.52.51:313][773]Cmd: fov 97.0
+[2020.01.21-21.52.51:323][774]Cmd: fov 97.0
+[2020.01.21-21.52.51:332][775]Cmd: fov 97.0
+[2020.01.21-21.52.51:342][776]Cmd: fov 97.0
+[2020.01.21-21.52.51:352][777]Cmd: fov 97.0
+[2020.01.21-21.52.51:361][778]Cmd: fov 97.0
+[2020.01.21-21.52.51:372][779]Cmd: fov 97.0
+[2020.01.21-21.52.51:382][780]Cmd: fov 97.0
+[2020.01.21-21.52.51:392][781]Cmd: fov 97.0
+[2020.01.21-21.52.51:402][782]Cmd: fov 97.0
+[2020.01.21-21.52.51:413][783]Cmd: fov 96.893509
+[2020.01.21-21.52.51:422][784]Cmd: fov 96.758698
+[2020.01.21-21.52.51:432][785]Cmd: fov 96.609261
+[2020.01.21-21.52.51:442][786]Cmd: fov 96.4394
+[2020.01.21-21.52.51:451][787]Cmd: fov 96.253342
+[2020.01.21-21.52.51:462][788]Cmd: fov 96.045181
+[2020.01.21-21.52.51:472][789]Cmd: fov 95.808891
+[2020.01.21-21.52.51:481][790]Cmd: fov 95.579956
+[2020.01.21-21.52.51:490][791]Cmd: fov 95.346878
+[2020.01.21-21.52.51:498][792]Cmd: fov 95.117653
+[2020.01.21-21.52.51:508][793]Cmd: fov 94.864761
+[2020.01.21-21.52.51:517][794]Cmd: fov 94.604576
+[2020.01.21-21.52.51:527][795]Cmd: fov 94.325127
+[2020.01.21-21.52.51:536][796]Cmd: fov 94.056137
+[2020.01.21-21.52.51:545][797]Cmd: fov 93.784996
+[2020.01.21-21.52.51:554][798]Cmd: fov 93.511574
+[2020.01.21-21.52.51:563][799]Cmd: fov 93.237579
+[2020.01.21-21.52.51:572][800]Cmd: fov 92.956314
+[2020.01.21-21.52.51:581][801]Cmd: fov 92.686996
+[2020.01.21-21.52.51:591][802]Cmd: fov 92.398026
+[2020.01.21-21.52.51:601][803]Cmd: fov 92.133514
+[2020.01.21-21.52.51:610][804]Cmd: fov 91.876854
+[2020.01.21-21.52.51:620][805]Cmd: fov 91.613121
+[2020.01.21-21.52.51:629][806]Cmd: fov 91.373749
+[2020.01.21-21.52.51:638][807]Cmd: fov 91.143974
+[2020.01.21-21.52.51:648][808]Cmd: fov 90.925331
+[2020.01.21-21.52.51:657][809]Cmd: fov 90.723228
+[2020.01.21-21.52.51:666][810]Cmd: fov 90.539009
+[2020.01.21-21.52.51:676][811]Cmd: fov 90.362389
+[2020.01.21-21.52.51:685][812]Cmd: fov 90.209526
+[2020.01.21-21.52.51:695][813]Cmd: fov 90.074593
+[2020.01.21-21.52.51:704][814]Cmd: fov 90.0
+[2020.01.21-21.52.54:945][182]Cmd: fov 90.140915
+[2020.01.21-21.52.54:956][183]Cmd: fov 90.323685
+[2020.01.21-21.52.54:966][184]Cmd: fov 90.505318
+[2020.01.21-21.52.54:976][185]Cmd: fov 90.696304
+[2020.01.21-21.52.54:986][186]Cmd: fov 90.911385
+[2020.01.21-21.52.54:997][187]Cmd: fov 91.166428
+[2020.01.21-21.52.55:006][188]Cmd: fov 91.390015
+[2020.01.21-21.52.55:015][189]Cmd: fov 91.629829
+[2020.01.21-21.52.55:025][190]Cmd: fov 91.88356
+[2020.01.21-21.52.55:033][191]Cmd: fov 92.129807
+[2020.01.21-21.52.55:043][192]Cmd: fov 92.404327
+[2020.01.21-21.52.55:053][193]Cmd: fov 92.680656
+[2020.01.21-21.52.55:063][194]Cmd: fov 92.972816
+[2020.01.21-21.52.55:075][195]Cmd: fov 93.358833
+[2020.01.21-21.52.55:086][196]Cmd: fov 93.673096
+[2020.01.21-21.52.55:096][197]Cmd: fov 93.978531
+[2020.01.21-21.52.55:107][198]Cmd: fov 94.30172
+[2020.01.21-21.52.55:117][199]Cmd: fov 94.574944
+[2020.01.21-21.52.55:126][200]Cmd: fov 94.853119
+[2020.01.21-21.52.55:136][201]Cmd: fov 95.123718
+[2020.01.21-21.52.55:145][202]Cmd: fov 95.35331
+[2020.01.21-21.52.55:154][203]Cmd: fov 95.579086
+[2020.01.21-21.52.55:163][204]Cmd: fov 95.802704
+[2020.01.21-21.52.55:173][205]Cmd: fov 96.035408
+[2020.01.21-21.52.55:182][206]Cmd: fov 96.232445
+[2020.01.21-21.52.55:192][207]Cmd: fov 96.418991
+[2020.01.21-21.52.55:201][208]Cmd: fov 96.58416
+[2020.01.21-21.52.55:211][209]Cmd: fov 96.732742
+[2020.01.21-21.52.55:220][210]Cmd: fov 96.85923
+[2020.01.21-21.52.55:229][211]Cmd: fov 96.963829
+[2020.01.21-21.52.55:239][212]Cmd: fov 97.0
+[2020.01.21-21.52.55:249][213]Cmd: fov 97.0
+[2020.01.21-21.52.55:258][214]Cmd: fov 97.0
+[2020.01.21-21.52.55:269][215]Cmd: fov 97.0
+[2020.01.21-21.52.55:278][216]Cmd: fov 97.0
+[2020.01.21-21.52.55:287][217]Cmd: fov 97.0
+[2020.01.21-21.52.55:297][218]Cmd: fov 97.0
+[2020.01.21-21.52.55:306][219]Cmd: fov 97.0
+[2020.01.21-21.52.55:316][220]Cmd: fov 97.0
+[2020.01.21-21.52.55:325][221]Cmd: fov 97.0
+[2020.01.21-21.52.55:334][222]Cmd: fov 97.0
+[2020.01.21-21.52.55:343][223]Cmd: fov 97.0
+[2020.01.21-21.52.55:353][224]Cmd: fov 97.0
+[2020.01.21-21.52.55:362][225]Cmd: fov 97.0
+[2020.01.21-21.52.55:372][226]Cmd: fov 97.0
+[2020.01.21-21.52.55:381][227]Cmd: fov 97.0
+[2020.01.21-21.52.55:390][228]Cmd: fov 97.0
+[2020.01.21-21.52.55:400][229]Cmd: fov 97.0
+[2020.01.21-21.52.55:410][230]Cmd: fov 97.0
+[2020.01.21-21.52.55:419][231]Cmd: fov 97.0
+[2020.01.21-21.52.55:429][232]Cmd: fov 97.0
+[2020.01.21-21.52.55:438][233]Cmd: fov 97.0
+[2020.01.21-21.52.55:447][234]Cmd: fov 97.0
+[2020.01.21-21.52.55:457][235]Cmd: fov 97.0
+[2020.01.21-21.52.55:466][236]Cmd: fov 97.0
+[2020.01.21-21.52.55:476][237]Cmd: fov 97.0
+[2020.01.21-21.52.55:485][238]Cmd: fov 97.0
+[2020.01.21-21.52.55:494][239]Cmd: fov 97.0
+[2020.01.21-21.52.55:504][240]Cmd: fov 97.0
+[2020.01.21-21.52.55:513][241]Cmd: fov 97.0
+[2020.01.21-21.52.55:523][242]Cmd: fov 97.0
+[2020.01.21-21.52.55:531][243]Cmd: fov 97.0
+[2020.01.21-21.52.55:540][244]Cmd: fov 97.0
+[2020.01.21-21.52.55:550][245]Cmd: fov 97.0
+[2020.01.21-21.52.55:559][246]Cmd: fov 97.0
+[2020.01.21-21.52.55:568][247]Cmd: fov 97.0
+[2020.01.21-21.52.55:578][248]Cmd: fov 97.0
+[2020.01.21-21.52.55:587][249]Cmd: fov 97.0
+[2020.01.21-21.52.55:596][250]Cmd: fov 97.0
+[2020.01.21-21.52.55:606][251]Cmd: fov 97.0
+[2020.01.21-21.52.55:615][252]Cmd: fov 97.0
+[2020.01.21-21.52.55:624][253]Cmd: fov 97.0
+[2020.01.21-21.52.55:634][254]Cmd: fov 97.0
+[2020.01.21-21.52.55:642][255]Cmd: fov 97.0
+[2020.01.21-21.52.55:651][256]Cmd: fov 97.0
+[2020.01.21-21.52.55:661][257]Cmd: fov 97.0
+[2020.01.21-21.52.55:671][258]Cmd: fov 97.0
+[2020.01.21-21.52.55:680][259]Cmd: fov 97.0
+[2020.01.21-21.52.55:690][260]Cmd: fov 97.0
+[2020.01.21-21.52.55:699][261]Cmd: fov 97.0
+[2020.01.21-21.52.55:709][262]Cmd: fov 97.0
+[2020.01.21-21.52.55:718][263]Cmd: fov 97.0
+[2020.01.21-21.52.55:727][264]Cmd: fov 97.0
+[2020.01.21-21.52.55:737][265]Cmd: fov 97.0
+[2020.01.21-21.52.55:745][266]Cmd: fov 97.0
+[2020.01.21-21.52.55:755][267]Cmd: fov 97.0
+[2020.01.21-21.52.55:764][268]Cmd: fov 97.0
+[2020.01.21-21.52.55:773][269]Cmd: fov 97.0
+[2020.01.21-21.52.55:783][270]Cmd: fov 97.0
+[2020.01.21-21.52.55:792][271]Cmd: fov 97.0
+[2020.01.21-21.52.55:801][272]Cmd: fov 97.0
+[2020.01.21-21.52.55:810][273]Cmd: fov 97.0
+[2020.01.21-21.52.55:820][274]Cmd: fov 97.0
+[2020.01.21-21.52.55:829][275]Cmd: fov 97.0
+[2020.01.21-21.52.55:838][276]Cmd: fov 97.0
+[2020.01.21-21.52.55:848][277]Cmd: fov 97.0
+[2020.01.21-21.52.55:857][278]Cmd: fov 97.0
+[2020.01.21-21.52.55:866][279]Cmd: fov 97.0
+[2020.01.21-21.52.55:876][280]Cmd: fov 97.0
+[2020.01.21-21.52.55:885][281]Cmd: fov 97.0
+[2020.01.21-21.52.55:895][282]Cmd: fov 97.0
+[2020.01.21-21.52.55:904][283]Cmd: fov 97.0
+[2020.01.21-21.52.55:913][284]Cmd: fov 97.0
+[2020.01.21-21.52.55:923][285]Cmd: fov 97.0
+[2020.01.21-21.52.55:933][286]Cmd: fov 97.0
+[2020.01.21-21.52.55:942][287]Cmd: fov 97.0
+[2020.01.21-21.52.55:952][288]Cmd: fov 97.0
+[2020.01.21-21.52.55:961][289]Cmd: fov 97.0
+[2020.01.21-21.52.55:971][290]Cmd: fov 97.0
+[2020.01.21-21.52.55:980][291]Cmd: fov 97.0
+[2020.01.21-21.52.56:025][292]Cmd: fov 97.0
+[2020.01.21-21.52.56:117][293]Cmd: fov 95.945473
+[2020.01.21-21.52.56:126][294]Cmd: fov 93.995041
+[2020.01.21-21.52.56:136][295]Cmd: fov 93.700912
+[2020.01.21-21.52.56:146][296]Cmd: fov 93.403214
+[2020.01.21-21.52.56:156][297]Cmd: fov 93.098831
+[2020.01.21-21.52.56:166][298]Cmd: fov 92.809685
+[2020.01.21-21.52.56:176][299]Cmd: fov 92.525269
+[2020.01.21-21.52.56:186][300]Cmd: fov 92.237396
+[2020.01.21-21.52.56:196][301]Cmd: fov 91.957161
+[2020.01.21-21.52.56:206][302]Cmd: fov 91.687447
+[2020.01.21-21.52.56:215][303]Cmd: fov 91.4422
+[2020.01.21-21.52.56:224][304]Cmd: fov 91.207062
+[2020.01.21-21.52.56:234][305]Cmd: fov 90.982193
+[2020.01.21-21.52.56:244][306]Cmd: fov 90.764748
+[2020.01.21-21.52.56:253][307]Cmd: fov 90.568695
+[2020.01.21-21.52.56:263][308]Cmd: fov 90.390244
+[2020.01.21-21.52.56:273][309]Cmd: fov 90.230232
+[2020.01.21-21.52.56:282][310]Cmd: fov 90.092155
+[2020.01.21-21.52.56:292][311]Cmd: fov 90.0
+[2020.01.21-21.53.04:693][167]Cmd: fov 90.124672
+[2020.01.21-21.53.04:703][168]Cmd: fov 90.281273
+[2020.01.21-21.53.04:712][169]Cmd: fov 90.451859
+[2020.01.21-21.53.04:723][170]Cmd: fov 90.663208
+[2020.01.21-21.53.04:733][171]Cmd: fov 90.870132
+[2020.01.21-21.53.04:743][172]Cmd: fov 91.096291
+[2020.01.21-21.53.04:753][173]Cmd: fov 91.333611
+[2020.01.21-21.53.04:762][174]Cmd: fov 91.581413
+[2020.01.21-21.53.04:772][175]Cmd: fov 91.843391
+[2020.01.21-21.53.04:782][176]Cmd: fov 92.11544
+[2020.01.21-21.53.04:792][177]Cmd: fov 92.400154
+[2020.01.21-21.53.04:802][178]Cmd: fov 92.684799
+[2020.01.21-21.53.04:811][179]Cmd: fov 92.972145
+[2020.01.21-21.53.04:821][180]Cmd: fov 93.254974
+[2020.01.21-21.53.04:830][181]Cmd: fov 93.531372
+[2020.01.21-21.53.04:839][182]Cmd: fov 93.816208
+[2020.01.21-21.53.04:848][183]Cmd: fov 94.089722
+[2020.01.21-21.53.04:858][184]Cmd: fov 94.365448
+[2020.01.21-21.53.04:867][185]Cmd: fov 94.63485
+[2020.01.21-21.53.04:877][186]Cmd: fov 94.896057
+[2020.01.21-21.53.04:886][187]Cmd: fov 95.15213
+[2020.01.21-21.53.04:896][188]Cmd: fov 95.405777
+[2020.01.21-21.53.04:905][189]Cmd: fov 95.642036
+[2020.01.21-21.53.04:914][190]Cmd: fov 95.866814
+[2020.01.21-21.53.04:924][191]Cmd: fov 96.090218
+[2020.01.21-21.53.04:934][192]Cmd: fov 96.288834
+[2020.01.21-21.53.04:943][193]Cmd: fov 96.470642
+[2020.01.21-21.53.04:953][194]Cmd: fov 96.633774
+[2020.01.21-21.53.04:962][195]Cmd: fov 96.774063
+[2020.01.21-21.53.04:972][196]Cmd: fov 96.893166
+[2020.01.21-21.53.04:981][197]Cmd: fov 96.993469
+[2020.01.21-21.53.04:991][198]Cmd: fov 97.0
+[2020.01.21-21.53.05:001][199]Cmd: fov 97.0
+[2020.01.21-21.53.05:011][200]Cmd: fov 97.0
+[2020.01.21-21.53.05:020][201]Cmd: fov 97.0
+[2020.01.21-21.53.05:031][202]Cmd: fov 97.0
+[2020.01.21-21.53.05:042][203]Cmd: fov 97.0
+[2020.01.21-21.53.05:054][204]Cmd: fov 97.0
+[2020.01.21-21.53.05:064][205]Cmd: fov 97.0
+[2020.01.21-21.53.05:073][206]Cmd: fov 97.0
+[2020.01.21-21.53.05:087][207]Cmd: fov 97.0
+[2020.01.21-21.53.05:097][208]Cmd: fov 97.0
+[2020.01.21-21.53.05:106][209]Cmd: fov 97.0
+[2020.01.21-21.53.05:115][210]Cmd: fov 97.0
+[2020.01.21-21.53.05:125][211]Cmd: fov 97.0
+[2020.01.21-21.53.05:134][212]Cmd: fov 97.0
+[2020.01.21-21.53.05:144][213]Cmd: fov 97.0
+[2020.01.21-21.53.05:154][214]Cmd: fov 97.0
+[2020.01.21-21.53.05:164][215]Cmd: fov 97.0
+[2020.01.21-21.53.05:174][216]Cmd: fov 97.0
+[2020.01.21-21.53.05:184][217]Cmd: fov 97.0
+[2020.01.21-21.53.05:194][218]Cmd: fov 97.0
+[2020.01.21-21.53.05:205][219]Cmd: fov 97.0
+[2020.01.21-21.53.05:215][220]Cmd: fov 97.0
+[2020.01.21-21.53.05:225][221]Cmd: fov 97.0
+[2020.01.21-21.53.05:235][222]Cmd: fov 97.0
+[2020.01.21-21.53.05:245][223]Cmd: fov 97.0
+[2020.01.21-21.53.05:255][224]Cmd: fov 97.0
+[2020.01.21-21.53.05:265][225]Cmd: fov 97.0
+[2020.01.21-21.53.05:275][226]Cmd: fov 97.0
+[2020.01.21-21.53.05:284][227]Cmd: fov 97.0
+[2020.01.21-21.53.05:292][228]Cmd: fov 97.0
+[2020.01.21-21.53.05:302][229]Cmd: fov 97.0
+[2020.01.21-21.53.05:311][230]Cmd: fov 97.0
+[2020.01.21-21.53.05:321][231]Cmd: fov 97.0
+[2020.01.21-21.53.05:330][232]Cmd: fov 97.0
+[2020.01.21-21.53.05:339][233]Cmd: fov 97.0
+[2020.01.21-21.53.05:348][234]Cmd: fov 97.0
+[2020.01.21-21.53.05:358][235]Cmd: fov 97.0
+[2020.01.21-21.53.05:368][236]Cmd: fov 97.0
+[2020.01.21-21.53.05:377][237]Cmd: fov 97.0
+[2020.01.21-21.53.05:386][238]Cmd: fov 97.0
+[2020.01.21-21.53.05:396][239]Cmd: fov 97.0
+[2020.01.21-21.53.05:405][240]Cmd: fov 97.0
+[2020.01.21-21.53.05:415][241]Cmd: fov 97.0
+[2020.01.21-21.53.05:425][242]Cmd: fov 97.0
+[2020.01.21-21.53.05:434][243]Cmd: fov 97.0
+[2020.01.21-21.53.05:444][244]Cmd: fov 97.0
+[2020.01.21-21.53.05:454][245]Cmd: fov 97.0
+[2020.01.21-21.53.05:463][246]Cmd: fov 97.0
+[2020.01.21-21.53.05:472][247]Cmd: fov 97.0
+[2020.01.21-21.53.05:482][248]Cmd: fov 97.0
+[2020.01.21-21.53.05:492][249]Cmd: fov 97.0
+[2020.01.21-21.53.05:502][250]Cmd: fov 97.0
+[2020.01.21-21.53.05:512][251]Cmd: fov 97.0
+[2020.01.21-21.53.05:520][252]Cmd: fov 97.0
+[2020.01.21-21.53.05:530][253]Cmd: fov 97.0
+[2020.01.21-21.53.05:539][254]Cmd: fov 97.0
+[2020.01.21-21.53.05:548][255]Cmd: fov 97.0
+[2020.01.21-21.53.05:557][256]Cmd: fov 97.0
+[2020.01.21-21.53.05:567][257]Cmd: fov 97.0
+[2020.01.21-21.53.05:576][258]Cmd: fov 97.0
+[2020.01.21-21.53.05:586][259]Cmd: fov 97.0
+[2020.01.21-21.53.05:595][260]Cmd: fov 97.0
+[2020.01.21-21.53.05:605][261]Cmd: fov 97.0
+[2020.01.21-21.53.05:614][262]Cmd: fov 97.0
+[2020.01.21-21.53.05:624][263]Cmd: fov 97.0
+[2020.01.21-21.53.05:633][264]Cmd: fov 97.0
+[2020.01.21-21.53.05:642][265]Cmd: fov 97.0
+[2020.01.21-21.53.05:651][266]Cmd: fov 97.0
+[2020.01.21-21.53.05:661][267]Cmd: fov 97.0
+[2020.01.21-21.53.05:671][268]Cmd: fov 97.0
+[2020.01.21-21.53.05:680][269]Cmd: fov 97.0
+[2020.01.21-21.53.05:690][270]Cmd: fov 97.0
+[2020.01.21-21.53.05:700][271]Cmd: fov 97.0
+[2020.01.21-21.53.05:710][272]Cmd: fov 97.0
+[2020.01.21-21.53.05:720][273]Cmd: fov 97.0
+[2020.01.21-21.53.05:729][274]Cmd: fov 97.0
+[2020.01.21-21.53.05:739][275]Cmd: fov 97.0
+[2020.01.21-21.53.05:749][276]Cmd: fov 97.0
+[2020.01.21-21.53.05:759][277]Cmd: fov 97.0
+[2020.01.21-21.53.05:769][278]Cmd: fov 97.0
+[2020.01.21-21.53.05:778][279]Cmd: fov 97.0
+[2020.01.21-21.53.05:788][280]Cmd: fov 97.0
+[2020.01.21-21.53.05:797][281]Cmd: fov 97.0
+[2020.01.21-21.53.05:807][282]Cmd: fov 97.0
+[2020.01.21-21.53.05:816][283]Cmd: fov 97.0
+[2020.01.21-21.53.05:826][284]Cmd: fov 97.0
+[2020.01.21-21.53.05:836][285]Cmd: fov 97.0
+[2020.01.21-21.53.05:845][286]Cmd: fov 97.0
+[2020.01.21-21.53.05:855][287]Cmd: fov 97.0
+[2020.01.21-21.53.05:865][288]Cmd: fov 97.0
+[2020.01.21-21.53.05:875][289]Cmd: fov 97.0
+[2020.01.21-21.53.05:884][290]Cmd: fov 97.0
+[2020.01.21-21.53.05:894][291]Cmd: fov 97.0
+[2020.01.21-21.53.05:904][292]Cmd: fov 97.0
+[2020.01.21-21.53.05:913][293]Cmd: fov 97.0
+[2020.01.21-21.53.05:923][294]Cmd: fov 97.0
+[2020.01.21-21.53.05:933][295]Cmd: fov 97.0
+[2020.01.21-21.53.05:943][296]Cmd: fov 97.0
+[2020.01.21-21.53.05:953][297]Cmd: fov 97.0
+[2020.01.21-21.53.05:962][298]Cmd: fov 97.0
+[2020.01.21-21.53.05:973][299]Cmd: fov 97.0
+[2020.01.21-21.53.05:984][300]Cmd: fov 97.0
+[2020.01.21-21.53.05:995][301]Cmd: fov 97.0
+[2020.01.21-21.53.06:005][302]Cmd: fov 97.0
+[2020.01.21-21.53.06:014][303]Cmd: fov 97.0
+[2020.01.21-21.53.06:024][304]Cmd: fov 97.0
+[2020.01.21-21.53.06:033][305]Cmd: fov 97.0
+[2020.01.21-21.53.06:043][306]Cmd: fov 97.0
+[2020.01.21-21.53.06:053][307]Cmd: fov 97.0
+[2020.01.21-21.53.06:063][308]Cmd: fov 97.0
+[2020.01.21-21.53.06:072][309]Cmd: fov 97.0
+[2020.01.21-21.53.06:082][310]Cmd: fov 97.0
+[2020.01.21-21.53.06:092][311]Cmd: fov 97.0
+[2020.01.21-21.53.06:101][312]Cmd: fov 97.0
+[2020.01.21-21.53.06:111][313]Cmd: fov 97.0
+[2020.01.21-21.53.06:123][314]Cmd: fov 97.0
+[2020.01.21-21.53.07:235][436]Cmd: fov 97.0
+[2020.01.21-21.53.07:235][436]Cmd: fov 96.901993
+[2020.01.21-21.53.07:244][437]Cmd: fov 96.778099
+[2020.01.21-21.53.07:254][438]Cmd: fov 96.636711
+[2020.01.21-21.53.07:265][439]Cmd: fov 96.43869
+[2020.01.21-21.53.07:275][440]Cmd: fov 96.251984
+[2020.01.21-21.53.07:284][441]Cmd: fov 96.053711
+[2020.01.21-21.53.07:293][442]Cmd: fov 95.85009
+[2020.01.21-21.53.07:302][443]Cmd: fov 95.637367
+[2020.01.21-21.53.07:312][444]Cmd: fov 95.397545
+[2020.01.21-21.53.07:321][445]Cmd: fov 95.153679
+[2020.01.21-21.53.07:330][446]Cmd: fov 94.893974
+[2020.01.21-21.53.07:340][447]Cmd: fov 94.63089
+[2020.01.21-21.53.07:349][448]Cmd: fov 94.378036
+[2020.01.21-21.53.07:357][449]Cmd: fov 94.11338
+[2020.01.21-21.53.07:366][450]Cmd: fov 93.847908
+[2020.01.21-21.53.07:376][451]Cmd: fov 93.575638
+[2020.01.21-21.53.07:385][452]Cmd: fov 93.286469
+[2020.01.21-21.53.07:394][453]Cmd: fov 93.012115
+[2020.01.21-21.53.07:404][454]Cmd: fov 92.734604
+[2020.01.21-21.53.07:413][455]Cmd: fov 92.464684
+[2020.01.21-21.53.07:422][456]Cmd: fov 92.194359
+[2020.01.21-21.53.07:431][457]Cmd: fov 91.940521
+[2020.01.21-21.53.07:441][458]Cmd: fov 91.680618
+[2020.01.21-21.53.07:449][459]Cmd: fov 91.458054
+[2020.01.21-21.53.07:458][460]Cmd: fov 91.245491
+[2020.01.21-21.53.07:466][461]Cmd: fov 91.045914
+[2020.01.21-21.53.07:475][462]Cmd: fov 90.845474
+[2020.01.21-21.53.07:483][463]Cmd: fov 90.668655
+[2020.01.21-21.53.07:492][464]Cmd: fov 90.495956
+[2020.01.21-21.53.07:501][465]Cmd: fov 90.341194
+[2020.01.21-21.53.07:510][466]Cmd: fov 90.191994
+[2020.01.21-21.53.07:518][467]Cmd: fov 90.07383
+[2020.01.21-21.53.07:527][468]Cmd: fov 90.0
+[2020.01.21-21.53.13:114][ 90]Cmd: fov 90.115929
+[2020.01.21-21.53.13:123][ 91]Cmd: fov 90.274216
+[2020.01.21-21.53.13:132][ 92]Cmd: fov 90.430626
+[2020.01.21-21.53.13:141][ 93]Cmd: fov 90.609627
+[2020.01.21-21.53.13:151][ 94]Cmd: fov 90.804085
+[2020.01.21-21.53.13:160][ 95]Cmd: fov 91.022308
+[2020.01.21-21.53.13:170][ 96]Cmd: fov 91.256851
+[2020.01.21-21.53.13:179][ 97]Cmd: fov 91.482536
+[2020.01.21-21.53.13:188][ 98]Cmd: fov 91.716972
+[2020.01.21-21.53.13:197][ 99]Cmd: fov 91.953209
+[2020.01.21-21.53.13:206][100]Cmd: fov 92.210983
+[2020.01.21-21.53.13:215][101]Cmd: fov 92.462517
+[2020.01.21-21.53.13:224][102]Cmd: fov 92.724434
+[2020.01.21-21.53.13:232][103]Cmd: fov 92.982155
+[2020.01.21-21.53.13:241][104]Cmd: fov 93.24958
+[2020.01.21-21.53.13:250][105]Cmd: fov 93.52224
+[2020.01.21-21.53.13:260][106]Cmd: fov 93.812569
+[2020.01.21-21.53.13:270][107]Cmd: fov 94.079193
+[2020.01.21-21.53.13:278][108]Cmd: fov 94.356483
+[2020.01.21-21.53.13:288][109]Cmd: fov 94.612869
+[2020.01.21-21.53.13:296][110]Cmd: fov 94.850906
+[2020.01.21-21.53.13:304][111]Cmd: fov 95.083237
+[2020.01.21-21.53.13:314][112]Cmd: fov 95.330475
+[2020.01.21-21.53.13:323][113]Cmd: fov 95.571274
+[2020.01.21-21.53.13:332][114]Cmd: fov 95.800552
+[2020.01.21-21.53.13:342][115]Cmd: fov 96.012184
+[2020.01.21-21.53.13:350][116]Cmd: fov 96.202477
+[2020.01.21-21.53.13:360][117]Cmd: fov 96.394562
+[2020.01.21-21.53.13:369][118]Cmd: fov 96.552696
+[2020.01.21-21.53.13:378][119]Cmd: fov 96.695679
+[2020.01.21-21.53.13:386][120]Cmd: fov 96.815002
+[2020.01.21-21.53.13:396][121]Cmd: fov 96.92849
+[2020.01.21-21.53.13:404][122]Cmd: fov 97.0
+[2020.01.21-21.53.13:414][123]Cmd: fov 97.0
+[2020.01.21-21.53.13:422][124]Cmd: fov 97.0
+[2020.01.21-21.53.13:432][125]Cmd: fov 97.0
+[2020.01.21-21.53.13:441][126]Cmd: fov 97.0
+[2020.01.21-21.53.13:451][127]Cmd: fov 97.0
+[2020.01.21-21.53.13:460][128]Cmd: fov 97.0
+[2020.01.21-21.53.13:469][129]Cmd: fov 97.0
+[2020.01.21-21.53.13:478][130]Cmd: fov 97.0
+[2020.01.21-21.53.13:488][131]Cmd: fov 97.0
+[2020.01.21-21.53.13:497][132]Cmd: fov 97.0
+[2020.01.21-21.53.13:506][133]Cmd: fov 97.0
+[2020.01.21-21.53.13:514][134]Cmd: fov 97.0
+[2020.01.21-21.53.13:524][135]Cmd: fov 97.0
+[2020.01.21-21.53.13:533][136]Cmd: fov 97.0
+[2020.01.21-21.53.13:542][137]Cmd: fov 97.0
+[2020.01.21-21.53.13:552][138]Cmd: fov 97.0
+[2020.01.21-21.53.13:562][139]Cmd: fov 97.0
+[2020.01.21-21.53.13:571][140]Cmd: fov 97.0
+[2020.01.21-21.53.13:580][141]Cmd: fov 97.0
+[2020.01.21-21.53.13:589][142]Cmd: fov 97.0
+[2020.01.21-21.53.13:599][143]Cmd: fov 97.0
+[2020.01.21-21.53.13:607][144]Cmd: fov 97.0
+[2020.01.21-21.53.13:616][145]Cmd: fov 97.0
+[2020.01.21-21.53.13:626][146]Cmd: fov 97.0
+[2020.01.21-21.53.13:635][147]Cmd: fov 97.0
+[2020.01.21-21.53.13:645][148]Cmd: fov 97.0
+[2020.01.21-21.53.13:654][149]Cmd: fov 97.0
+[2020.01.21-21.53.13:664][150]Cmd: fov 97.0
+[2020.01.21-21.53.13:673][151]Cmd: fov 97.0
+[2020.01.21-21.53.13:683][152]Cmd: fov 97.0
+[2020.01.21-21.53.13:693][153]Cmd: fov 97.0
+[2020.01.21-21.53.13:702][154]Cmd: fov 97.0
+[2020.01.21-21.53.13:712][155]Cmd: fov 97.0
+[2020.01.21-21.53.13:721][156]Cmd: fov 97.0
+[2020.01.21-21.53.13:730][157]Cmd: fov 97.0
+[2020.01.21-21.53.13:740][158]Cmd: fov 97.0
+[2020.01.21-21.53.13:749][159]Cmd: fov 97.0
+[2020.01.21-21.53.13:759][160]Cmd: fov 97.0
+[2020.01.21-21.53.13:768][161]Cmd: fov 97.0
+[2020.01.21-21.53.13:778][162]Cmd: fov 97.0
+[2020.01.21-21.53.13:788][163]Cmd: fov 97.0
+[2020.01.21-21.53.13:797][164]Cmd: fov 97.0
+[2020.01.21-21.53.13:807][165]Cmd: fov 97.0
+[2020.01.21-21.53.13:816][166]Cmd: fov 97.0
+[2020.01.21-21.53.13:826][167]Cmd: fov 97.0
+[2020.01.21-21.53.13:836][168]Cmd: fov 97.0
+[2020.01.21-21.53.13:845][169]Cmd: fov 97.0
+[2020.01.21-21.53.13:855][170]Cmd: fov 97.0
+[2020.01.21-21.53.13:865][171]Cmd: fov 97.0
+[2020.01.21-21.53.13:875][172]Cmd: fov 97.0
+[2020.01.21-21.53.13:885][173]Cmd: fov 97.0
+[2020.01.21-21.53.13:895][174]Cmd: fov 97.0
+[2020.01.21-21.53.13:905][175]Cmd: fov 97.0
+[2020.01.21-21.53.13:914][176]Cmd: fov 97.0
+[2020.01.21-21.53.13:924][177]Cmd: fov 97.0
+[2020.01.21-21.53.13:935][178]Cmd: fov 97.0
+[2020.01.21-21.53.13:945][179]Cmd: fov 97.0
+[2020.01.21-21.53.13:955][180]Cmd: fov 97.0
+[2020.01.21-21.53.13:965][181]Cmd: fov 97.0
+[2020.01.21-21.53.13:977][182]Cmd: fov 97.0
+[2020.01.21-21.53.13:986][183]Cmd: fov 97.0
+[2020.01.21-21.53.13:997][184]Cmd: fov 97.0
+[2020.01.21-21.53.14:008][185]Cmd: fov 97.0
+[2020.01.21-21.53.14:018][186]Cmd: fov 97.0
+[2020.01.21-21.53.14:028][187]Cmd: fov 97.0
+[2020.01.21-21.53.14:038][188]Cmd: fov 97.0
+[2020.01.21-21.53.14:046][189]Cmd: fov 97.0
+[2020.01.21-21.53.14:055][190]Cmd: fov 97.0
+[2020.01.21-21.53.14:064][191]Cmd: fov 97.0
+[2020.01.21-21.53.14:074][192]Cmd: fov 97.0
+[2020.01.21-21.53.14:082][193]Cmd: fov 97.0
+[2020.01.21-21.53.14:092][194]Cmd: fov 97.0
+[2020.01.21-21.53.14:101][195]Cmd: fov 97.0
+[2020.01.21-21.53.14:110][196]Cmd: fov 97.0
+[2020.01.21-21.53.14:119][197]Cmd: fov 97.0
+[2020.01.21-21.53.14:127][198]Cmd: fov 97.0
+[2020.01.21-21.53.14:137][199]Cmd: fov 97.0
+[2020.01.21-21.53.14:146][200]Cmd: fov 97.0
+[2020.01.21-21.53.14:155][201]Cmd: fov 97.0
+[2020.01.21-21.53.14:166][202]Cmd: fov 97.0
+[2020.01.21-21.53.14:175][203]Cmd: fov 97.0
+[2020.01.21-21.53.14:185][204]Cmd: fov 97.0
+[2020.01.21-21.53.14:195][205]Cmd: fov 97.0
+[2020.01.21-21.53.14:204][206]Cmd: fov 97.0
+[2020.01.21-21.53.14:213][207]Cmd: fov 97.0
+[2020.01.21-21.53.14:222][208]Cmd: fov 97.0
+[2020.01.21-21.53.14:231][209]Cmd: fov 97.0
+[2020.01.21-21.53.14:241][210]Cmd: fov 97.0
+[2020.01.21-21.53.14:251][211]Cmd: fov 97.0
+[2020.01.21-21.53.14:260][212]Cmd: fov 97.0
+[2020.01.21-21.53.14:270][213]Cmd: fov 97.0
+[2020.01.21-21.53.14:280][214]Cmd: fov 97.0
+[2020.01.21-21.53.14:289][215]Cmd: fov 97.0
+[2020.01.21-21.53.14:298][216]Cmd: fov 97.0
+[2020.01.21-21.53.14:308][217]Cmd: fov 97.0
+[2020.01.21-21.53.14:317][218]Cmd: fov 97.0
+[2020.01.21-21.53.14:327][219]Cmd: fov 97.0
+[2020.01.21-21.53.14:336][220]Cmd: fov 97.0
+[2020.01.21-21.53.14:345][221]Cmd: fov 97.0
+[2020.01.21-21.53.14:354][222]Cmd: fov 97.0
+[2020.01.21-21.53.14:364][223]Cmd: fov 97.0
+[2020.01.21-21.53.14:373][224]Cmd: fov 97.0
+[2020.01.21-21.53.14:382][225]Cmd: fov 97.0
+[2020.01.21-21.53.14:392][226]Cmd: fov 97.0
+[2020.01.21-21.53.14:403][227]Cmd: fov 97.0
+[2020.01.21-21.53.14:414][228]Cmd: fov 97.0
+[2020.01.21-21.53.14:424][229]Cmd: fov 97.0
+[2020.01.21-21.53.14:433][230]Cmd: fov 97.0
+[2020.01.21-21.53.14:442][231]Cmd: fov 97.0
+[2020.01.21-21.53.14:452][232]Cmd: fov 97.0
+[2020.01.21-21.53.14:462][233]Cmd: fov 97.0
+[2020.01.21-21.53.14:471][234]Cmd: fov 97.0
+[2020.01.21-21.53.14:480][235]Cmd: fov 97.0
+[2020.01.21-21.53.14:489][236]Cmd: fov 97.0
+[2020.01.21-21.53.14:499][237]Cmd: fov 97.0
+[2020.01.21-21.53.14:509][238]Cmd: fov 97.0
+[2020.01.21-21.53.14:518][239]Cmd: fov 97.0
+[2020.01.21-21.53.14:527][240]Cmd: fov 97.0
+[2020.01.21-21.53.14:537][241]Cmd: fov 97.0
+[2020.01.21-21.53.14:546][242]Cmd: fov 97.0
+[2020.01.21-21.53.14:556][243]Cmd: fov 97.0
+[2020.01.21-21.53.14:566][244]Cmd: fov 97.0
+[2020.01.21-21.53.14:576][245]Cmd: fov 97.0
+[2020.01.21-21.53.14:585][246]Cmd: fov 97.0
+[2020.01.21-21.53.14:595][247]Cmd: fov 97.0
+[2020.01.21-21.53.14:604][248]Cmd: fov 97.0
+[2020.01.21-21.53.14:614][249]Cmd: fov 97.0
+[2020.01.21-21.53.14:623][250]Cmd: fov 97.0
+[2020.01.21-21.53.14:634][251]Cmd: fov 97.0
+[2020.01.21-21.53.14:644][252]Cmd: fov 97.0
+[2020.01.21-21.53.14:653][253]Cmd: fov 97.0
+[2020.01.21-21.53.14:663][254]Cmd: fov 97.0
+[2020.01.21-21.53.14:672][255]Cmd: fov 97.0
+[2020.01.21-21.53.14:681][256]Cmd: fov 97.0
+[2020.01.21-21.53.14:691][257]Cmd: fov 97.0
+[2020.01.21-21.53.14:701][258]Cmd: fov 97.0
+[2020.01.21-21.53.14:711][259]Cmd: fov 97.0
+[2020.01.21-21.53.14:721][260]Cmd: fov 97.0
+[2020.01.21-21.53.14:730][261]Cmd: fov 97.0
+[2020.01.21-21.53.14:740][262]Cmd: fov 97.0
+[2020.01.21-21.53.14:749][263]Cmd: fov 97.0
+[2020.01.21-21.53.14:759][264]Cmd: fov 97.0
+[2020.01.21-21.53.14:768][265]Cmd: fov 97.0
+[2020.01.21-21.53.14:777][266]Cmd: fov 97.0
+[2020.01.21-21.53.14:787][267]Cmd: fov 97.0
+[2020.01.21-21.53.14:796][268]Cmd: fov 97.0
+[2020.01.21-21.53.14:807][269]Cmd: fov 97.0
+[2020.01.21-21.53.14:816][270]Cmd: fov 97.0
+[2020.01.21-21.53.14:826][271]Cmd: fov 97.0
+[2020.01.21-21.53.14:835][272]Cmd: fov 97.0
+[2020.01.21-21.53.14:845][273]Cmd: fov 97.0
+[2020.01.21-21.53.14:855][274]Cmd: fov 97.0
+[2020.01.21-21.53.14:865][275]Cmd: fov 97.0
+[2020.01.21-21.53.14:875][276]Cmd: fov 97.0
+[2020.01.21-21.53.14:884][277]Cmd: fov 97.0
+[2020.01.21-21.53.14:894][278]Cmd: fov 97.0
+[2020.01.21-21.53.14:902][279]Cmd: fov 97.0
+[2020.01.21-21.53.14:912][280]Cmd: fov 97.0
+[2020.01.21-21.53.14:921][281]Cmd: fov 97.0
+[2020.01.21-21.53.14:930][282]Cmd: fov 97.0
+[2020.01.21-21.53.14:940][283]Cmd: fov 97.0
+[2020.01.21-21.53.14:949][284]Cmd: fov 97.0
+[2020.01.21-21.53.14:958][285]Cmd: fov 97.0
+[2020.01.21-21.53.14:967][286]Cmd: fov 97.0
+[2020.01.21-21.53.14:975][287]Cmd: fov 97.0
+[2020.01.21-21.53.14:986][288]Cmd: fov 97.0
+[2020.01.21-21.53.14:995][289]Cmd: fov 97.0
+[2020.01.21-21.53.15:004][290]Cmd: fov 97.0
+[2020.01.21-21.53.15:013][291]Cmd: fov 97.0
+[2020.01.21-21.53.15:023][292]Cmd: fov 97.0
+[2020.01.21-21.53.15:032][293]Cmd: fov 96.906883
+[2020.01.21-21.53.15:041][294]Cmd: fov 96.782005
+[2020.01.21-21.53.15:050][295]Cmd: fov 96.642822
+[2020.01.21-21.53.15:060][296]Cmd: fov 96.476799
+[2020.01.21-21.53.15:070][297]Cmd: fov 96.291382
+[2020.01.21-21.53.15:080][298]Cmd: fov 96.085129
+[2020.01.21-21.53.15:089][299]Cmd: fov 95.868187
+[2020.01.21-21.53.15:099][300]Cmd: fov 95.63826
+[2020.01.21-21.53.15:108][301]Cmd: fov 95.402481
+[2020.01.21-21.53.15:118][302]Cmd: fov 95.145699
+[2020.01.21-21.53.15:129][303]Cmd: fov 94.850792
+[2020.01.21-21.53.15:140][304]Cmd: fov 94.547272
+[2020.01.21-21.53.15:150][305]Cmd: fov 94.25573
+[2020.01.21-21.53.15:159][306]Cmd: fov 93.964546
+[2020.01.21-21.53.15:168][307]Cmd: fov 93.713623
+[2020.01.21-21.53.15:177][308]Cmd: fov 93.443512
+[2020.01.21-21.53.15:186][309]Cmd: fov 93.188171
+[2020.01.21-21.53.15:194][310]Cmd: fov 92.931526
+[2020.01.21-21.53.15:206][311]Cmd: fov 92.596024
+[2020.01.21-21.53.15:215][312]Cmd: fov 92.329407
+[2020.01.21-21.53.15:230][313]Cmd: fov 91.909859
+[2020.01.21-21.53.15:239][314]Cmd: fov 91.656326
+[2020.01.21-21.53.15:248][315]Cmd: fov 91.435127
+[2020.01.21-21.53.15:256][316]Cmd: fov 91.213852
+[2020.01.21-21.53.15:266][317]Cmd: fov 90.984787
+[2020.01.21-21.53.15:275][318]Cmd: fov 90.786652
+[2020.01.21-21.53.15:283][319]Cmd: fov 90.612411
+[2020.01.21-21.53.15:292][320]Cmd: fov 90.438782
+[2020.01.21-21.53.15:301][321]Cmd: fov 90.291504
+[2020.01.21-21.53.15:309][322]Cmd: fov 90.160149
+[2020.01.21-21.53.15:318][323]Cmd: fov 90.044899
+[2020.01.21-21.53.15:326][324]Cmd: fov 90.0
+[2020.01.21-21.53.18:307][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.53.18:322][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.53.18:322][662]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-21.53.18:329][662]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.21-21.53.18:356][662]LogWorld: UWorld::CleanupWorld for testDeMecanicas, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-21.53.18:374][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.53.18:374][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.53.18:561][662]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.01.21-21.53.18:580][663]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.21-21.57.34:055][728]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.21-21.57.34:061][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.57.34:061][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.21-21.57.34:062][728]PIE: New page: PIE session: testDeMecanicas (Jan 21, 2020, 11:57:34 PM)
+[2020.01.21-21.57.34:064][728]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-21.57.34:086][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021968s)
+[2020.01.21-21.57.34:088][728]LogAIModule: Creating AISystem for world testDeMecanicas
+[2020.01.21-21.57.34:102][728]LogPlayLevel: PIE: World Init took: (0.015855s)
+[2020.01.21-21.57.34:102][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas to /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas (0.038051s)
+[2020.01.21-21.57.34:149][728]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.01.21-21.57.34:192][728]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-21.57.34:217][728]LogInit: FAudioDevice initialized.
+[2020.01.21-21.57.34:227][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.57.34:227][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.21-21.57.34:231][728]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas up for play (max tick rate 0) at 2020.01.21-22.57.34
+[2020.01.21-21.57.34:231][728]LogWorld: Bringing up level for play took: 0.003073
+[2020.01.21-21.57.34:231][728]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.01.21-21.57.34:234][728]Cmd: stat fps
+[2020.01.21-21.57.34:238][728]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas -0.743
+[2020.01.21-21.57.34:239][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.58.11:014][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.58.11:015][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-21.58.11:015][422]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-21.58.11:025][422]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.21-21.58.11:030][422]LogWorld: UWorld::CleanupWorld for testDeMecanicas, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-21.58.11:047][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-21.58.11:047][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-21.58.11:106][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.21-21.58.11:126][423]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.21-22.04.29:430][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.21-22.04.29:430][897]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/testDeMecanicas' took 0.041
+[2020.01.21-22.04.29:432][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter] ([1] browsable assets)...
+[2020.01.21-22.04.29:433][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter]
+[2020.01.21-22.04.29:974][897]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter_Auto124CDB5354997BAD93994A8B2B49D7BB7.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter_Auto1.uasset'
+[2020.01.21-22.04.29:977][897]LogFileHelpers: Auto-saving content packages took 0.546
+[2020.01.21-22.10.14:279][930]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.10.14:587][930]LogBlueprint: Error: [Compiler FirstPersonCharacter] Could not find a function named "seeEmiter" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  See Emiter
+[2020.01.21-22.10.14:614][930]LogBlueprint: Error: [Compiler FirstPersonCharacter] Could not find a function named "manageBulletDeactivationDistance" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  Manage Bullet Deactivation Distance
+[2020.01.21-22.10.15:414][930]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.01.21-22.10.31:463][718]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.10.31:914][718]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2020.01.21-22.11.03:254][610]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.11.04:256][610]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.01.21-22.11.06:674][735]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.01.21-22.11.06:778][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.01.21-22.11.07:170][735]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicas081B01B2464667BC129BB897DBAC520D.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/testDeMecanicas.umap'
+[2020.01.21-22.11.07:189][735]LogFileHelpers: Saving map 'testDeMecanicas' took 0.457
+[2020.01.21-22.11.07:694][735]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacterEC9AC99942EFC77A1A091CB9A12FE216.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.13.08:015][712]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.13.08:473][712]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.01.21-22.13.13:256][971]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.13.13:720][971]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.01.21-22.13.18:068][247]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.01.21-22.13.18:120][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.01.21-22.13.18:443][247]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicas10C6034646C75C9A1F715AAF038A5C1C.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/testDeMecanicas.umap'
+[2020.01.21-22.13.18:459][247]LogFileHelpers: Saving map 'testDeMecanicas' took 0.375
+[2020.01.21-22.13.18:920][247]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter42D6988942912540FBD179A225EFEEF2.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.14.04:341][128]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/_LaserPuzzle/BPs/enums/LaserColor.LaserColor
+[2020.01.21-22.14.34:731][491]LogMetaData: Removing '/Game/_LaserPuzzle/BPs/Structs/Dialog.Dialog' ref from Metadata '/Game/_LaserPuzzle/BPs/Dialog.PackageMetaData'
+[2020.01.21-22.14.34:731][491]LogMetaData: Removing '/Game/_LaserPuzzle/BPs/Structs/Dialog.Dialog:times_9_5D1E492C4B0FE1B688AC639125D4BC26' ref from Metadata '/Game/_LaserPuzzle/BPs/Dialog.PackageMetaData'
+[2020.01.21-22.14.34:731][491]LogMetaData: Removing '/Game/_LaserPuzzle/BPs/Structs/Dialog.Dialog:sound_10_507A294A41AA783E4434F299BF7931F3' ref from Metadata '/Game/_LaserPuzzle/BPs/Dialog.PackageMetaData'
+[2020.01.21-22.14.34:731][491]LogMetaData: Removing '/Game/_LaserPuzzle/BPs/Structs/Dialog.Dialog:texts_8_B3807E104EBAFE6666B6DE9C116BF5B1' ref from Metadata '/Game/_LaserPuzzle/BPs/Dialog.PackageMetaData'
+[2020.01.21-22.14.34:763][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/Dialog" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/Dialog.uasset" SILENT=true
+[2020.01.21-22.14.34:767][491]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Dialog3FF9DB524E1DC5AA5AB1CD8048C97143.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/Dialog.uasset'
+[2020.01.21-22.14.34:962][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.01.21-22.14.35:000][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.21-22.14.35:035][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.21-22.14.35:048][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/OtherBP/dialogTrigger" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/OtherBP/dialogTrigger.uasset" SILENT=true
+[2020.01.21-22.14.35:073][491]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/dialogTriggerEF11A4A3439594A18D0329A50443B327.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/OtherBP/dialogTrigger.uasset'
+[2020.01.21-22.14.35:104][491]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonGameModeB50A6158471C2D64F76CFD8473402674.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/OtherBP/FirstPersonGameMode.uasset'
+[2020.01.21-22.14.35:128][491]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/playDialogOnActivable20D204E3431976D8F6A80D91CD85FFBE.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/OtherBP/playDialogOnActivable.uasset'
+[2020.01.21-22.15.41:935][139]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/_LaserPuzzle/BPs/Structs/GaunletSlots.GaunletSlots
+[2020.01.21-22.15.45:354][514]LogSlate: Took 0.023372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.21-22.16.42:007][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.42:012][158]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots26C7C7C44E952B8DF6D5C2BF132AFFAC.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.42:151][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.42:157][170]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots504D23B7466A0E40E64E5BAA2B6D85EF.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.42:680][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.42:685][228]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlotsDB230A9E45422E569C4774B7FAE14371.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.42:870][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.42:875][246]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots48DFEC7F41004C31C11506B37A8ABF60.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.43:104][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.43:109][269]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots5C06F70D4EF620FBA62FB48162BDE4E2.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.43:319][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.16.43:326][289]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots1364CF6C4B8CE004D5127D8CC12F23EB.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.16.45:201][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.01.21-22.16.45:642][497]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter6D06F3EB4081B7E4E20085B2CA5A2A1F.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.17.38:536][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.17.38:543][759]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots251A7A234B88FCB08F1BCFAE8F5C4550.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.17.38:702][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.17.38:707][773]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots98BF371643D3C636117B44B726FF5D23.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.17.38:961][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.17.38:968][799]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlots915F3FA241BB4A4C88C76186D506C3C7.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.17.39:127][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_LaserPuzzle/BPs/Structs/GaunletSlots" FILE="C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset" SILENT=true
+[2020.01.21-22.17.39:134][813]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/GaunletSlotsC2CB86F846C05F3E3C97E7B547C22A68.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/Structs/GaunletSlots.uasset'
+[2020.01.21-22.17.58:347][227]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.17.58:781][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.01.21-22.18.00:704][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.01.21-22.18.00:752][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.01.21-22.18.01:082][337]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicasC2CEE07847C98084DAD3BB976E5F9CF2.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/testDeMecanicas.umap'
+[2020.01.21-22.18.01:100][337]LogFileHelpers: Saving map 'testDeMecanicas' took 0.383
+[2020.01.21-22.18.01:576][337]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter26477ECF42C3A202D8BFF38D27EC1BA3.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.25.02:417][366]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.21-22.25.53:733][151]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-22.25.53:740][151]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-22.25.56:655][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.01.21-22.25.57:115][450]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacterFF8303CC42F59343F134FDBA63AE9E18.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.26.17:074][ 80]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.21-22.27.12:777][748]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.27.13:367][748]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.01.21-22.29.32:778][173]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.01.21-22.29.33:112][173]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicas_Auto2FC3758E14728061EA6600294AD32224F.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/Levels/testDeMecanicas_Auto2.umap'
+[2020.01.21-22.29.33:116][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/testDeMecanicas' took 0.391
+[2020.01.21-22.29.33:116][173]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2020.01.21-22.29.33:119][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter] ([1] browsable assets)...
+[2020.01.21-22.29.33:119][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter]
+[2020.01.21-22.29.33:560][173]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter_Auto2ED419CED4D7C4640292AD6B8CEC305ED.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter_Auto2.uasset'
+[2020.01.21-22.29.33:564][173]LogFileHelpers: Auto-saving content packages took 0.447
+[2020.01.21-22.29.34:592][223]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.29.35:053][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.01.21-22.29.36:230][248]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.21-22.29.36:238][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-22.29.36:238][248]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.21-22.29.36:263][248]LogPlayLevel: [PlayLevel] Compiling FirstPersonGameMode before play...
+[2020.01.21-22.29.36:308][248]LogPlayLevel: [PlayLevel] Compiling dialogTrigger before play...
+[2020.01.21-22.29.36:326][248]LogPlayLevel: [PlayLevel] Compiling playDialogOnActivable before play...
+[2020.01.21-22.29.36:401][248]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.01.21-22.29.36:401][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (3 blueprints)
+[2020.01.21-22.29.36:401][248]PIE: New page: PIE session: testDeMecanicas (Jan 22, 2020, 12:29:36 AM)
+[2020.01.21-22.29.36:401][248]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-22.29.36:421][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019500s)
+[2020.01.21-22.29.36:422][248]LogAIModule: Creating AISystem for world testDeMecanicas
+[2020.01.21-22.29.36:422][248]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2020.01.21-22.29.36:423][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas to /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas (0.021177s)
+[2020.01.21-22.29.36:461][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.01.21-22.29.36:509][248]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.21-22.29.36:537][248]LogInit: FAudioDevice initialized.
+[2020.01.21-22.29.36:548][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-22.29.36:549][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.21-22.29.36:553][248]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas up for play (max tick rate 0) at 2020.01.21-23.29.36
+[2020.01.21-22.29.36:553][248]LogWorld: Bringing up level for play took: 0.003905
+[2020.01.21-22.29.36:554][248]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.21-22.29.36:558][248]Cmd: stat fps
+[2020.01.21-22.29.36:580][248]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas -0.401
+[2020.01.21-22.29.36:581][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-22.29.37:307][272]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.38:125][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.38:640][327]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.38:792][333]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.38:964][340]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.39:112][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.39:298][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.39:467][361]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.39:594][366]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.39:741][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.39:881][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.40:074][386]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.40:233][393]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.40:329][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.40:500][404]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.40:606][408]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.40:771][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.40:868][419]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Right Mouse Button
+[2020.01.21-22.29.41:133][430]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.41:316][438]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.41:463][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.41:608][450]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Left Mouse Button
+[2020.01.21-22.29.41:845][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-22.29.41:845][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.21-22.29.41:845][460]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.21-22.29.41:853][460]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.21-22.29.41:863][460]LogWorld: UWorld::CleanupWorld for testDeMecanicas, bSessionEnded=true, bCleanupResources=true
+[2020.01.21-22.29.41:986][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.21-22.29.41:986][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.21-22.29.42:038][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.01.21-22.29.42:531][461]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.21-22.31.41:191][213]LogEditorTransaction: Undo Move Node
+[2020.01.21-22.31.42:485][248]LogEditorTransaction: Undo Move Node
+[2020.01.21-22.31.43:714][282]LogEditorTransaction: Undo Delete current selection
+[2020.01.21-22.33.07:445][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.01.21-22.33.07:499][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.21-22.33.07:842][481]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicasA31DE27E4AF9FC9C779EDB838BE98F69.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/Levels/testDeMecanicas.umap'
+[2020.01.21-22.33.07:865][481]LogFileHelpers: Saving map 'testDeMecanicas' took 0.403
+[2020.01.21-22.33.08:343][481]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter6257BD304C927C5A19D17F804FB57033.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Content/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter.uasset'
+[2020.01.21-22.33.09:747][558]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.21-22.33.10:227][558]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2020.01.21-22.33.13:294][781]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-22.33.13:299][781]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.21-22.43.07:698][863]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.01.21-22.43.08:103][863]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/testDeMecanicas_Auto3C63E865D4F209E37E585F3AB014C3022.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/Levels/testDeMecanicas_Auto3.umap'
+[2020.01.21-22.43.08:109][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/testDeMecanicas' took 0.475
+[2020.01.21-22.43.08:109][863]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.475
+[2020.01.22-01.26.58:919][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.01.22-01.27.00:381][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-01.27.43:819][627]LogUObjectHash: Compacting FUObjectHashTables data took  23.23ms
+[2020.01.22-01.27.43:819][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_LaserPuzzle/Levels/testDeMecanicas' took 0.079
+[2020.01.22-01.27.43:821][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter] ([1] browsable assets)...
+[2020.01.22-01.27.43:821][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter]
+[2020.01.22-01.27.44:281][627]LogSavePackage: Moving 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/FirstPersonCharacter_Auto404F2C91544D8EBFB5B871A8C762126DE.tmp' to 'C:/Users/guill/Desktop/LaserPuzzle/laserPuzzle_/Saved/Autosaves/Game/_LaserPuzzle/BPs/AbstractClasses/FirstPersonCharacter_Auto4.uasset'
+[2020.01.22-01.27.44:284][627]LogFileHelpers: Auto-saving content packages took 0.464
+[2020.01.22-01.28.04:220][854]LogEditorViewport: Clicking on Actor (LMB): Emiter_C (Emiter2)
+[2020.01.22-01.28.06:962][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-01.28.48:570][937]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2020.01.22-01.28.50:973][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-01.28.55:391][717]LogEditorViewport: Clicking on Actor (LMB): Emiter_C (Emiter2)
+[2020.01.22-01.28.56:159][807]LogEditorViewport: Clicking on Actor (LMB): Emiter_C (Emiter2)
+[2020.01.22-01.28.56:842][887]LogEditorViewport: Clicking on Actor (LMB): Emiter_C (Emiter2)
+[2020.01.22-01.28.56:942][897]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sphere)
+[2020.01.22-01.29.08:775][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-01.29.09:208][350]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.22-01.29.09:215][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.22-01.29.09:215][350]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.22-01.29.09:252][350]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.01.22-01.29.09:929][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2020.01.22-01.29.09:929][350]LogPlayLevel: PlayLevel: Blueprint regeneration took 713 ms (1 blueprints)
+[2020.01.22-01.29.09:929][350]PIE: New page: PIE session: testDeMecanicas (Jan 22, 2020, 3:29:09 AM)
+[2020.01.22-01.29.09:929][350]LogPlayLevel: Creating play world package: /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.22-01.29.09:979][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049663s)
+[2020.01.22-01.29.09:980][350]LogAIModule: Creating AISystem for world testDeMecanicas
+[2020.01.22-01.29.09:981][350]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2020.01.22-01.29.09:981][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas to /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas (0.051322s)
+[2020.01.22-01.29.10:027][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.01.22-01.29.10:293][350]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.22-01.29.10:325][350]LogInit: FAudioDevice initialized.
+[2020.01.22-01.29.10:339][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-01.29.10:340][350]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.22-01.29.10:345][350]LogWorld: Bringing World /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas.testDeMecanicas up for play (max tick rate 0) at 2020.01.22-02.29.10
+[2020.01.22-01.29.10:346][350]LogWorld: Bringing up level for play took: 0.004463
+[2020.01.22-01.29.10:346][350]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.22-01.29.10:349][350]Cmd: stat fps
+[2020.01.22-01.29.10:358][350]PIE: Play in editor start time for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas 1.377
+[2020.01.22-01.29.10:358][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.22-01.29.10:399][351]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2020.01.22-01.29.11:573][474]Cmd: fov 90.10804
+[2020.01.22-01.29.11:583][475]Cmd: fov 90.261696
+[2020.01.22-01.29.11:591][476]Cmd: fov 90.404907
+[2020.01.22-01.29.11:600][477]Cmd: fov 90.564018
+[2020.01.22-01.29.11:608][478]Cmd: fov 90.743011
+[2020.01.22-01.29.11:617][479]Cmd: fov 90.924858
+[2020.01.22-01.29.11:626][480]Cmd: fov 91.135063
+[2020.01.22-01.29.11:634][481]Cmd: fov 91.341377
+[2020.01.22-01.29.11:643][482]Cmd: fov 91.554543
+[2020.01.22-01.29.11:651][483]Cmd: fov 91.782455
+[2020.01.22-01.29.11:659][484]Cmd: fov 92.011467
+[2020.01.22-01.29.11:668][485]Cmd: fov 92.245888
+[2020.01.22-01.29.11:677][486]Cmd: fov 92.495071
+[2020.01.22-01.29.11:685][487]Cmd: fov 92.745697
+[2020.01.22-01.29.11:693][488]Cmd: fov 92.992508
+[2020.01.22-01.29.11:702][489]Cmd: fov 93.240837
+[2020.01.22-01.29.11:711][490]Cmd: fov 93.502403
+[2020.01.22-01.29.11:719][491]Cmd: fov 93.756302
+[2020.01.22-01.29.11:727][492]Cmd: fov 94.004005
+[2020.01.22-01.29.11:736][493]Cmd: fov 94.249664
+[2020.01.22-01.29.11:744][494]Cmd: fov 94.497025
+[2020.01.22-01.29.11:753][495]Cmd: fov 94.739433
+[2020.01.22-01.29.11:762][496]Cmd: fov 94.990952
+[2020.01.22-01.29.11:770][497]Cmd: fov 95.216385
+[2020.01.22-01.29.11:779][498]Cmd: fov 95.442215
+[2020.01.22-01.29.11:788][499]Cmd: fov 95.671715
+[2020.01.22-01.29.11:796][500]Cmd: fov 95.874611
+[2020.01.22-01.29.11:805][501]Cmd: fov 96.066971
+[2020.01.22-01.29.11:814][502]Cmd: fov 96.252533
+[2020.01.22-01.29.11:823][503]Cmd: fov 96.429085
+[2020.01.22-01.29.11:832][504]Cmd: fov 96.5868
+[2020.01.22-01.29.11:841][505]Cmd: fov 96.721947
+[2020.01.22-01.29.11:850][506]Cmd: fov 96.839798
+[2020.01.22-01.29.11:861][507]Cmd: fov 96.961998
+[2020.01.22-01.29.11:870][508]Cmd: fov 97.0
+[2020.01.22-01.29.11:879][509]Cmd: fov 97.0
+[2020.01.22-01.29.11:887][510]Cmd: fov 97.0
+[2020.01.22-01.29.11:895][511]Cmd: fov 97.0
+[2020.01.22-01.29.11:904][512]Cmd: fov 97.0
+[2020.01.22-01.29.11:913][513]Cmd: fov 97.0
+[2020.01.22-01.29.11:922][514]Cmd: fov 97.0
+[2020.01.22-01.29.11:930][515]Cmd: fov 97.0
+[2020.01.22-01.29.11:939][516]Cmd: fov 97.0
+[2020.01.22-01.29.11:947][517]Cmd: fov 97.0
+[2020.01.22-01.29.11:958][518]Cmd: fov 97.0
+[2020.01.22-01.29.11:966][519]Cmd: fov 97.0
+[2020.01.22-01.29.11:976][520]Cmd: fov 97.0
+[2020.01.22-01.29.11:985][521]Cmd: fov 97.0
+[2020.01.22-01.29.11:993][522]Cmd: fov 97.0
+[2020.01.22-01.29.12:002][523]Cmd: fov 97.0
+[2020.01.22-01.29.12:012][524]Cmd: fov 97.0
+[2020.01.22-01.29.12:021][525]Cmd: fov 97.0
+[2020.01.22-01.29.12:030][526]Cmd: fov 97.0
+[2020.01.22-01.29.12:038][527]Cmd: fov 97.0
+[2020.01.22-01.29.12:047][528]Cmd: fov 97.0
+[2020.01.22-01.29.12:056][529]Cmd: fov 97.0
+[2020.01.22-01.29.12:065][530]Cmd: fov 97.0
+[2020.01.22-01.29.12:074][531]Cmd: fov 97.0
+[2020.01.22-01.29.12:083][532]Cmd: fov 97.0
+[2020.01.22-01.29.12:091][533]Cmd: fov 97.0
+[2020.01.22-01.29.12:100][534]Cmd: fov 97.0
+[2020.01.22-01.29.12:107][535]Cmd: fov 97.0
+[2020.01.22-01.29.12:116][536]Cmd: fov 97.0
+[2020.01.22-01.29.12:124][537]Cmd: fov 97.0
+[2020.01.22-01.29.12:132][538]Cmd: fov 97.0
+[2020.01.22-01.29.12:141][539]Cmd: fov 97.0
+[2020.01.22-01.29.12:149][540]Cmd: fov 97.0
+[2020.01.22-01.29.12:157][541]Cmd: fov 97.0
+[2020.01.22-01.29.12:166][542]Cmd: fov 97.0
+[2020.01.22-01.29.12:174][543]Cmd: fov 97.0
+[2020.01.22-01.29.12:182][544]Cmd: fov 97.0
+[2020.01.22-01.29.12:191][545]Cmd: fov 97.0
+[2020.01.22-01.29.12:202][546]Cmd: fov 97.0
+[2020.01.22-01.29.12:218][547]Cmd: fov 97.0
+[2020.01.22-01.29.12:227][548]Cmd: fov 97.0
+[2020.01.22-01.29.12:236][549]Cmd: fov 97.0
+[2020.01.22-01.29.12:244][550]Cmd: fov 97.0
+[2020.01.22-01.29.12:254][551]Cmd: fov 97.0
+[2020.01.22-01.29.12:262][552]Cmd: fov 97.0
+[2020.01.22-01.29.12:272][553]Cmd: fov 97.0
+[2020.01.22-01.29.12:283][554]Cmd: fov 97.0
+[2020.01.22-01.29.12:294][555]Cmd: fov 97.0
+[2020.01.22-01.29.12:302][556]Cmd: fov 97.0
+[2020.01.22-01.29.12:310][557]Cmd: fov 97.0
+[2020.01.22-01.29.12:318][558]Cmd: fov 97.0
+[2020.01.22-01.29.12:327][559]Cmd: fov 97.0
+[2020.01.22-01.29.12:336][560]Cmd: fov 97.0
+[2020.01.22-01.29.12:344][561]Cmd: fov 97.0
+[2020.01.22-01.29.12:353][562]Cmd: fov 97.0
+[2020.01.22-01.29.12:362][563]Cmd: fov 97.0
+[2020.01.22-01.29.12:371][564]Cmd: fov 97.0
+[2020.01.22-01.29.12:379][565]Cmd: fov 97.0
+[2020.01.22-01.29.12:388][566]Cmd: fov 97.0
+[2020.01.22-01.29.12:397][567]Cmd: fov 97.0
+[2020.01.22-01.29.12:406][568]Cmd: fov 97.0
+[2020.01.22-01.29.12:415][569]Cmd: fov 97.0
+[2020.01.22-01.29.12:423][570]Cmd: fov 97.0
+[2020.01.22-01.29.12:431][571]Cmd: fov 97.0
+[2020.01.22-01.29.12:440][572]Cmd: fov 97.0
+[2020.01.22-01.29.12:449][573]Cmd: fov 97.0
+[2020.01.22-01.29.12:457][574]Cmd: fov 97.0
+[2020.01.22-01.29.12:469][575]Cmd: fov 97.0
+[2020.01.22-01.29.12:477][576]Cmd: fov 97.0
+[2020.01.22-01.29.12:486][577]Cmd: fov 97.0
+[2020.01.22-01.29.12:495][578]Cmd: fov 97.0
+[2020.01.22-01.29.12:506][579]Cmd: fov 97.0
+[2020.01.22-01.29.12:515][580]Cmd: fov 97.0
+[2020.01.22-01.29.12:523][581]Cmd: fov 97.0
+[2020.01.22-01.29.12:533][582]Cmd: fov 97.0
+[2020.01.22-01.29.12:543][583]Cmd: fov 97.0
+[2020.01.22-01.29.12:551][584]Cmd: fov 97.0
+[2020.01.22-01.29.12:560][585]Cmd: fov 97.0
+[2020.01.22-01.29.12:568][586]Cmd: fov 97.0
+[2020.01.22-01.29.12:576][587]Cmd: fov 97.0
+[2020.01.22-01.29.12:584][588]Cmd: fov 97.0
+[2020.01.22-01.29.12:593][589]Cmd: fov 97.0
+[2020.01.22-01.29.12:603][590]Cmd: fov 97.0
+[2020.01.22-01.29.12:611][591]Cmd: fov 97.0
+[2020.01.22-01.29.12:622][592]Cmd: fov 97.0
+[2020.01.22-01.29.12:631][593]Cmd: fov 97.0
+[2020.01.22-01.29.12:639][594]Cmd: fov 97.0
+[2020.01.22-01.29.12:647][595]Cmd: fov 97.0
+[2020.01.22-01.29.12:656][596]Cmd: fov 97.0
+[2020.01.22-01.29.12:665][597]Cmd: fov 97.0
+[2020.01.22-01.29.12:674][598]Cmd: fov 97.0
+[2020.01.22-01.29.12:683][599]Cmd: fov 97.0
+[2020.01.22-01.29.12:693][600]Cmd: fov 97.0
+[2020.01.22-01.29.12:702][601]Cmd: fov 97.0
+[2020.01.22-01.29.12:711][602]Cmd: fov 97.0
+[2020.01.22-01.29.12:719][603]Cmd: fov 97.0
+[2020.01.22-01.29.12:728][604]Cmd: fov 97.0
+[2020.01.22-01.29.12:736][605]Cmd: fov 97.0
+[2020.01.22-01.29.12:744][606]Cmd: fov 97.0
+[2020.01.22-01.29.12:753][607]Cmd: fov 97.0
+[2020.01.22-01.29.12:761][608]Cmd: fov 97.0
+[2020.01.22-01.29.12:770][609]Cmd: fov 97.0
+[2020.01.22-01.29.12:778][610]Cmd: fov 97.0
+[2020.01.22-01.29.12:787][611]Cmd: fov 97.0
+[2020.01.22-01.29.12:796][612]Cmd: fov 97.0
+[2020.01.22-01.29.12:805][613]Cmd: fov 97.0
+[2020.01.22-01.29.12:815][614]Cmd: fov 97.0
+[2020.01.22-01.29.12:823][615]Cmd: fov 97.0
+[2020.01.22-01.29.12:832][616]Cmd: fov 97.0
+[2020.01.22-01.29.12:840][617]Cmd: fov 97.0
+[2020.01.22-01.29.12:848][618]Cmd: fov 97.0
+[2020.01.22-01.29.12:858][619]Cmd: fov 97.0
+[2020.01.22-01.29.12:868][620]Cmd: fov 97.0
+[2020.01.22-01.29.12:876][621]Cmd: fov 97.0
+[2020.01.22-01.29.12:884][622]Cmd: fov 97.0
+[2020.01.22-01.29.12:894][623]Cmd: fov 97.0
+[2020.01.22-01.29.12:902][624]Cmd: fov 97.0
+[2020.01.22-01.29.12:911][625]Cmd: fov 97.0
+[2020.01.22-01.29.12:919][626]Cmd: fov 97.0
+[2020.01.22-01.29.12:928][627]Cmd: fov 97.0
+[2020.01.22-01.29.12:937][628]Cmd: fov 97.0
+[2020.01.22-01.29.12:945][629]Cmd: fov 97.0
+[2020.01.22-01.29.12:954][630]Cmd: fov 97.0
+[2020.01.22-01.29.12:963][631]Cmd: fov 97.0
+[2020.01.22-01.29.12:971][632]Cmd: fov 97.0
+[2020.01.22-01.29.12:980][633]Cmd: fov 97.0
+[2020.01.22-01.29.12:988][634]Cmd: fov 97.0
+[2020.01.22-01.29.12:997][635]Cmd: fov 97.0
+[2020.01.22-01.29.13:006][636]Cmd: fov 97.0
+[2020.01.22-01.29.13:014][637]Cmd: fov 97.0
+[2020.01.22-01.29.13:023][638]Cmd: fov 97.0
+[2020.01.22-01.29.13:032][639]Cmd: fov 97.0
+[2020.01.22-01.29.13:040][640]Cmd: fov 97.0
+[2020.01.22-01.29.13:048][641]Cmd: fov 97.0
+[2020.01.22-01.29.13:057][642]Cmd: fov 97.0
+[2020.01.22-01.29.13:067][643]Cmd: fov 97.0
+[2020.01.22-01.29.13:076][644]Cmd: fov 97.0
+[2020.01.22-01.29.13:084][645]Cmd: fov 96.91629
+[2020.01.22-01.29.13:092][646]Cmd: fov 96.814789
+[2020.01.22-01.29.13:102][647]Cmd: fov 96.671425
+[2020.01.22-01.29.13:111][648]Cmd: fov 96.519562
+[2020.01.22-01.29.13:119][649]Cmd: fov 96.366547
+[2020.01.22-01.29.13:128][650]Cmd: fov 96.200066
+[2020.01.22-01.29.13:136][651]Cmd: fov 96.021149
+[2020.01.22-01.29.13:147][652]Cmd: fov 95.780602
+[2020.01.22-01.29.13:155][653]Cmd: fov 95.577377
+[2020.01.22-01.29.13:165][654]Cmd: fov 95.329514
+[2020.01.22-01.29.13:173][655]Cmd: fov 95.096771
+[2020.01.22-01.29.13:182][656]Cmd: fov 94.859093
+[2020.01.22-01.29.13:190][657]Cmd: fov 94.623993
+[2020.01.22-01.29.13:199][658]Cmd: fov 94.384048
+[2020.01.22-01.29.13:208][659]Cmd: fov 94.130501
+[2020.01.22-01.29.13:216][660]Cmd: fov 93.88308
+[2020.01.22-01.29.13:224][661]Cmd: fov 93.634636
+[2020.01.22-01.29.13:232][662]Cmd: fov 93.385452
+[2020.01.22-01.29.13:241][663]Cmd: fov 93.13652
+[2020.01.22-01.29.13:249][664]Cmd: fov 92.888855
+[2020.01.22-01.29.13:258][665]Cmd: fov 92.643456
+[2020.01.22-01.29.13:266][666]Cmd: fov 92.400421
+[2020.01.22-01.29.13:274][667]Cmd: fov 92.162682
+[2020.01.22-01.29.13:283][668]Cmd: fov 91.930252
+[2020.01.22-01.29.13:291][669]Cmd: fov 91.697212
+[2020.01.22-01.29.13:299][670]Cmd: fov 91.478729
+[2020.01.22-01.29.13:308][671]Cmd: fov 91.265686
+[2020.01.22-01.29.13:316][672]Cmd: fov 91.06514
+[2020.01.22-01.29.13:325][673]Cmd: fov 90.871094
+[2020.01.22-01.29.13:332][674]Cmd: fov 90.692673
+[2020.01.22-01.29.13:341][675]Cmd: fov 90.521904
+[2020.01.22-01.29.13:349][676]Cmd: fov 90.369865
+[2020.01.22-01.29.13:358][677]Cmd: fov 90.223366
+[2020.01.22-01.29.13:367][678]Cmd: fov 90.095779
+[2020.01.22-01.29.13:375][679]Cmd: fov 90.0
+[2020.01.22-01.29.15:585][940]Cmd: fov 90.104523
+[2020.01.22-01.29.15:593][941]Cmd: fov 90.230667
+[2020.01.22-01.29.15:601][942]Cmd: fov 90.367973
+[2020.01.22-01.29.15:610][943]Cmd: fov 90.521797
+[2020.01.22-01.29.15:618][944]Cmd: fov 90.687347
+[2020.01.22-01.29.15:627][945]Cmd: fov 90.875343
+[2020.01.22-01.29.15:636][946]Cmd: fov 91.065788
+[2020.01.22-01.29.15:645][947]Cmd: fov 91.289871
+[2020.01.22-01.29.15:654][948]Cmd: fov 91.51368
+[2020.01.22-01.29.15:662][949]Cmd: fov 91.742546
+[2020.01.22-01.29.15:671][950]Cmd: fov 91.973373
+[2020.01.22-01.29.15:679][951]Cmd: fov 92.208389
+[2020.01.22-01.29.15:687][952]Cmd: fov 92.44706
+[2020.01.22-01.29.15:696][953]Cmd: fov 92.690285
+[2020.01.22-01.29.15:704][954]Cmd: fov 92.940361
+[2020.01.22-01.29.15:713][955]Cmd: fov 93.188362
+[2020.01.22-01.29.15:722][956]Cmd: fov 93.453629
+[2020.01.22-01.29.15:731][957]Cmd: fov 93.729614
+[2020.01.22-01.29.15:740][958]Cmd: fov 94.014984
+[2020.01.22-01.29.15:749][959]Cmd: fov 94.276558
+[2020.01.22-01.29.15:759][960]Cmd: fov 94.540291
+[2020.01.22-01.29.15:768][961]Cmd: fov 94.824249
+[2020.01.22-01.29.15:776][962]Cmd: fov 95.056305
+[2020.01.22-01.29.15:785][963]Cmd: fov 95.279709
+[2020.01.22-01.29.15:793][964]Cmd: fov 95.49807
+[2020.01.22-01.29.15:802][965]Cmd: fov 95.704895
+[2020.01.22-01.29.15:810][966]Cmd: fov 95.901939
+[2020.01.22-01.29.15:818][967]Cmd: fov 96.088356
+[2020.01.22-01.29.15:827][968]Cmd: fov 96.262802
+[2020.01.22-01.29.15:835][969]Cmd: fov 96.424446
+[2020.01.22-01.29.15:844][970]Cmd: fov 96.573364
+[2020.01.22-01.29.15:853][971]Cmd: fov 96.712448
+[2020.01.22-01.29.15:861][972]Cmd: fov 96.833824
+[2020.01.22-01.29.15:871][973]Cmd: fov 96.943047
+[2020.01.22-01.29.15:879][974]Cmd: fov 97.0
+[2020.01.22-01.29.15:888][975]Cmd: fov 97.0
+[2020.01.22-01.29.15:897][976]Cmd: fov 97.0
+[2020.01.22-01.29.15:905][977]Cmd: fov 97.0
+[2020.01.22-01.29.15:914][978]Cmd: fov 97.0
+[2020.01.22-01.29.15:922][979]Cmd: fov 97.0
+[2020.01.22-01.29.15:931][980]Cmd: fov 97.0
+[2020.01.22-01.29.15:939][981]Cmd: fov 97.0
+[2020.01.22-01.29.15:948][982]Cmd: fov 97.0
+[2020.01.22-01.29.15:956][983]Cmd: fov 97.0
+[2020.01.22-01.29.15:964][984]Cmd: fov 97.0
+[2020.01.22-01.29.15:973][985]Cmd: fov 97.0
+[2020.01.22-01.29.15:981][986]Cmd: fov 97.0
+[2020.01.22-01.29.15:991][987]Cmd: fov 97.0
+[2020.01.22-01.29.16:000][988]Cmd: fov 97.0
+[2020.01.22-01.29.16:009][989]Cmd: fov 97.0
+[2020.01.22-01.29.16:017][990]Cmd: fov 97.0
+[2020.01.22-01.29.16:026][991]Cmd: fov 97.0
+[2020.01.22-01.29.16:034][992]Cmd: fov 97.0
+[2020.01.22-01.29.16:043][993]Cmd: fov 97.0
+[2020.01.22-01.29.16:051][994]Cmd: fov 97.0
+[2020.01.22-01.29.16:059][995]Cmd: fov 97.0
+[2020.01.22-01.29.16:068][996]Cmd: fov 97.0
+[2020.01.22-01.29.16:076][997]Cmd: fov 97.0
+[2020.01.22-01.29.16:085][998]Cmd: fov 97.0
+[2020.01.22-01.29.16:093][999]Cmd: fov 97.0
+[2020.01.22-01.29.16:101][  0]Cmd: fov 97.0
+[2020.01.22-01.29.16:109][  1]Cmd: fov 97.0
+[2020.01.22-01.29.16:118][  2]Cmd: fov 97.0
+[2020.01.22-01.29.16:127][  3]Cmd: fov 97.0
+[2020.01.22-01.29.16:135][  4]Cmd: fov 97.0
+[2020.01.22-01.29.16:145][  5]Cmd: fov 97.0
+[2020.01.22-01.29.16:154][  6]Cmd: fov 97.0
+[2020.01.22-01.29.16:163][  7]Cmd: fov 97.0
+[2020.01.22-01.29.16:171][  8]Cmd: fov 97.0
+[2020.01.22-01.29.16:180][  9]Cmd: fov 97.0
+[2020.01.22-01.29.16:189][ 10]Cmd: fov 97.0
+[2020.01.22-01.29.16:198][ 11]Cmd: fov 97.0
+[2020.01.22-01.29.16:207][ 12]Cmd: fov 97.0
+[2020.01.22-01.29.16:215][ 13]Cmd: fov 97.0
+[2020.01.22-01.29.16:223][ 14]Cmd: fov 97.0
+[2020.01.22-01.29.16:232][ 15]Cmd: fov 97.0
+[2020.01.22-01.29.16:240][ 16]Cmd: fov 97.0
+[2020.01.22-01.29.16:249][ 17]Cmd: fov 97.0
+[2020.01.22-01.29.16:258][ 18]Cmd: fov 97.0
+[2020.01.22-01.29.16:266][ 19]Cmd: fov 97.0
+[2020.01.22-01.29.16:275][ 20]Cmd: fov 97.0
+[2020.01.22-01.29.16:284][ 21]Cmd: fov 97.0
+[2020.01.22-01.29.16:293][ 22]Cmd: fov 97.0
+[2020.01.22-01.29.16:302][ 23]Cmd: fov 97.0
+[2020.01.22-01.29.16:311][ 24]Cmd: fov 97.0
+[2020.01.22-01.29.16:319][ 25]Cmd: fov 97.0
+[2020.01.22-01.29.16:327][ 26]Cmd: fov 97.0
+[2020.01.22-01.29.16:336][ 27]Cmd: fov 97.0
+[2020.01.22-01.29.16:344][ 28]Cmd: fov 97.0
+[2020.01.22-01.29.16:352][ 29]Cmd: fov 97.0
+[2020.01.22-01.29.16:361][ 30]Cmd: fov 97.0
+[2020.01.22-01.29.16:369][ 31]Cmd: fov 97.0
+[2020.01.22-01.29.16:378][ 32]Cmd: fov 97.0
+[2020.01.22-01.29.16:386][ 33]Cmd: fov 97.0
+[2020.01.22-01.29.16:394][ 34]Cmd: fov 97.0
+[2020.01.22-01.29.16:402][ 35]Cmd: fov 97.0
+[2020.01.22-01.29.16:411][ 36]Cmd: fov 97.0
+[2020.01.22-01.29.16:419][ 37]Cmd: fov 97.0
+[2020.01.22-01.29.16:427][ 38]Cmd: fov 97.0
+[2020.01.22-01.29.16:436][ 39]Cmd: fov 97.0
+[2020.01.22-01.29.16:444][ 40]Cmd: fov 97.0
+[2020.01.22-01.29.16:452][ 41]Cmd: fov 97.0
+[2020.01.22-01.29.16:460][ 42]Cmd: fov 97.0
+[2020.01.22-01.29.16:468][ 43]Cmd: fov 97.0
+[2020.01.22-01.29.16:478][ 44]Cmd: fov 97.0
+[2020.01.22-01.29.16:486][ 45]Cmd: fov 97.0
+[2020.01.22-01.29.16:494][ 46]Cmd: fov 97.0
+[2020.01.22-01.29.16:503][ 47]Cmd: fov 97.0
+[2020.01.22-01.29.16:512][ 48]Cmd: fov 97.0
+[2020.01.22-01.29.16:520][ 49]Cmd: fov 97.0
+[2020.01.22-01.29.16:528][ 50]Cmd: fov 97.0
+[2020.01.22-01.29.16:537][ 51]Cmd: fov 97.0
+[2020.01.22-01.29.16:546][ 52]Cmd: fov 97.0
+[2020.01.22-01.29.16:554][ 53]Cmd: fov 97.0
+[2020.01.22-01.29.16:562][ 54]Cmd: fov 97.0
+[2020.01.22-01.29.16:571][ 55]Cmd: fov 97.0
+[2020.01.22-01.29.16:579][ 56]Cmd: fov 97.0
+[2020.01.22-01.29.16:588][ 57]Cmd: fov 97.0
+[2020.01.22-01.29.16:596][ 58]Cmd: fov 97.0
+[2020.01.22-01.29.16:604][ 59]Cmd: fov 97.0
+[2020.01.22-01.29.16:613][ 60]Cmd: fov 97.0
+[2020.01.22-01.29.16:623][ 61]Cmd: fov 97.0
+[2020.01.22-01.29.16:632][ 62]Cmd: fov 97.0
+[2020.01.22-01.29.16:640][ 63]Cmd: fov 97.0
+[2020.01.22-01.29.16:648][ 64]Cmd: fov 97.0
+[2020.01.22-01.29.16:657][ 65]Cmd: fov 97.0
+[2020.01.22-01.29.16:665][ 66]Cmd: fov 97.0
+[2020.01.22-01.29.16:673][ 67]Cmd: fov 97.0
+[2020.01.22-01.29.16:682][ 68]Cmd: fov 97.0
+[2020.01.22-01.29.16:690][ 69]Cmd: fov 97.0
+[2020.01.22-01.29.16:698][ 70]Cmd: fov 97.0
+[2020.01.22-01.29.16:707][ 71]Cmd: fov 97.0
+[2020.01.22-01.29.16:715][ 72]Cmd: fov 97.0
+[2020.01.22-01.29.16:723][ 73]Cmd: fov 97.0
+[2020.01.22-01.29.16:732][ 74]Cmd: fov 97.0
+[2020.01.22-01.29.16:740][ 75]Cmd: fov 97.0
+[2020.01.22-01.29.16:748][ 76]Cmd: fov 97.0
+[2020.01.22-01.29.16:757][ 77]Cmd: fov 97.0
+[2020.01.22-01.29.16:765][ 78]Cmd: fov 97.0
+[2020.01.22-01.29.16:773][ 79]Cmd: fov 97.0
+[2020.01.22-01.29.16:782][ 80]Cmd: fov 97.0
+[2020.01.22-01.29.16:791][ 81]Cmd: fov 97.0
+[2020.01.22-01.29.16:800][ 82]Cmd: fov 97.0
+[2020.01.22-01.29.16:811][ 83]Cmd: fov 97.0
+[2020.01.22-01.29.16:821][ 84]Cmd: fov 97.0
+[2020.01.22-01.29.16:829][ 85]Cmd: fov 97.0
+[2020.01.22-01.29.16:841][ 86]Cmd: fov 97.0
+[2020.01.22-01.29.16:849][ 87]Cmd: fov 97.0
+[2020.01.22-01.29.16:858][ 88]Cmd: fov 97.0
+[2020.01.22-01.29.16:867][ 89]Cmd: fov 97.0
+[2020.01.22-01.29.16:875][ 90]Cmd: fov 97.0
+[2020.01.22-01.29.16:883][ 91]Cmd: fov 97.0
+[2020.01.22-01.29.16:892][ 92]Cmd: fov 97.0
+[2020.01.22-01.29.16:901][ 93]Cmd: fov 97.0
+[2020.01.22-01.29.16:910][ 94]Cmd: fov 97.0
+[2020.01.22-01.29.16:918][ 95]Cmd: fov 97.0
+[2020.01.22-01.29.16:926][ 96]Cmd: fov 97.0
+[2020.01.22-01.29.16:934][ 97]Cmd: fov 97.0
+[2020.01.22-01.29.16:943][ 98]Cmd: fov 97.0
+[2020.01.22-01.29.16:951][ 99]Cmd: fov 97.0
+[2020.01.22-01.29.16:959][100]Cmd: fov 97.0
+[2020.01.22-01.29.16:968][101]Cmd: fov 97.0
+[2020.01.22-01.29.16:977][102]Cmd: fov 97.0
+[2020.01.22-01.29.16:985][103]Cmd: fov 97.0
+[2020.01.22-01.29.16:994][104]Cmd: fov 97.0
+[2020.01.22-01.29.17:003][105]Cmd: fov 97.0
+[2020.01.22-01.29.17:011][106]Cmd: fov 97.0
+[2020.01.22-01.29.17:019][107]Cmd: fov 97.0
+[2020.01.22-01.29.17:029][108]Cmd: fov 97.0
+[2020.01.22-01.29.17:038][109]Cmd: fov 97.0
+[2020.01.22-01.29.17:047][110]Cmd: fov 97.0
+[2020.01.22-01.29.17:055][111]Cmd: fov 97.0
+[2020.01.22-01.29.17:063][112]Cmd: fov 97.0
+[2020.01.22-01.29.17:072][113]Cmd: fov 97.0
+[2020.01.22-01.29.17:080][114]Cmd: fov 97.0
+[2020.01.22-01.29.17:089][115]Cmd: fov 97.0
+[2020.01.22-01.29.17:097][116]Cmd: fov 97.0
+[2020.01.22-01.29.17:106][117]Cmd: fov 97.0
+[2020.01.22-01.29.17:114][118]Cmd: fov 97.0
+[2020.01.22-01.29.17:123][119]Cmd: fov 97.0
+[2020.01.22-01.29.17:130][120]Cmd: fov 97.0
+[2020.01.22-01.29.17:141][121]Cmd: fov 97.0
+[2020.01.22-01.29.17:147][122]Cmd: fov 97.0
+[2020.01.22-01.29.17:156][123]Cmd: fov 97.0
+[2020.01.22-01.29.17:164][124]Cmd: fov 97.0
+[2020.01.22-01.29.17:172][125]Cmd: fov 97.0
+[2020.01.22-01.29.17:181][126]Cmd: fov 97.0
+[2020.01.22-01.29.17:189][127]Cmd: fov 97.0
+[2020.01.22-01.29.17:197][128]Cmd: fov 97.0
+[2020.01.22-01.29.17:206][129]Cmd: fov 97.0
+[2020.01.22-01.29.17:214][130]Cmd: fov 97.0
+[2020.01.22-01.29.17:222][131]Cmd: fov 97.0
+[2020.01.22-01.29.17:231][132]Cmd: fov 97.0
+[2020.01.22-01.29.17:239][133]Cmd: fov 97.0
+[2020.01.22-01.29.17:248][134]Cmd: fov 97.0
+[2020.01.22-01.29.17:256][135]Cmd: fov 97.0
+[2020.01.22-01.29.17:264][136]Cmd: fov 97.0
+[2020.01.22-01.29.17:272][137]Cmd: fov 97.0
+[2020.01.22-01.29.17:281][138]Cmd: fov 97.0
+[2020.01.22-01.29.17:289][139]Cmd: fov 97.0
+[2020.01.22-01.29.17:298][140]Cmd: fov 97.0
+[2020.01.22-01.29.17:307][141]Cmd: fov 97.0
+[2020.01.22-01.29.17:316][142]Cmd: fov 97.0
+[2020.01.22-01.29.17:325][143]Cmd: fov 97.0
+[2020.01.22-01.29.17:333][144]Cmd: fov 97.0
+[2020.01.22-01.29.17:342][145]Cmd: fov 97.0
+[2020.01.22-01.29.17:350][146]Cmd: fov 97.0
+[2020.01.22-01.29.17:359][147]Cmd: fov 97.0
+[2020.01.22-01.29.17:368][148]Cmd: fov 97.0
+[2020.01.22-01.29.17:376][149]Cmd: fov 97.0
+[2020.01.22-01.29.17:384][150]Cmd: fov 97.0
+[2020.01.22-01.29.17:393][151]Cmd: fov 97.0
+[2020.01.22-01.29.17:401][152]Cmd: fov 97.0
+[2020.01.22-01.29.17:410][153]Cmd: fov 97.0
+[2020.01.22-01.29.17:419][154]Cmd: fov 97.0
+[2020.01.22-01.29.17:428][155]Cmd: fov 97.0
+[2020.01.22-01.29.17:437][156]Cmd: fov 97.0
+[2020.01.22-01.29.17:445][157]Cmd: fov 97.0
+[2020.01.22-01.29.17:453][158]Cmd: fov 97.0
+[2020.01.22-01.29.17:461][159]Cmd: fov 97.0
+[2020.01.22-01.29.17:470][160]Cmd: fov 97.0
+[2020.01.22-01.29.17:478][161]Cmd: fov 97.0
+[2020.01.22-01.29.17:486][162]Cmd: fov 97.0
+[2020.01.22-01.29.17:495][163]Cmd: fov 97.0
+[2020.01.22-01.29.17:503][164]Cmd: fov 97.0
+[2020.01.22-01.29.17:511][165]Cmd: fov 97.0
+[2020.01.22-01.29.17:520][166]Cmd: fov 97.0
+[2020.01.22-01.29.17:528][167]Cmd: fov 97.0
+[2020.01.22-01.29.17:537][168]Cmd: fov 97.0
+[2020.01.22-01.29.17:545][169]Cmd: fov 97.0
+[2020.01.22-01.29.17:553][170]Cmd: fov 97.0
+[2020.01.22-01.29.17:561][171]Cmd: fov 97.0
+[2020.01.22-01.29.17:570][172]Cmd: fov 97.0
+[2020.01.22-01.29.17:578][173]Cmd: fov 97.0
+[2020.01.22-01.29.17:587][174]Cmd: fov 97.0
+[2020.01.22-01.29.17:595][175]Cmd: fov 97.0
+[2020.01.22-01.29.17:603][176]Cmd: fov 97.0
+[2020.01.22-01.29.17:611][177]Cmd: fov 97.0
+[2020.01.22-01.29.17:620][178]Cmd: fov 97.0
+[2020.01.22-01.29.17:628][179]Cmd: fov 97.0
+[2020.01.22-01.29.17:637][180]Cmd: fov 97.0
+[2020.01.22-01.29.17:645][181]Cmd: fov 97.0
+[2020.01.22-01.29.17:653][182]Cmd: fov 97.0
+[2020.01.22-01.29.17:662][183]Cmd: fov 97.0
+[2020.01.22-01.29.17:670][184]Cmd: fov 97.0
+[2020.01.22-01.29.17:678][185]Cmd: fov 97.0
+[2020.01.22-01.29.17:687][186]Cmd: fov 97.0
+[2020.01.22-01.29.17:695][187]Cmd: fov 97.0
+[2020.01.22-01.29.17:703][188]Cmd: fov 97.0
+[2020.01.22-01.29.17:711][189]Cmd: fov 97.0
+[2020.01.22-01.29.17:720][190]Cmd: fov 97.0
+[2020.01.22-01.29.17:728][191]Cmd: fov 97.0
+[2020.01.22-01.29.17:737][192]Cmd: fov 97.0
+[2020.01.22-01.29.17:745][193]Cmd: fov 97.0
+[2020.01.22-01.29.17:754][194]Cmd: fov 97.0
+[2020.01.22-01.29.17:762][195]Cmd: fov 97.0
+[2020.01.22-01.29.17:771][196]Cmd: fov 97.0
+[2020.01.22-01.29.17:779][197]Cmd: fov 97.0
+[2020.01.22-01.29.17:787][198]Cmd: fov 97.0
+[2020.01.22-01.29.17:796][199]Cmd: fov 97.0
+[2020.01.22-01.29.17:804][200]Cmd: fov 97.0
+[2020.01.22-01.29.17:812][201]Cmd: fov 97.0
+[2020.01.22-01.29.17:821][202]Cmd: fov 97.0
+[2020.01.22-01.29.17:829][203]Cmd: fov 97.0
+[2020.01.22-01.29.17:837][204]Cmd: fov 97.0
+[2020.01.22-01.29.17:846][205]Cmd: fov 97.0
+[2020.01.22-01.29.17:854][206]Cmd: fov 97.0
+[2020.01.22-01.29.17:863][207]Cmd: fov 97.0
+[2020.01.22-01.29.17:872][208]Cmd: fov 97.0
+[2020.01.22-01.29.17:880][209]Cmd: fov 97.0
+[2020.01.22-01.29.17:889][210]Cmd: fov 97.0
+[2020.01.22-01.29.17:903][211]Cmd: fov 97.0
+[2020.01.22-01.29.17:912][212]Cmd: fov 97.0
+[2020.01.22-01.29.17:923][213]Cmd: fov 97.0
+[2020.01.22-01.29.17:931][214]Cmd: fov 97.0
+[2020.01.22-01.29.17:940][215]Cmd: fov 97.0
+[2020.01.22-01.29.17:949][216]Cmd: fov 97.0
+[2020.01.22-01.29.17:957][217]Cmd: fov 97.0
+[2020.01.22-01.29.17:966][218]Cmd: fov 97.0
+[2020.01.22-01.29.17:975][219]Cmd: fov 97.0
+[2020.01.22-01.29.17:983][220]Cmd: fov 97.0
+[2020.01.22-01.29.17:992][221]Cmd: fov 97.0
+[2020.01.22-01.29.18:001][222]Cmd: fov 97.0
+[2020.01.22-01.29.18:009][223]Cmd: fov 97.0
+[2020.01.22-01.29.18:018][224]Cmd: fov 97.0
+[2020.01.22-01.29.18:027][225]Cmd: fov 97.0
+[2020.01.22-01.29.18:036][226]Cmd: fov 97.0
+[2020.01.22-01.29.18:045][227]Cmd: fov 97.0
+[2020.01.22-01.29.18:053][228]Cmd: fov 97.0
+[2020.01.22-01.29.18:061][229]Cmd: fov 97.0
+[2020.01.22-01.29.18:071][230]Cmd: fov 97.0
+[2020.01.22-01.29.18:080][231]Cmd: fov 97.0
+[2020.01.22-01.29.18:089][232]Cmd: fov 97.0
+[2020.01.22-01.29.18:098][233]Cmd: fov 97.0
+[2020.01.22-01.29.18:106][234]Cmd: fov 97.0
+[2020.01.22-01.29.18:113][235]Cmd: fov 97.0
+[2020.01.22-01.29.18:123][236]Cmd: fov 97.0
+[2020.01.22-01.29.18:131][237]Cmd: fov 97.0
+[2020.01.22-01.29.18:139][238]Cmd: fov 97.0
+[2020.01.22-01.29.18:147][239]Cmd: fov 97.0
+[2020.01.22-01.29.18:155][240]Cmd: fov 97.0
+[2020.01.22-01.29.18:163][241]Cmd: fov 97.0
+[2020.01.22-01.29.18:172][242]Cmd: fov 97.0
+[2020.01.22-01.29.18:180][243]Cmd: fov 97.0
+[2020.01.22-01.29.18:189][244]Cmd: fov 97.0
+[2020.01.22-01.29.18:198][245]Cmd: fov 97.0
+[2020.01.22-01.29.18:206][246]Cmd: fov 97.0
+[2020.01.22-01.29.18:215][247]Cmd: fov 97.0
+[2020.01.22-01.29.18:224][248]Cmd: fov 97.0
+[2020.01.22-01.29.18:232][249]Cmd: fov 97.0
+[2020.01.22-01.29.18:240][250]Cmd: fov 97.0
+[2020.01.22-01.29.18:249][251]Cmd: fov 97.0
+[2020.01.22-01.29.18:257][252]Cmd: fov 97.0
+[2020.01.22-01.29.18:265][253]Cmd: fov 97.0
+[2020.01.22-01.29.18:273][254]Cmd: fov 97.0
+[2020.01.22-01.29.18:282][255]Cmd: fov 97.0
+[2020.01.22-01.29.18:291][256]Cmd: fov 97.0
+[2020.01.22-01.29.18:299][257]Cmd: fov 97.0
+[2020.01.22-01.29.18:307][258]Cmd: fov 97.0
+[2020.01.22-01.29.18:316][259]Cmd: fov 97.0
+[2020.01.22-01.29.18:325][260]Cmd: fov 97.0
+[2020.01.22-01.29.18:334][261]Cmd: fov 97.0
+[2020.01.22-01.29.18:342][262]Cmd: fov 97.0
+[2020.01.22-01.29.18:350][263]Cmd: fov 97.0
+[2020.01.22-01.29.18:359][264]Cmd: fov 97.0
+[2020.01.22-01.29.18:368][265]Cmd: fov 97.0
+[2020.01.22-01.29.18:377][266]Cmd: fov 97.0
+[2020.01.22-01.29.18:386][267]Cmd: fov 97.0
+[2020.01.22-01.29.18:395][268]Cmd: fov 97.0
+[2020.01.22-01.29.18:404][269]Cmd: fov 97.0
+[2020.01.22-01.29.18:412][270]Cmd: fov 97.0
+[2020.01.22-01.29.18:420][271]Cmd: fov 97.0
+[2020.01.22-01.29.18:428][272]Cmd: fov 97.0
+[2020.01.22-01.29.18:437][273]Cmd: fov 97.0
+[2020.01.22-01.29.18:445][274]Cmd: fov 97.0
+[2020.01.22-01.29.18:453][275]Cmd: fov 97.0
+[2020.01.22-01.29.18:462][276]Cmd: fov 97.0
+[2020.01.22-01.29.18:470][277]Cmd: fov 97.0
+[2020.01.22-01.29.18:478][278]Cmd: fov 97.0
+[2020.01.22-01.29.18:487][279]Cmd: fov 97.0
+[2020.01.22-01.29.18:495][280]Cmd: fov 97.0
+[2020.01.22-01.29.18:503][281]Cmd: fov 97.0
+[2020.01.22-01.29.18:511][282]Cmd: fov 97.0
+[2020.01.22-01.29.18:520][283]Cmd: fov 97.0
+[2020.01.22-01.29.18:529][284]Cmd: fov 97.0
+[2020.01.22-01.29.18:538][285]Cmd: fov 97.0
+[2020.01.22-01.29.18:546][286]Cmd: fov 97.0
+[2020.01.22-01.29.18:555][287]Cmd: fov 97.0
+[2020.01.22-01.29.18:564][288]Cmd: fov 97.0
+[2020.01.22-01.29.18:572][289]Cmd: fov 97.0
+[2020.01.22-01.29.18:581][290]Cmd: fov 97.0
+[2020.01.22-01.29.18:589][291]Cmd: fov 97.0
+[2020.01.22-01.29.18:597][292]Cmd: fov 97.0
+[2020.01.22-01.29.18:606][293]Cmd: fov 97.0
+[2020.01.22-01.29.18:614][294]Cmd: fov 97.0
+[2020.01.22-01.29.18:625][295]Cmd: fov 97.0
+[2020.01.22-01.29.18:635][296]Cmd: fov 97.0
+[2020.01.22-01.29.18:645][297]Cmd: fov 97.0
+[2020.01.22-01.29.18:655][298]Cmd: fov 97.0
+[2020.01.22-01.29.18:664][299]Cmd: fov 97.0
+[2020.01.22-01.29.18:672][300]Cmd: fov 97.0
+[2020.01.22-01.29.18:681][301]Cmd: fov 97.0
+[2020.01.22-01.29.18:690][302]Cmd: fov 97.0
+[2020.01.22-01.29.18:698][303]Cmd: fov 97.0
+[2020.01.22-01.29.18:707][304]Cmd: fov 97.0
+[2020.01.22-01.29.18:716][305]Cmd: fov 97.0
+[2020.01.22-01.29.18:725][306]Cmd: fov 96.912048
+[2020.01.22-01.29.18:733][307]Cmd: fov 96.802368
+[2020.01.22-01.29.18:741][308]Cmd: fov 96.681221
+[2020.01.22-01.29.18:750][309]Cmd: fov 96.541641
+[2020.01.22-01.29.18:758][310]Cmd: fov 96.383888
+[2020.01.22-01.29.18:767][311]Cmd: fov 96.214775
+[2020.01.22-01.29.18:776][312]Cmd: fov 96.036835
+[2020.01.22-01.29.18:784][313]Cmd: fov 95.83213
+[2020.01.22-01.29.18:794][314]Cmd: fov 95.605652
+[2020.01.22-01.29.18:802][315]Cmd: fov 95.388504
+[2020.01.22-01.29.18:811][316]Cmd: fov 95.168686
+[2020.01.22-01.29.18:819][317]Cmd: fov 94.941597
+[2020.01.22-01.29.18:828][318]Cmd: fov 94.693085
+[2020.01.22-01.29.18:837][319]Cmd: fov 94.454453
+[2020.01.22-01.29.18:845][320]Cmd: fov 94.206635
+[2020.01.22-01.29.18:854][321]Cmd: fov 93.952896
+[2020.01.22-01.29.18:862][322]Cmd: fov 93.70092
+[2020.01.22-01.29.18:871][323]Cmd: fov 93.443405
+[2020.01.22-01.29.18:879][324]Cmd: fov 93.184052
+[2020.01.22-01.29.18:888][325]Cmd: fov 92.919762
+[2020.01.22-01.29.18:897][326]Cmd: fov 92.663651
+[2020.01.22-01.29.18:906][327]Cmd: fov 92.413048
+[2020.01.22-01.29.18:915][328]Cmd: fov 92.15596
+[2020.01.22-01.29.18:924][329]Cmd: fov 91.908081
+[2020.01.22-01.29.18:933][330]Cmd: fov 91.663803
+[2020.01.22-01.29.18:946][331]Cmd: fov 91.310081
+[2020.01.22-01.29.18:956][332]Cmd: fov 91.091019
+[2020.01.22-01.29.18:965][333]Cmd: fov 90.865669
+[2020.01.22-01.29.18:975][334]Cmd: fov 90.66713
+[2020.01.22-01.29.18:983][335]Cmd: fov 90.500847
+[2020.01.22-01.29.18:993][336]Cmd: fov 90.32724
+[2020.01.22-01.29.19:002][337]Cmd: fov 90.184135
+[2020.01.22-01.29.19:012][338]Cmd: fov 90.05011
+[2020.01.22-01.29.19:021][339]Cmd: fov 90.0
+[2020.01.22-01.29.19:109][349]Cmd: fov 90.113304
+[2020.01.22-01.29.19:117][350]Cmd: fov 90.25209
+[2020.01.22-01.29.19:126][351]Cmd: fov 90.405502
+[2020.01.22-01.29.19:135][352]Cmd: fov 90.568916
+[2020.01.22-01.29.19:144][353]Cmd: fov 90.745232
+[2020.01.22-01.29.19:153][354]Cmd: fov 90.934746
+[2020.01.22-01.29.19:161][355]Cmd: fov 91.138702
+[2020.01.22-01.29.19:170][356]Cmd: fov 91.342888
+[2020.01.22-01.29.19:178][357]Cmd: fov 91.565552
+[2020.01.22-01.29.19:188][358]Cmd: fov 91.821861
+[2020.01.22-01.29.19:196][359]Cmd: fov 92.051399
+[2020.01.22-01.29.19:205][360]Cmd: fov 92.302994
+[2020.01.22-01.29.19:217][361]Cmd: fov 92.616844
+[2020.01.22-01.29.19:227][362]Cmd: fov 92.927628
+[2020.01.22-01.29.19:236][363]Cmd: fov 93.193443
+[2020.01.22-01.29.19:245][364]Cmd: fov 93.458389
+[2020.01.22-01.29.19:253][365]Cmd: fov 93.728477
+[2020.01.22-01.29.19:263][366]Cmd: fov 94.001091
+[2020.01.22-01.29.19:272][367]Cmd: fov 94.273628
+[2020.01.22-01.29.19:280][368]Cmd: fov 94.522087
+[2020.01.22-01.29.19:289][369]Cmd: fov 94.761673
+[2020.01.22-01.29.19:297][370]Cmd: fov 94.99646
+[2020.01.22-01.29.19:306][371]Cmd: fov 95.246719
+[2020.01.22-01.29.19:317][372]Cmd: fov 95.5159
+[2020.01.22-01.29.19:328][373]Cmd: fov 95.777687
+[2020.01.22-01.29.19:337][374]Cmd: fov 95.992393
+[2020.01.22-01.29.19:345][375]Cmd: fov 96.173141
+[2020.01.22-01.29.19:354][376]Cmd: fov 96.347694
+[2020.01.22-01.29.19:362][377]Cmd: fov 96.502388
+[2020.01.22-01.29.19:371][378]Cmd: fov 96.652435
+[2020.01.22-01.29.19:379][379]Cmd: fov 96.77623
+[2020.01.22-01.29.19:388][380]Cmd: fov 96.883575
+[2020.01.22-01.29.19:397][381]Cmd: fov 96.98317
+[2020.01.22-01.29.19:406][382]Cmd: fov 97.0
+[2020.01.22-01.29.19:414][383]Cmd: fov 97.0
+[2020.01.22-01.29.19:423][384]Cmd: fov 97.0
+[2020.01.22-01.29.19:431][385]Cmd: fov 97.0
+[2020.01.22-01.29.19:440][386]Cmd: fov 97.0
+[2020.01.22-01.29.19:448][387]Cmd: fov 97.0
+[2020.01.22-01.29.19:456][388]Cmd: fov 97.0
+[2020.01.22-01.29.19:465][389]Cmd: fov 97.0
+[2020.01.22-01.29.19:473][390]Cmd: fov 97.0
+[2020.01.22-01.29.19:482][391]Cmd: fov 97.0
+[2020.01.22-01.29.19:492][392]Cmd: fov 97.0
+[2020.01.22-01.29.19:500][393]Cmd: fov 97.0
+[2020.01.22-01.29.19:508][394]Cmd: fov 97.0
+[2020.01.22-01.29.19:517][395]Cmd: fov 97.0
+[2020.01.22-01.29.19:527][396]Cmd: fov 97.0
+[2020.01.22-01.29.19:535][397]Cmd: fov 97.0
+[2020.01.22-01.29.19:543][398]Cmd: fov 97.0
+[2020.01.22-01.29.19:552][399]Cmd: fov 97.0
+[2020.01.22-01.29.19:561][400]Cmd: fov 97.0
+[2020.01.22-01.29.19:570][401]Cmd: fov 97.0
+[2020.01.22-01.29.19:578][402]Cmd: fov 97.0
+[2020.01.22-01.29.19:587][403]Cmd: fov 97.0
+[2020.01.22-01.29.19:595][404]Cmd: fov 97.0
+[2020.01.22-01.29.19:603][405]Cmd: fov 97.0
+[2020.01.22-01.29.19:612][406]Cmd: fov 97.0
+[2020.01.22-01.29.19:620][407]Cmd: fov 97.0
+[2020.01.22-01.29.19:628][408]Cmd: fov 97.0
+[2020.01.22-01.29.19:637][409]Cmd: fov 97.0
+[2020.01.22-01.29.19:645][410]Cmd: fov 97.0
+[2020.01.22-01.29.19:654][411]Cmd: fov 97.0
+[2020.01.22-01.29.19:662][412]Cmd: fov 97.0
+[2020.01.22-01.29.19:670][413]Cmd: fov 97.0
+[2020.01.22-01.29.19:680][414]Cmd: fov 97.0
+[2020.01.22-01.29.19:688][415]Cmd: fov 97.0
+[2020.01.22-01.29.19:697][416]Cmd: fov 97.0
+[2020.01.22-01.29.19:705][417]Cmd: fov 97.0
+[2020.01.22-01.29.19:714][418]Cmd: fov 97.0
+[2020.01.22-01.29.19:722][419]Cmd: fov 97.0
+[2020.01.22-01.29.19:730][420]Cmd: fov 97.0
+[2020.01.22-01.29.19:739][421]Cmd: fov 97.0
+[2020.01.22-01.29.19:747][422]Cmd: fov 97.0
+[2020.01.22-01.29.19:756][423]Cmd: fov 97.0
+[2020.01.22-01.29.19:764][424]Cmd: fov 97.0
+[2020.01.22-01.29.19:773][425]Cmd: fov 97.0
+[2020.01.22-01.29.19:781][426]Cmd: fov 97.0
+[2020.01.22-01.29.19:790][427]Cmd: fov 97.0
+[2020.01.22-01.29.19:798][428]Cmd: fov 97.0
+[2020.01.22-01.29.19:807][429]Cmd: fov 97.0
+[2020.01.22-01.29.19:815][430]Cmd: fov 97.0
+[2020.01.22-01.29.19:823][431]Cmd: fov 97.0
+[2020.01.22-01.29.19:832][432]Cmd: fov 97.0
+[2020.01.22-01.29.19:840][433]Cmd: fov 97.0
+[2020.01.22-01.29.19:848][434]Cmd: fov 97.0
+[2020.01.22-01.29.19:857][435]Cmd: fov 97.0
+[2020.01.22-01.29.19:865][436]Cmd: fov 97.0
+[2020.01.22-01.29.19:874][437]Cmd: fov 97.0
+[2020.01.22-01.29.19:882][438]Cmd: fov 97.0
+[2020.01.22-01.29.19:890][439]Cmd: fov 97.0
+[2020.01.22-01.29.19:899][440]Cmd: fov 97.0
+[2020.01.22-01.29.19:908][441]Cmd: fov 97.0
+[2020.01.22-01.29.19:916][442]Cmd: fov 97.0
+[2020.01.22-01.29.19:924][443]Cmd: fov 97.0
+[2020.01.22-01.29.19:932][444]Cmd: fov 97.0
+[2020.01.22-01.29.19:941][445]Cmd: fov 97.0
+[2020.01.22-01.29.19:950][446]Cmd: fov 97.0
+[2020.01.22-01.29.19:959][447]Cmd: fov 97.0
+[2020.01.22-01.29.19:967][448]Cmd: fov 97.0
+[2020.01.22-01.29.19:976][449]Cmd: fov 97.0
+[2020.01.22-01.29.19:984][450]Cmd: fov 97.0
+[2020.01.22-01.29.19:992][451]Cmd: fov 97.0
+[2020.01.22-01.29.20:001][452]Cmd: fov 97.0
+[2020.01.22-01.29.20:010][453]Cmd: fov 97.0
+[2020.01.22-01.29.20:019][454]Cmd: fov 97.0
+[2020.01.22-01.29.20:029][455]Cmd: fov 97.0
+[2020.01.22-01.29.20:037][456]Cmd: fov 97.0
+[2020.01.22-01.29.20:046][457]Cmd: fov 97.0
+[2020.01.22-01.29.20:059][458]Cmd: fov 97.0
+[2020.01.22-01.29.20:068][459]Cmd: fov 97.0
+[2020.01.22-01.29.20:077][460]Cmd: fov 97.0
+[2020.01.22-01.29.20:085][461]Cmd: fov 97.0
+[2020.01.22-01.29.20:094][462]Cmd: fov 97.0
+[2020.01.22-01.29.20:103][463]Cmd: fov 97.0
+[2020.01.22-01.29.20:111][464]Cmd: fov 97.0
+[2020.01.22-01.29.20:119][465]Cmd: fov 97.0
+[2020.01.22-01.29.20:128][466]Cmd: fov 97.0
+[2020.01.22-01.29.20:137][467]Cmd: fov 97.0
+[2020.01.22-01.29.20:145][468]Cmd: fov 97.0
+[2020.01.22-01.29.20:156][469]Cmd: fov 97.0
+[2020.01.22-01.29.20:164][470]Cmd: fov 97.0
+[2020.01.22-01.29.20:172][471]Cmd: fov 97.0
+[2020.01.22-01.29.20:181][472]Cmd: fov 97.0
+[2020.01.22-01.29.20:189][473]Cmd: fov 97.0
+[2020.01.22-01.29.20:197][474]Cmd: fov 97.0
+[2020.01.22-01.29.20:206][475]Cmd: fov 97.0
+[2020.01.22-01.29.20:214][476]Cmd: fov 97.0
+[2020.01.22-01.29.20:223][477]Cmd: fov 97.0
+[2020.01.22-01.29.20:232][478]Cmd: fov 97.0
+[2020.01.22-01.29.20:241][479]Cmd: fov 97.0
+[2020.01.22-01.29.20:249][480]Cmd: fov 97.0
+[2020.01.22-01.29.20:258][481]Cmd: fov 97.0
+[2020.01.22-01.29.20:266][482]Cmd: fov 97.0
+[2020.01.22-01.29.20:275][483]Cmd: fov 97.0
+[2020.01.22-01.29.20:285][484]Cmd: fov 97.0
+[2020.01.22-01.29.20:293][485]Cmd: fov 97.0
+[2020.01.22-01.29.20:301][486]Cmd: fov 97.0
+[2020.01.22-01.29.20:310][487]Cmd: fov 97.0
+[2020.01.22-01.29.20:318][488]Cmd: fov 97.0
+[2020.01.22-01.29.20:327][489]Cmd: fov 97.0
+[2020.01.22-01.29.20:336][490]Cmd: fov 97.0
+[2020.01.22-01.29.20:345][491]Cmd: fov 97.0
+[2020.01.22-01.29.20:354][492]Cmd: fov 97.0
+[2020.01.22-01.29.20:365][493]Cmd: fov 97.0
+[2020.01.22-01.29.20:373][494]Cmd: fov 97.0
+[2020.01.22-01.29.20:382][495]Cmd: fov 97.0
+[2020.01.22-01.29.20:391][496]Cmd: fov 97.0
+[2020.01.22-01.29.20:400][497]Cmd: fov 97.0
+[2020.01.22-01.29.20:408][498]Cmd: fov 97.0
+[2020.01.22-01.29.20:417][499]Cmd: fov 97.0
+[2020.01.22-01.29.20:424][500]Cmd: fov 97.0
+[2020.01.22-01.29.20:433][501]Cmd: fov 97.0
+[2020.01.22-01.29.20:443][502]Cmd: fov 97.0
+[2020.01.22-01.29.20:452][503]Cmd: fov 97.0
+[2020.01.22-01.29.20:460][504]Cmd: fov 97.0
+[2020.01.22-01.29.20:471][505]Cmd: fov 97.0
+[2020.01.22-01.29.20:479][506]Cmd: fov 97.0
+[2020.01.22-01.29.20:487][507]Cmd: fov 97.0
+[2020.01.22-01.29.20:496][508]Cmd: fov 97.0
+[2020.01.22-01.29.20:505][509]Cmd: fov 97.0
+[2020.01.22-01.29.20:513][510]Cmd: fov 97.0
+[2020.01.22-01.29.20:521][511]Cmd: fov 97.0
+[2020.01.22-01.29.20:530][512]Cmd: fov 97.0
+[2020.01.22-01.29.20:539][513]Cmd: fov 97.0
+[2020.01.22-01.29.20:548][514]Cmd: fov 97.0
+[2020.01.22-01.29.20:556][515]Cmd: fov 97.0
+[2020.01.22-01.29.20:565][516]Cmd: fov 97.0
+[2020.01.22-01.29.20:574][517]Cmd: fov 97.0
+[2020.01.22-01.29.20:582][518]Cmd: fov 97.0
+[2020.01.22-01.29.20:590][519]Cmd: fov 97.0
+[2020.01.22-01.29.20:600][520]Cmd: fov 97.0
+[2020.01.22-01.29.20:609][521]Cmd: fov 97.0
+[2020.01.22-01.29.20:617][522]Cmd: fov 97.0
+[2020.01.22-01.29.20:626][523]Cmd: fov 97.0
+[2020.01.22-01.29.20:635][524]Cmd: fov 97.0
+[2020.01.22-01.29.20:643][525]Cmd: fov 97.0
+[2020.01.22-01.29.20:651][526]Cmd: fov 97.0
+[2020.01.22-01.29.20:660][527]Cmd: fov 97.0
+[2020.01.22-01.29.20:669][528]Cmd: fov 97.0
+[2020.01.22-01.29.20:678][529]Cmd: fov 97.0
+[2020.01.22-01.29.20:686][530]Cmd: fov 97.0
+[2020.01.22-01.29.20:695][531]Cmd: fov 97.0
+[2020.01.22-01.29.20:703][532]Cmd: fov 97.0
+[2020.01.22-01.29.20:711][533]Cmd: fov 97.0
+[2020.01.22-01.29.20:720][534]Cmd: fov 97.0
+[2020.01.22-01.29.20:728][535]Cmd: fov 97.0
+[2020.01.22-01.29.20:737][536]Cmd: fov 97.0
+[2020.01.22-01.29.20:746][537]Cmd: fov 97.0
+[2020.01.22-01.29.20:755][538]Cmd: fov 97.0
+[2020.01.22-01.29.20:765][539]Cmd: fov 97.0
+[2020.01.22-01.29.20:774][540]Cmd: fov 97.0
+[2020.01.22-01.29.20:784][541]Cmd: fov 97.0
+[2020.01.22-01.29.20:792][542]Cmd: fov 97.0
+[2020.01.22-01.29.20:800][543]Cmd: fov 97.0
+[2020.01.22-01.29.20:809][544]Cmd: fov 97.0
+[2020.01.22-01.29.20:817][545]Cmd: fov 97.0
+[2020.01.22-01.29.20:825][546]Cmd: fov 97.0
+[2020.01.22-01.29.20:835][547]Cmd: fov 97.0
+[2020.01.22-01.29.20:844][548]Cmd: fov 97.0
+[2020.01.22-01.29.20:852][549]Cmd: fov 97.0
+[2020.01.22-01.29.20:861][550]Cmd: fov 97.0
+[2020.01.22-01.29.20:871][551]Cmd: fov 97.0
+[2020.01.22-01.29.20:879][552]Cmd: fov 97.0
+[2020.01.22-01.29.20:887][553]Cmd: fov 97.0
+[2020.01.22-01.29.20:897][554]Cmd: fov 97.0
+[2020.01.22-01.29.26:376][188]Cmd: fov 97.0
+[2020.01.22-01.29.26:385][189]Cmd: fov 97.0
+[2020.01.22-01.29.26:395][190]Cmd: fov 97.0
+[2020.01.22-01.29.26:403][191]Cmd: fov 97.0
+[2020.01.22-01.29.26:412][192]Cmd: fov 97.0
+[2020.01.22-01.29.26:421][193]Cmd: fov 97.0
+[2020.01.22-01.29.26:429][194]Cmd: fov 97.0
+[2020.01.22-01.29.26:438][195]Cmd: fov 97.0
+[2020.01.22-01.29.26:447][196]Cmd: fov 97.0
+[2020.01.22-01.29.26:455][197]Cmd: fov 97.0
+[2020.01.22-01.29.26:464][198]Cmd: fov 97.0
+[2020.01.22-01.29.26:473][199]Cmd: fov 97.0
+[2020.01.22-01.29.26:484][200]Cmd: fov 97.0
+[2020.01.22-01.29.26:493][201]Cmd: fov 97.0
+[2020.01.22-01.29.26:502][202]Cmd: fov 97.0
+[2020.01.22-01.29.26:511][203]Cmd: fov 97.0
+[2020.01.22-01.29.26:521][204]Cmd: fov 97.0
+[2020.01.22-01.29.26:530][205]Cmd: fov 97.0
+[2020.01.22-01.29.26:539][206]Cmd: fov 97.0
+[2020.01.22-01.29.26:547][207]Cmd: fov 97.0
+[2020.01.22-01.29.26:556][208]Cmd: fov 97.0
+[2020.01.22-01.29.26:564][209]Cmd: fov 97.0
+[2020.01.22-01.29.26:573][210]Cmd: fov 97.0
+[2020.01.22-01.29.26:581][211]Cmd: fov 97.0
+[2020.01.22-01.29.26:591][212]Cmd: fov 97.0
+[2020.01.22-01.29.26:602][213]Cmd: fov 97.0
+[2020.01.22-01.29.26:610][214]Cmd: fov 97.0
+[2020.01.22-01.29.26:619][215]Cmd: fov 97.0
+[2020.01.22-01.29.26:628][216]Cmd: fov 97.0
+[2020.01.22-01.29.26:636][217]Cmd: fov 97.0
+[2020.01.22-01.29.26:644][218]Cmd: fov 97.0
+[2020.01.22-01.29.26:654][219]Cmd: fov 97.0
+[2020.01.22-01.29.26:662][220]Cmd: fov 97.0
+[2020.01.22-01.29.26:670][221]Cmd: fov 97.0
+[2020.01.22-01.29.26:679][222]Cmd: fov 97.0
+[2020.01.22-01.29.26:687][223]Cmd: fov 97.0
+[2020.01.22-01.29.26:696][224]Cmd: fov 97.0
+[2020.01.22-01.29.26:704][225]Cmd: fov 97.0
+[2020.01.22-01.29.26:713][226]Cmd: fov 96.916298
+[2020.01.22-01.29.26:720][227]Cmd: fov 96.814796
+[2020.01.22-01.29.26:730][228]Cmd: fov 96.68895
+[2020.01.22-01.29.26:739][229]Cmd: fov 96.532227
+[2020.01.22-01.29.26:747][230]Cmd: fov 96.380424
+[2020.01.22-01.29.26:756][231]Cmd: fov 96.21508
+[2020.01.22-01.29.26:765][232]Cmd: fov 96.017921
+[2020.01.22-01.29.26:774][233]Cmd: fov 95.814949
+[2020.01.22-01.29.26:782][234]Cmd: fov 95.608528
+[2020.01.22-01.29.26:791][235]Cmd: fov 95.385399
+[2020.01.22-01.29.26:800][236]Cmd: fov 95.148537
+[2020.01.22-01.29.26:809][237]Cmd: fov 94.893066
+[2020.01.22-01.29.26:820][238]Cmd: fov 94.612465
+[2020.01.22-01.29.26:830][239]Cmd: fov 94.326187
+[2020.01.22-01.29.26:839][240]Cmd: fov 94.036018
+[2020.01.22-01.29.26:848][241]Cmd: fov 93.765152
+[2020.01.22-01.29.26:857][242]Cmd: fov 93.48925
+[2020.01.22-01.29.26:866][243]Cmd: fov 93.240082
+[2020.01.22-01.29.26:874][244]Cmd: fov 92.982666
+[2020.01.22-01.29.26:883][245]Cmd: fov 92.721756
+[2020.01.22-01.29.26:892][246]Cmd: fov 92.474541
+[2020.01.22-01.29.26:901][247]Cmd: fov 92.212723
+[2020.01.22-01.29.26:910][248]Cmd: fov 91.969696
+[2020.01.22-01.29.26:918][249]Cmd: fov 91.742455
+[2020.01.22-01.29.26:927][250]Cmd: fov 91.503677
+[2020.01.22-01.29.26:936][251]Cmd: fov 91.275726
+[2020.01.22-01.29.26:945][252]Cmd: fov 91.0588
+[2020.01.22-01.29.26:954][253]Cmd: fov 90.857971
+[2020.01.22-01.29.26:963][254]Cmd: fov 90.657234
+[2020.01.22-01.29.26:972][255]Cmd: fov 90.489594
+[2020.01.22-01.29.26:980][256]Cmd: fov 90.339935
+[2020.01.22-01.29.26:989][257]Cmd: fov 90.197472
+[2020.01.22-01.29.26:997][258]Cmd: fov 90.079933
+[2020.01.22-01.29.27:006][259]Cmd: fov 90.0
+[2020.01.22-01.29.29:422][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.22-01.29.29:422][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.22-01.29.29:422][536]LogWorld: BeginTearingDown for /Game/_LaserPuzzle/Levels/UEDPIE_0_testDeMecanicas
+[2020.01.22-01.29.29:429][536]LogSlate: Window 'laserPuzzle Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.22-01.29.29:435][536]LogWorld: UWorld::CleanupWorld for testDeMecanicas, bSessionEnded=true, bCleanupResources=true
+[2020.01.22-01.29.29:451][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.22-01.29.29:451][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel' has LevelScriptBlueprint '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas' with GeneratedClass '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas_C' with ClassGeneratedBy '/Game/_LaserPuzzle/Levels/testDeMecanicas.testDeMecanicas:PersistentLevel.testDeMecanicas'
+[2020.01.22-01.29.29:498][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.01.22-01.29.29:543][538]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.22-01.29.34:723][111]LogEditorViewport: Clicking on Actor (LMB): reflectorREIMAGINED_C (reflectorREIMAGINED)
+[2020.01.22-01.29.39:619][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.22-01.30.12:053][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/reflectorREIMAGINED.reflectorREIMAGINED
+[2020.01.22-01.30.18:144][ 61]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_LaserPuzzle/BPs/Emiter.Emiter
+[2020.01.22-01.31.08:407][366]LogUObjectBase: Warning: Object is not registered
+[2020.01.22-01.31.08:644][366]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.22-01.31.10:986][366]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.342 s
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: 
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: Stack: 
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdbb975279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdbb197fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdbb1a622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdc1746c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdbe844dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdbe7fe057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdca7dd644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdca9cc533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdca82922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdca805738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdca7f9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdf6034c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdf60226df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdf6037340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdf601edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffe24305b6d USER32.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffe24305562 USER32.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffdf60388e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ff695de6980 UE4Editor.exe!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ff695dfa91c UE4Editor.exe!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ff695dfa9fa UE4Editor.exe!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ff695e0b92c UE4Editor.exe!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ff695e0e60e UE4Editor.exe!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffe23cb7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: [Callstack] 0x00007ffe245eced1 ntdll.dll!UnknownFunction []
+[2020.01.22-01.31.10:986][366]LogOutputDevice: Error: 
+[2020.01.22-01.31.10:997][366]LogStats:                SubmitErrorReport -  0.000 s
